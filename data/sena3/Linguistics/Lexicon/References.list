@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<References>
+	<CmPossibilityList
+		guid="73f92344-2535-4f7f-aa4d-83908f4e3b2b">
+		<Abbreviation>
+			<AUni
+				ws="en">LexRefTyp</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-6-22 13:56:13.633" />
+		<DateModified
+			val="2006-9-6 21:9:12.577" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="true" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="5119" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Lexical Relations</AUni>
+			<AUni
+				ws="pt">Relações Lexicais</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="LexRefType"
+				guid="d8f74494-0d15-47d1-b39c-8cff37deb54d">
+				<Abbreviation>
+					<AUni
+						ws="en">pt</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-8-10 20:20:49.780" />
+				<DateModified
+					val="2005-8-10 20:20:49.780" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A part/whole relation establishes a link between the sense for the whole (e.g., room), and senses for the parts (e.g., ceiling, wall, floor).</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="e6f4ce16-7088-4ff5-b8c2-2a5a7cf302f3">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="29a40bb6-fde9-40e8-8e00-ca29e7163d67">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="3" />
+				<Name>
+					<AUni
+						ws="en">Part</AUni>
+				</Name>
+				<ReverseAbbreviation>
+					<AUni
+						ws="en">wh</AUni>
+				</ReverseAbbreviation>
+				<ReverseName>
+					<AUni
+						ws="en">Whole</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="ffdbaf2d-44a0-4194-ae05-2f00b7349eba">
+				<Abbreviation>
+					<AUni
+						ws="en">spec</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-8-10 20:20:49.797" />
+				<DateModified
+					val="2005-8-10 20:20:49.797" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A generic/specific relation establishes a link between the sense for the generic (e.g., bird), and senses for the specifics (e.g., robin, cardinal, dove).</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="8d41c3cc-15c2-482f-a34d-6dc84fa3b536">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="e423aa99-07a0-4e7c-bcf9-0d658f0bd9e4">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="3" />
+				<Name>
+					<AUni
+						ws="en">Specific</AUni>
+				</Name>
+				<ReverseAbbreviation>
+					<AUni
+						ws="en">gen</AUni>
+				</ReverseAbbreviation>
+				<ReverseName>
+					<AUni
+						ws="en">Generic</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="854fc2a8-c0e0-4b72-8611-314a21467fe4">
+				<Abbreviation>
+					<AUni
+						ws="en">syn</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-8-10 20:20:49.797" />
+				<DateModified
+					val="2006-9-22 20:33:19.207" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this type for synonym relationships (e.g., fast, fleet, hasty).</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="b7d5bb8a-bed0-4574-b2ac-14fbd20f5364">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="3ba3c026-568d-4efd-8451-7db162774cd4">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="0" />
+				<Members>
+					<LexReference
+						guid="07ff29e6-077e-43a9-bf3c-c5d503b95682">
+						<Targets>
+							<refseq
+								guid="f0e9d8bd-0e19-4510-aae0-288ef6845e6c"
+								t="r" />
+							<refseq
+								guid="b20a8b8c-6dbe-404b-9e5f-5a1803329125"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="17294c05-0bd7-4a96-8358-debd9bafef26">
+						<Targets>
+							<refseq
+								guid="72f793c5-1b2c-43f0-9754-7dc192c6d153"
+								t="r" />
+							<refseq
+								guid="1331035e-4a2d-4ede-b72a-8db3d2893ea6"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="22314be9-3246-4d2d-900a-0942127e1cf8">
+						<Targets>
+							<refseq
+								guid="16f52de8-f3c0-4eb0-bb16-e5ead6689294"
+								t="r" />
+							<refseq
+								guid="82e9e4c7-3572-4246-8a6b-5dc29d16a278"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="296a1e53-3a00-4918-8f3d-f6b83e3d8590">
+						<Targets>
+							<refseq
+								guid="e233ed05-a5c5-4db6-a8a7-549a611a0ae5"
+								t="r" />
+							<refseq
+								guid="ce9787bb-6789-49f9-9981-27b1724cef66"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="412d3f06-deb3-4bc5-bb4f-939e0ec76bc3">
+						<Targets>
+							<refseq
+								guid="9acfd40f-6073-4cb3-b6e4-38be96b09fb8"
+								t="r" />
+							<refseq
+								guid="995cf936-0b6c-4adf-944b-e4df71b077c0"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="7afe408d-1a36-4098-82cd-44a44df200a6">
+						<Targets>
+							<refseq
+								guid="7b954282-dabd-4a06-bfd7-4ab1d972d915"
+								t="r" />
+							<refseq
+								guid="bb5431f8-9a7d-400b-90e3-176019ee4836"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="88328cd3-ce70-486d-859f-4b37aed9706c">
+						<Targets>
+							<refseq
+								guid="ab06a13e-8c8a-4c08-ace1-1dbe151d6a1f"
+								t="r" />
+							<refseq
+								guid="f2111a87-c2b3-4aba-85c5-6f988e989c56"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="8cbd01f2-6480-4764-8ca9-2363d10017bc">
+						<Targets>
+							<refseq
+								guid="b6779c26-0a60-4de2-b6f2-110d923d6882"
+								t="r" />
+							<refseq
+								guid="c6142fea-e652-40b7-b102-80fa25f41171"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="9bba90d2-8576-422c-83c9-645e9010e9ae">
+						<Targets>
+							<refseq
+								guid="e088214d-88f2-4594-8f98-1f4f7c29dc65"
+								t="r" />
+							<refseq
+								guid="fb463714-a764-41a6-930d-72042a2d09ec"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="a0191e48-50f0-49de-9b2e-e60cc074c07d">
+						<Targets>
+							<refseq
+								guid="089f49ef-98ab-4903-8e66-1872c4fa94e6"
+								t="r" />
+							<refseq
+								guid="62e86835-8499-4ebd-9f9b-5cf669ed0cbf"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="b6e8d11a-8433-4c93-9319-10962d76cd74">
+						<Targets>
+							<refseq
+								guid="e138d2ab-fea1-421d-bd27-1a901309ac1a"
+								t="r" />
+							<refseq
+								guid="5f043f8f-1df7-4c70-9139-ff69c4333bfd"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="bcea33b1-80df-486f-b7e1-73576a546ba1">
+						<Targets>
+							<refseq
+								guid="eca32c60-3044-4c43-9ba3-7192e3155034"
+								t="r" />
+							<refseq
+								guid="3e72de5a-4584-4551-b5e1-b6d8fe9be15e"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="beb5ee13-8e8b-4841-b08c-d8012221a2eb">
+						<Targets>
+							<refseq
+								guid="92947ad8-fa32-4f8a-8bb7-5328ea99a859"
+								t="r" />
+							<refseq
+								guid="0f2c0668-a52f-4ce7-83e7-a492905e4f82"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="beccb755-da77-4631-9005-0d01c3d143d1">
+						<Targets>
+							<refseq
+								guid="c5a05a9b-8a7b-4b30-90b3-a22a0ede868c"
+								t="r" />
+							<refseq
+								guid="e98d8742-759c-40bd-a462-485372657540"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="bf71abc0-cc74-4db8-818a-d9482992fff8">
+						<Targets>
+							<refseq
+								guid="8ab4bf03-6757-4e6f-af7a-13262f5fc23c"
+								t="r" />
+							<refseq
+								guid="d2999056-d762-47c7-966a-8f2fc20d1272"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="c034dbe6-26f7-4804-a389-fb84dda0f156">
+						<Targets>
+							<refseq
+								guid="c1d23b8f-a05f-4b3e-a205-00622c51d630"
+								t="r" />
+							<refseq
+								guid="309c1c0c-cb5e-466b-a081-427e61ca781b"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="de0ab104-b54a-4a76-8cac-96a3d9074e04">
+						<Targets>
+							<refseq
+								guid="80680b95-8ea8-4951-937e-0d3f5ef81de4"
+								t="r" />
+							<refseq
+								guid="57bd9b42-76ed-4fa4-8a43-d8ca70973b03"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="e11a5261-37e0-48d7-a23e-033951611776">
+						<Targets>
+							<refseq
+								guid="90b31605-76db-4597-baa8-45ec4fda706d"
+								t="r" />
+							<refseq
+								guid="4e52fc2c-f04f-4397-bf00-9145be555027"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="fd505176-7313-4829-ad7b-1f27faaebbe5">
+						<Targets>
+							<refseq
+								guid="6ccc4bda-d84e-44bc-b401-7a831fe7e78e"
+								t="r" />
+							<refseq
+								guid="e1d99b98-3faa-4fdf-a883-46c21364b777"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="fe08f8e4-cdd0-41fe-a6f9-220fbf4330a3">
+						<Targets>
+							<refseq
+								guid="c9990577-4e77-4b4f-aed5-3ecbbf15a1f6"
+								t="r" />
+							<refseq
+								guid="97315f66-6358-4771-96f7-4ee76436ff8f"
+								t="r" />
+						</Targets>
+					</LexReference>
+				</Members>
+				<Name>
+					<AUni
+						ws="en">Synonyms</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="0b5b04c8-3900-4537-9eec-1346d10507d7">
+				<Abbreviation>
+					<AUni
+						ws="en">ant</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-8-10 20:20:49.797" />
+				<DateModified
+					val="2006-9-6 15:23:4.923" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this type for antonym relationships (e.g., fast, slow).</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="d2888443-71b2-4e2e-a332-b32cf71cd1a7">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="d1775ba0-bfc3-4eca-a733-3da3391d31ed">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="1" />
+				<Members>
+					<LexReference
+						guid="283fc3a4-e7d0-49c7-a3c2-ec68461dc33b">
+						<Targets>
+							<refseq
+								guid="ce9787bb-6789-49f9-9981-27b1724cef66"
+								t="r" />
+							<refseq
+								guid="b3d7c131-2e6c-4715-a476-9cd2f74be96e"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="c634f1b8-831f-43b8-a752-c709fb33658b">
+						<Targets>
+							<refseq
+								guid="e233ed05-a5c5-4db6-a8a7-549a611a0ae5"
+								t="r" />
+							<refseq
+								guid="3e72de5a-4584-4551-b5e1-b6d8fe9be15e"
+								t="r" />
+						</Targets>
+					</LexReference>
+				</Members>
+				<Name>
+					<AUni
+						ws="en">Antonym</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="1ac9f08e-ed72-4775-a18e-3b1330da8618">
+				<Abbreviation>
+					<AUni
+						ws="en">cal</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-8-10 20:20:49.810" />
+				<DateModified
+					val="2005-8-10 20:20:49.810" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this type for calendar relationships (e.g., days of week, months in year).</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="98b89dbd-5934-4819-9eed-2ada02371ea9">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="ec4a6179-9f99-4515-8342-5eb8249e9f98">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="4" />
+				<Name>
+					<AUni
+						ws="en">Calendar</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="de8b0a81-d9cf-402e-b0ce-16c71af341e2">
+				<Abbreviation>
+					<AUni
+						ws="en">cf</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-8-10 20:20:49.810" />
+				<DateModified
+					val="2006-9-7 18:43:12.67" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this type for relationships that cannot be classified by a specific label, or of which there are too few examples to warrant creating a custom lexical relation.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="c84dcdac-3a09-45b0-ba1a-18652709fea7">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="575ba3a4-614d-439f-bbdf-82205cc0ff3b">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="5" />
+				<Members>
+					<LexReference
+						guid="c0ea175b-bcbe-4e2e-9726-132390e183fa">
+						<Targets>
+							<refseq
+								guid="c9e55c8c-2753-4576-b083-890e6f85a3f7"
+								t="r" />
+							<refseq
+								guid="57e0a581-d77a-4fbc-b072-a98398533f3d"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="d46272ec-ec28-426c-a70a-e614526a3590">
+						<Targets>
+							<refseq
+								guid="708ff551-9116-458a-b6a9-ea8eab0beff0"
+								t="r" />
+							<refseq
+								guid="a082d087-1955-4ecd-b823-c0639cbd1b2e"
+								t="r" />
+						</Targets>
+					</LexReference>
+				</Members>
+				<Name>
+					<AUni
+						ws="en">Compare</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="70906d23-7535-4134-b79e-01681015bd4d">
+				<Abbreviation>
+					<AUni
+						ws="en">ety</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2006-9-6 21:5:19.560" />
+				<DateModified
+					val="2009-4-23 20:13:57.460" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">These are words that come from the same root and there is a good reason to have a reminder that they are related. They may not have a related meaning.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="65575d92-cf2a-4f4d-93b2-1e155fb0ebb5">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="54797cae-67d2-4d08-ae5a-67fac5644c33">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="5" />
+				<Members>
+					<LexReference
+						guid="042a5912-07c1-46bb-80f0-e8c726ef22b8">
+						<Targets>
+							<refseq
+								guid="2bde7e2c-9ddc-4de0-b416-c24c0710c2fa"
+								t="r" />
+							<refseq
+								guid="7725611a-fd3d-4009-89b9-caf81ab31e85"
+								t="r" />
+						</Targets>
+					</LexReference>
+					<LexReference
+						guid="12321642-376d-4f61-9d62-d3172bc13b36">
+						<Targets>
+							<refseq
+								guid="21d201da-c91b-4b10-a004-85e69e6864ab"
+								t="r" />
+							<refseq
+								guid="eb2aed24-d79b-4050-809b-ef47bfca4d2e"
+								t="r" />
+						</Targets>
+					</LexReference>
+				</Members>
+				<Name>
+					<AUni
+						ws="en">Etymological</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="LexRefType"
+				guid="baa42b3a-bd67-4f97-8518-e86be27a1f88">
+				<Abbreviation>
+					<AUni
+						ws="en">clf. for</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2009-3-25 21:5:22.830" />
+				<DateModified
+					val="2009-3-25 21:5:22.830" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Use this relation for linking classifiers to the words that they classify.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="f0484140-467c-4c5d-9abc-b21a4ef86108">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="545d8ba5-5df5-4d1a-ba30-e106f4c2a669">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<MappingType
+					val="3" />
+				<Name>
+					<AUni
+						ws="en">Classified Noun</AUni>
+				</Name>
+				<ReverseAbbreviation>
+					<AUni
+						ws="en">clf</AUni>
+				</ReverseAbbreviation>
+				<ReverseName>
+					<AUni
+						ws="en">Classifier</AUni>
+				</ReverseName>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="true" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</References>

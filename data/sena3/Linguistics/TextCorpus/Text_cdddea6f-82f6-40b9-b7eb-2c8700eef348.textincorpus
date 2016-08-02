@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="cdddea6f-82f6-40b9-b7eb-2c8700eef348">
+		<Contents>
+			<StText
+				guid="0fc1fc59-3751-4044-b062-cbd1a4b55d47">
+				<DateModified
+					val="2011-2-2 19:19:27.847" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="7800ab04-d2ff-48b2-9d7d-3f8cbc6b1928">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Wapakila m'mwadia, mbakwira pa mudi na maulo, dzuwa mbidadoka; mbatsama penepo.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="dccf6dad-ddb0-4d5c-85b8-1a8214caa348">
+								<Analyses>
+									<refseq
+										guid="2f9a93de-775b-4207-aacc-ecb56ebec654"
+										t="r" />
+									<refseq
+										guid="b670078d-0954-4a3b-9576-e89a6d3bcea1"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="929116a8-984e-42cd-9857-7057c2323d0b"
+										t="r" />
+									<refseq
+										guid="680f3408-7ce8-45eb-aea2-dc026f433d63"
+										t="r" />
+									<refseq
+										guid="1df5ebcd-2f44-4a5a-bf07-a2fce290ccfe"
+										t="r" />
+									<refseq
+										guid="e6621202-f5ce-4575-a1aa-72ae68e6c76e"
+										t="r" />
+									<refseq
+										guid="92527834-7922-4bb6-af55-c51f689a10d6"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="85b18949-8797-44b0-9169-22ef26c7ff34"
+										t="r" />
+									<refseq
+										guid="072b0fcb-2a91-4266-ae5e-f4cdbedaeb7f"
+										t="r" />
+									<refseq
+										guid="e0f3ee18-7444-4d66-8e6c-4919986cb6b4"
+										t="r" />
+									<refseq
+										guid="277c4c73-937e-4fc3-97cb-e236c9e80448"
+										t="r" />
+									<refseq
+										guid="5c9c3ef3-d885-43c2-a6a1-30adb70b562e"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He embarked in a canoe, and ascended the Zambesi, and arrived at a village in the evening when the sun had set; and he stopped there. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="2ae1a969-efdb-4d2e-919a-ab32c0fee58d">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Na masiku mbazidza nkhalamu ziwiri, mbazirira; mbagopa, mbapakila pontho m'mwadia, mbawambuka ku nsua.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="0fa91a4f-e35d-4b23-b4fb-245e37b897f1">
+								<Analyses>
+									<refseq
+										guid="785b2ecd-1dbf-417e-a157-ec27aaa65881"
+										t="r" />
+									<refseq
+										guid="1bbdd298-4d86-4727-b524-0a153fb763ab"
+										t="r" />
+									<refseq
+										guid="6d7c3749-70f9-4912-a9b0-06cc435ae12c"
+										t="r" />
+									<refseq
+										guid="b7053810-6a74-44bc-b038-2ecc6cbfb9b5"
+										t="r" />
+									<refseq
+										guid="f1ca192f-907d-4830-a84a-90f98a5577ae"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="767a171c-95fa-45d9-a2b1-a9d1cb04d2cd"
+										t="r" />
+									<refseq
+										guid="e0f3ee18-7444-4d66-8e6c-4919986cb6b4"
+										t="r" />
+									<refseq
+										guid="2a9deec2-9021-4a46-9642-df97623b16a2"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="497c21e8-45b0-4515-b69a-19ab6594b44a"
+										t="r" />
+									<refseq
+										guid="5d214c96-19c8-44b4-876c-cb0c9fba6a71"
+										t="r" />
+									<refseq
+										guid="79a38a58-fcd3-4c00-8dc3-8162b482366e"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="c4688528-2a95-4a0a-976c-4ab06250060b"
+										t="r" />
+									<refseq
+										guid="95042710-d64a-46db-b41d-b34a47102dde"
+										t="r" />
+									<refseq
+										guid="1e517a8c-37f3-4a9c-8f08-eb53f04dd09b"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">At night two lions came and roared; and he was afraid, and embarked again in the canoe and crossed over to an island."</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2006-8-15 14:19:26.3" />
+		<DateModified
+			val="2006-9-28 19:15:34.507" />
+		<Description>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">From Anderson. 1897. Sena Grammar.</Run>
+			</AStr>
+			<AStr
+				ws="pt">
+				<Run
+					ws="pt">Anderson, W.G.  1897. An Introductory Grammar of the Sena Language Spoken on the Lower Zambesi.  London:  Society for Promoting Christian Knowledge. p. 27.</Run>
+			</AStr>
+		</Description>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">Canoe trip</AUni>
+			<AUni
+				ws="pt">Embarcou canoa</AUni>
+			<AUni
+				ws="seh">Wapakila m'mwadia</AUni>
+		</Name>
+	</Text>
+</TextInCorpus>

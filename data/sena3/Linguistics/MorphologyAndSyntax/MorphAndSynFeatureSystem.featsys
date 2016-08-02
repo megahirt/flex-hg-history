@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeatureSystem>
+	<FsFeatureSystem
+		guid="46cc0351-d78d-46b4-87ab-59adaa29bd31">
+		<Features>
+			<FsClosedFeature
+				guid="586ef9dd-4ee8-492f-b478-69a98d126081">
+				<Abbreviation>
+					<AUni
+						ws="en">gender</AUni>
+					<AUni
+						ws="pt">genro</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fBantuClass</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="pt">Grammatical gender is a noun class system composed of several classes. All Bantu noun genders are primarily a matter of form. Nouns in a given gender may share some semantic notions, but this is not always the case.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Bantu noun class</AUni>
+					<AUni
+						ws="pt">Classe de nome Bantu</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="0ff81759-536e-4381-b271-06e3eece6e73">
+						<Abbreviation>
+							<AUni
+								ws="en">16</AUni>
+							<AUni
+								ws="pt">16</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender16</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="pt">Gender 16 is a grammatical gender that has a locative sense.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 16</AUni>
+							<AUni
+								ws="pt">Genro 16</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="314759d7-3113-44fa-b58b-5935cdc4757b">
+						<Abbreviation>
+							<AUni
+								ws="en">3</AUni>
+							<AUni
+								ws="pt">3</AUni>
+						</Abbreviation>
+						<Name>
+							<AUni
+								ws="en">Gender 3</AUni>
+							<AUni
+								ws="pt">Genro 3</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="3b9ad749-69a8-4e0b-8313-938201a14032">
+						<Abbreviation>
+							<AUni
+								ws="en">2a</AUni>
+							<AUni
+								ws="pt">2a</AUni>
+						</Abbreviation>
+						<Name>
+							<AUni
+								ws="en">Gender 2a</AUni>
+							<AUni
+								ws="pt">Genro 2a</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="4ca6b213-e53a-4e15-b7a5-54ba0056bd85">
+						<Abbreviation>
+							<AUni
+								ws="en">12/8</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender12.13</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Gender 12/8 is a grammatical gender that (1) marks nouns that are diminutives, augmentatives, derogatives, or amelioratives and (2) may mark nouns having referents that are none of these. Nouns marked for gender 12/13 can be singular (class 12) or plural (class 13).</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 12/8</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="56a01a3f-024a-432e-803c-01e7659e2ff1">
+						<Abbreviation>
+							<AUni
+								ws="en">6a</AUni>
+							<AUni
+								ws="pt">6a</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender6a</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 6a is a grammatical gender that (1) marks nouns that are mass nouns, liquids, time references, mannerisms, or modes of action and (2) may mark nouns having referents that are none of these. Nouns marked for gender 6a do not have a singular/plural distinction.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 6a</AUni>
+							<AUni
+								ws="pt">Genro 6a</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="56fc7efb-b07f-4f5b-9ab9-79dfc8a4c1f9">
+						<Abbreviation>
+							<AUni
+								ws="en">17</AUni>
+							<AUni
+								ws="pt">17</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender17</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="pt">Gender 17 is a grammatical gender that has a locative sense.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 17</AUni>
+							<AUni
+								ws="pt">Genro 17</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="729f5986-94c7-44a4-b64e-e42af7e7d6ba">
+						<Abbreviation>
+							<AUni
+								ws="en">7/8</AUni>
+							<AUni
+								ws="pt">7/8</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender7.8</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 7/8 is a grammatical gender that (1) marks nouns that are artifacts, defective human beings, body parts, tools, instruments, utensils, animals, insects, languages, diseases, outstanding people, amelioratives, derogatives, augmentatives, curatives (shortness and stoutness), or mannerisms, and (2) may mark nouns having referents that are none of these. Nouns marked for gender 7/8 can be singular (class 7) or plural (class 8).</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 7/8</AUni>
+							<AUni
+								ws="pt">Genro 7/8</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="76d9640d-f5f8-4a54-b169-238bcc0ad3a5">
+						<Abbreviation>
+							<AUni
+								ws="en">3/4</AUni>
+							<AUni
+								ws="pt">3/4</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender3.4</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 3/4 is a grammatical gender that (1) marks nouns that are non-human living things ('semi-animates'): trees, plants, spirits, natural phenomena, e.g., fire, smoke, river, objects associated with these things; things made of wood, etc., and (2) may mark nouns having referents that are not non-human living things. It also may mark body parts.. Nouns marked for gender 3/4 can be singular (class 3) or plural (class 4).</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 3/4</AUni>
+							<AUni
+								ws="pt">Genro 3/4</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="7924a9fa-c79b-405e-8225-42a393d555ca">
+						<Abbreviation>
+							<AUni
+								ws="en">9</AUni>
+							<AUni
+								ws="pt">9</AUni>
+						</Abbreviation>
+						<Name>
+							<AUni
+								ws="en">Gender 9</AUni>
+							<AUni
+								ws="pt">Genro 9</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="7ad14145-10c6-4d6b-a54d-4b6453b38116">
+						<Abbreviation>
+							<AUni
+								ws="en">9/10</AUni>
+							<AUni
+								ws="pt">9/10</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender9.10</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 9/10 is a grammatical gender that (1) marks nouns that are animals, special kinds of people, body parts, tools, instruments, or household effects and (2) may mark nouns having referents that are none of these. Nouns marked for gender 9/10 can be singular (class 9) or plural (class 10).</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 9/10</AUni>
+							<AUni
+								ws="pt">Genro 9/10</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="7cd4afa0-91d0-482d-a231-6bca3b46eb4f">
+						<Abbreviation>
+							<AUni
+								ws="en">14</AUni>
+							<AUni
+								ws="pt">14</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender14</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 14 is a grammatical gender that (1) marks nouns that are abstract or collectives, and (2) may mark nouns having referents that are neither abstract nor collective. Nouns marked for gender 14 do not have a singular/plural distinction.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 14</AUni>
+							<AUni
+								ws="pt">Genro 14</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="857cfa6a-7d41-4295-a1ce-2904cbdf4d09">
+						<Abbreviation>
+							<AUni
+								ws="en">5/6</AUni>
+							<AUni
+								ws="pt">5/6</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender5.6</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 5/6 is a grammatical gender that (1) marks nouns that are paired objects, animals, body parts, collective nouns, undesirable people, augmentatives, derogatives, or fruits, and (2) may mark nouns having referents that are none of these. Nouns marked for gender 5/6 can be singular (class 5) or plural (class 6).</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 5/6</AUni>
+							<AUni
+								ws="pt">Genro 5/6</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="87dee9e5-16e2-4791-a730-652e368bb059">
+						<Abbreviation>
+							<AUni
+								ws="en">1/2</AUni>
+							<AUni
+								ws="pt">1/2</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender1.2</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 1/2 is a grammatical gender that (1) marks nouns that refer to human beings, and (2) may mark nouns having referents that are not human beings. Nouns marked for gender 1/2 can be singular (class 1) or plural (class 2).</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 1/2</AUni>
+							<AUni
+								ws="pt">Genro 1/2</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="99eb82f4-6ba2-4e2c-8c26-de920549d9cb">
+						<Abbreviation>
+							<AUni
+								ws="en">10</AUni>
+							<AUni
+								ws="pt">10</AUni>
+						</Abbreviation>
+						<Name>
+							<AUni
+								ws="en">Gender 10</AUni>
+							<AUni
+								ws="pt">Genro 10</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="b143668a-886e-411b-a3f8-7faf69e3c8a8">
+						<Abbreviation>
+							<AUni
+								ws="en">5</AUni>
+							<AUni
+								ws="pt">5</AUni>
+						</Abbreviation>
+						<Name>
+							<AUni
+								ws="en">Gender 5</AUni>
+							<AUni
+								ws="pt">Genro 5</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="cd42b56b-8868-492b-87af-dc57132fc6c9">
+						<Abbreviation>
+							<AUni
+								ws="en">15</AUni>
+							<AUni
+								ws="pt">15</AUni>
+						</Abbreviation>
+						<Name>
+							<AUni
+								ws="en">Gender 15</AUni>
+							<AUni
+								ws="pt">Genro 15</AUni>
+						</Name>
+						<ShowInGloss
+							val="False" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="d7772128-fc8c-4091-994b-764a8010bd5e">
+						<Abbreviation>
+							<AUni
+								ws="en">18</AUni>
+							<AUni
+								ws="pt">18</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender18</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="pt">Gender 18 is a grammatical gender that has a locative sense.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 18</AUni>
+							<AUni
+								ws="pt">Genro 18</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="ddd53034-8561-4e4b-b23a-ab0b5b3332b1">
+						<Abbreviation>
+							<AUni
+								ws="en">14/6</AUni>
+							<AUni
+								ws="pt">14/6</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender14.6</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 14/6 is a grammatical gender that (1) marks nouns that are abstract or collectives, and (2) may mark nouns having referents that are neither abstract nor collective. Nouns marked for gender 14/6 can be singular (class 14) or plural (class 6).</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 14/6</AUni>
+							<AUni
+								ws="pt">Genro 14/6</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="e4bae34e-81d7-48ca-a8b0-619e0667fe7b">
+						<Abbreviation>
+							<AUni
+								ws="en">1a</AUni>
+							<AUni
+								ws="pt">1a</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBantuGender1a</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">Gender 1a is a grammatical gender that (1) marks nouns that are proper names, kinship terms, or personifications and (2) may mark nouns having referents that are not proper names.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">Gender 1a</AUni>
+							<AUni
+								ws="pt">Genro 1a</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="f44b198a-52d2-46fa-8bfe-9019cfd258f0">
+						<Abbreviation>
+							<AUni
+								ws="en">7</AUni>
+							<AUni
+								ws="pt">7</AUni>
+						</Abbreviation>
+						<Name>
+							<AUni
+								ws="en">Gender 7</AUni>
+							<AUni
+								ws="pt">Genro 7</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsComplexFeature
+				guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3">
+				<Abbreviation>
+					<AUni
+						ws="en">NounAgr</AUni>
+					<AUni
+						ws="pt">NounAgr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>cNounAgr</Uni>
+				</CatalogSourceId>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">noun agreement</AUni>
+					<AUni
+						ws="pt">concordancia nominal</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+			<FsClosedFeature
+				guid="9a9e7176-047e-4d1b-8de2-b37bc41a4730">
+				<Abbreviation>
+					<AUni
+						ws="en">Num</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fNum</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Number is a grammatical category of nouns, pronouns, and verb agreement that expresses count distinctions (such as "one" or "more than one"). The count distinctions typically, but not always, correspond to the actual count of the referents of the marked noun or pronoun.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">number</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="66b0a0da-243a-480f-9a76-10e0b34caa35">
+						<Abbreviation>
+							<AUni
+								ws="en">Pl</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vPl</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Plural number is number that expresses reference to a quantity greater than that expressed by the largest specific number category in a language, such as "more than one" in English, and "more than two" in some other languages.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">plural number</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="d0b0f20d-784c-4730-b8b1-1f062738b779">
+						<Abbreviation>
+							<AUni
+								ws="en">Sg</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vSg</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Singular number is number that refers to one member of a designated class.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">singular number</AUni>
+						</Name>
+						<ShowInGloss
+							val="true" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+		</Features>
+		<Types>
+			<FsFeatStrucType
+				guid="1828a080-11b7-46ec-8c87-b07b426fbe52">
+				<Abbreviation>
+					<AUni
+						ws="pt">Infl</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>Infl</Uni>
+				</CatalogSourceId>
+				<Features>
+					<refseq
+						guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="pt">Infl</AUni>
+				</Name>
+			</FsFeatStrucType>
+			<FsFeatStrucType
+				guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0">
+				<Abbreviation>
+					<AUni
+						ws="pt">Agr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>Agr</Uni>
+				</CatalogSourceId>
+				<Features>
+					<refseq
+						guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+						t="r" />
+					<refseq
+						guid="9a9e7176-047e-4d1b-8de2-b37bc41a4730"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="pt">Agr</AUni>
+				</Name>
+			</FsFeatStrucType>
+		</Types>
+	</FsFeatureSystem>
+</FeatureSystem>

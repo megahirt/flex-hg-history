@@ -1,0 +1,14 @@
+[ui]
+merge = chorusmerge
+username = chris
+[merge-tools]
+chorusmerge.premerge = False
+chorusmerge.executable = C:\Program Files (x86)\SIL\FLEx Bridge\ChorusMerge.exe
+[format]
+[paths]
+LanguageDepot.org = http://chirt:mylanguagedepotpass@resumable.languagedepot.org/test-chris-01
+[extensions]
+eol = 
+hgext.graphlog = 
+convert = 
+fixutf8 = C:\Program Files (x86)\SIL\FLEx Bridge\MercurialExtensions\fixutf8\fixutf8.py

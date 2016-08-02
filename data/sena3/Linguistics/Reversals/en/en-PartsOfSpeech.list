@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PartsOfSpeech>
+	<CmPossibilityList
+		guid="8c0052b3-c7a9-41ac-a723-c915e28417d7">
+		<DateCreated
+			val="2006-1-31 16:53:43.143" />
+		<DateModified
+			val="2006-1-31 16:53:43.143" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="True" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="5049" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Parts of Speech for English Reversal Index</AUni>
+			<AUni
+				ws="pt">Parts of Speech for English Reversal Index</AUni>
+		</Name>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="0" />
+	</CmPossibilityList>
+</PartsOfSpeech>

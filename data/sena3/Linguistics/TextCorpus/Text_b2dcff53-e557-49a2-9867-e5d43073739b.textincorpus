@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="b2dcff53-e557-49a2-9867-e5d43073739b">
+		<Contents>
+			<StText
+				guid="77674099-bffc-458e-a7c7-904af1abd749">
+				<DateModified
+					val="2011-2-2 19:19:27.848" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="4970c878-5635-4837-bdf2-f582c9ecfbca">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Babanga ana munda ukulu.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="3c248e30-84c3-493d-ae50-d67504cbe899">
+								<Analyses>
+									<refseq
+										guid="3dd07290-16d0-4b14-8b34-a7ba6b077787"
+										t="r" />
+									<refseq
+										guid="c0aa439f-6cd4-49d5-bddf-e8cb95a156f6"
+										t="r" />
+									<refseq
+										guid="717cc41f-b422-47fa-96aa-73ff79d5ad95"
+										t="r" />
+									<refseq
+										guid="49a281c0-579c-4cad-be26-f413a810380b"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">My father has a large garden.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="7746f8e7-4b6f-4f0e-b1db-d11e41a20a10">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Mwenemo muna miti mizinji.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="bac8e9d0-23d5-4797-ba35-32a365fed50c">
+								<Analyses>
+									<refseq
+										guid="ebc1a015-ab25-4d97-a815-9fceedb918f9"
+										t="r" />
+									<refseq
+										guid="d0f61c67-90c8-4c22-bc5d-7f99c360d03b"
+										t="r" />
+									<refseq
+										guid="bf441f64-1412-43d7-862e-99ecc444c997"
+										t="r" />
+									<refseq
+										guid="5060b65b-42a5-4b51-b7fc-a989e3dbe899"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There he has many trees.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="7a8a7500-3d1e-4bb6-b32a-8714da48a48b">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Muna milaranja, mifigu, mindimu na mimanga.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="c7f79cfa-52b9-42bc-b17b-5b18359016b4">
+								<Analyses>
+									<refseq
+										guid="094ae8aa-cacf-492a-b404-0c1e4f5f5e6c"
+										t="r" />
+									<refseq
+										guid="93b1fe9d-e545-49eb-ac11-001478840ecf"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="ef0e3d12-6a6c-4228-9ae2-2fbb80b2024b"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="2e8d8fd9-195f-4c14-9031-af3a12349927"
+										t="r" />
+									<refseq
+										guid="98722787-771d-44fb-b9f4-883c38750087"
+										t="r" />
+									<refseq
+										guid="354d82df-2ad9-4b7c-a5a3-b6468ef55ed1"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He has orange trees, banana trees, lemon trees and mango trees.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="1932b41b-9b68-486f-8c6c-3971ac767c34">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Ikhalipo minga m'munda.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="5d44d595-0efd-4f81-9195-cc26e7d213e5">
+								<Analyses>
+									<refseq
+										guid="b2d78dfb-a425-4cd9-904b-990cd0c86132"
+										t="r" />
+									<refseq
+										guid="b461c8f1-d102-492e-a2af-4374bc678ed7"
+										t="r" />
+									<refseq
+										guid="3712cc1a-72a1-44d1-8712-375774aac8ae"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There were throns in the garden.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="3bed6192-c1b4-4c4c-a9c3-5a70d24fba6d">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Baba aipisa.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="44773418-eb8f-47a8-ace0-69ba9c10688b">
+								<Analyses>
+									<refseq
+										guid="30e39d48-e3e4-409d-a5c2-e143ba84042c"
+										t="r" />
+									<refseq
+										guid="0f1872dc-1549-4203-9add-dce37af56c6f"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Father burned them.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="6121273b-92d8-4847-bc9d-49274b083f8e">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Mwezi wa khumi na ubodzi abzwala maningi mpunga.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="a1ba0a17-1f63-4b5c-9666-bde579e6339d">
+								<Analyses>
+									<refseq
+										guid="25a448fa-7d84-4646-9132-e1e1aa327a8a"
+										t="r" />
+									<refseq
+										guid="2aadcce4-db68-4212-8608-cdbd708cd5a1"
+										t="r" />
+									<refseq
+										guid="ee9a60fe-2dd3-4dac-aa4e-001837f0b10e"
+										t="r" />
+									<refseq
+										guid="98722787-771d-44fb-b9f4-883c38750087"
+										t="r" />
+									<refseq
+										guid="7d236040-a66b-4ba2-99cd-b1bd6293ccb9"
+										t="r" />
+									<refseq
+										guid="b78a9d66-fc65-4d4f-901c-8dae136d4eac"
+										t="r" />
+									<refseq
+										guid="10e690fc-4edf-4de9-b13f-3be38ae65aea"
+										t="r" />
+									<refseq
+										guid="cae70bfc-31d1-4762-a127-aaf049669894"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">In November he planted a lot of rice. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="91889fd4-846f-45c0-baef-4c4b8df6a778">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Mpunga wabuluka maningi.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="50052c1f-b82a-4db4-92f7-83b2b2c787b7">
+								<Analyses>
+									<refseq
+										guid="cae70bfc-31d1-4762-a127-aaf049669894"
+										t="r" />
+									<refseq
+										guid="02b81e57-0b90-47f7-84c8-c779f3c9cace"
+										t="r" />
+									<refseq
+										guid="10e690fc-4edf-4de9-b13f-3be38ae65aea"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The rice produced well.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2006-8-23 19:31:9.500" />
+		<DateModified
+			val="2006-9-14 13:46:1.247" />
+		<Description>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">"M'munda" ("In the Garden") a language learning text, (c) Luís Nyazeze, used by permission.</Run>
+			</AStr>
+			<AStr
+				ws="pt">
+				<Run
+					ws="pt">"M'munda" ("In the Garden") a language learning text, (c) Luís Nyazeze, used by permission.</Run>
+			</AStr>
+		</Description>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">In the Garden</AUni>
+			<AUni
+				ws="pt">Na Machamba</AUni>
+			<AUni
+				ws="seh">M'munda</AUni>
+		</Name>
+	</Text>
+</TextInCorpus>

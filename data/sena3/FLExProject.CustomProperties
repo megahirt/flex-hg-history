@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AdditionalFields>
+	<CustomField
+		class="LexEntry"
+		key="LexEntryPlural"
+		name="Plural"
+		type="String"
+		wsSelector="-2" />
+	<CustomField
+		class="LexEntry"
+		helpString="There are a number of words which have no singular or the singular is rare."
+		key="LexEntrySingular"
+		name="Singular"
+		type="String"
+		wsSelector="-1" />
+	<CustomField
+		class="LexSense"
+		key="LexSenseParsing Note"
+		name="Parsing Note"
+		type="String"
+		wsSelector="-1" />
+</AdditionalFields>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Anthropology>
+	<header>
+		<RnResearchNbk
+			guid="2e237d40-853c-49d5-aac6-eff01121ac25">
+			<DateCreated
+				val="2005-4-29 20:57:23.400" />
+			<DateModified
+				val="2006-8-9 19:30:46.107" />
+			<Name>
+				<AUni
+					ws="en">Data Notebook</AUni>
+			</Name>
+			<Records />
+			<RecTypes />
+		</RnResearchNbk>
+	</header>
+	<RnGenericRec
+		guid="c84b721b-3617-43de-a436-9e0538837a66">
+		<DateCreated
+			val="2006-8-9 16:19:58.617" />
+		<DateModified
+			val="2006-8-9 19:31:0.0" />
+		<DateOfEvent
+			val="-000000000" />
+		<Description>
+			<StText
+				guid="70387e15-5f0d-462b-9122-b699011a125e">
+				<DateModified
+					val="2011-2-2 19:19:27.752" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="895e0088-2252-4d83-b932-7b4ef2c602ed">
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Normal" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Description>
+		<ExternalMaterials>
+			<StText
+				guid="08fefd87-3788-48bf-b836-a9e24938e7f1">
+				<DateModified
+					val="2011-2-2 19:19:27.752" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="a8e0c752-2e6b-4fa1-aaaa-bc201cc0e0b6">
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Normal" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</ExternalMaterials>
+		<FurtherQuestions>
+			<StText
+				guid="ef55b844-f7ef-46b4-9958-43c24929bffa">
+				<DateModified
+					val="2011-2-2 19:19:27.752" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="b8f170e7-f1d7-46ab-a830-093f2daa663a">
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Normal" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</FurtherQuestions>
+		<PersonalNotes>
+			<StText
+				guid="7f6587ff-307b-41e9-9b0a-d7779501f928">
+				<DateModified
+					val="2011-2-2 19:19:27.752" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="d8247f2c-e48b-42db-93c5-9681e97f03a1">
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Normal" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</PersonalNotes>
+		<Title>
+			<Str>
+				<Run
+					ws="pt">Test data to allow opening Data Notebook</Run>
+			</Str>
+		</Title>
+		<Type>
+			<objsur
+				guid="b7b37b86-ea5e-11de-80e9-0013722f8dec"
+				t="r" />
+		</Type>
+		<VersionHistory>
+			<StText
+				guid="f3c41db2-f0fa-44ce-87e1-4569b65013b7">
+				<DateModified
+					val="2011-2-2 19:19:27.752" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="0908904f-fc2a-421b-8822-723e5b7f930c">
+						<ParseIsCurrent
+							val="False" />
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</VersionHistory>
+	</RnGenericRec>
+</Anthropology>

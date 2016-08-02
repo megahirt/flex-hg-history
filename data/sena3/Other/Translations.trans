@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslatedScripture>
+	<Scripture
+		guid="a7fb3b66-beff-4199-abba-fdbdb0bbbf85">
+		<BookAnnotations />
+		<Bridge>
+			<Uni>-</Uni>
+		</Bridge>
+		<ChapterVerseSepr>
+			<Uni>:</Uni>
+		</ChapterVerseSepr>
+		<ConvertCVDigitsOnExport
+			val="False" />
+		<CrossRefMarkerSymbol>
+			<Uni>*</Uni>
+		</CrossRefMarkerSymbol>
+		<CrossRefMarkerType
+			val="2" />
+		<CrossRefsCombinedWithFootnotes
+			val="False" />
+		<DateCreated
+			val="2005-5-2 21:6:45.713" />
+		<DateModified
+			val="2011-3-2 21:10:41.249" />
+		<DisplayCrossRefReference
+			val="True" />
+		<DisplayFootnoteReference
+			val="True" />
+		<DisplaySymbolInCrossRef
+			val="False" />
+		<DisplaySymbolInFootnote
+			val="True" />
+		<FootnoteMarkerSymbol>
+			<Uni>*</Uni>
+		</FootnoteMarkerSymbol>
+		<FootnoteMarkerType
+			val="0" />
+		<HeaderFooterSets>
+			<PubHFSet
+				guid="8cd67250-66ea-4b58-9128-06414fce5fc6">
+				<DefaultFooter>
+					<PubHeader
+						guid="146781d8-d2f0-4dc5-aa53-a25773565b05">
+						<CenteredText>
+							<Str>
+								<Run
+									contextString="5610D086-635F-4AE2-8E85-A95896F3D62D"
+									ws="en" />
+							</Str>
+						</CenteredText>
+						<InsideAlignedText>
+							<Str>
+								<Run
+									contextString="C4556A21-41A8-4675-A74D-59B2C1A7E2B8"
+									ws="en" />
+							</Str>
+						</InsideAlignedText>
+						<OutsideAlignedText>
+							<Str>
+								<Run
+									contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+									ws="en" />
+							</Str>
+						</OutsideAlignedText>
+					</PubHeader>
+				</DefaultFooter>
+				<DefaultHeader>
+					<PubHeader
+						guid="79b7784b-66c3-4e11-9986-9c5dbf90b1dd">
+						<OutsideAlignedText>
+							<Str>
+								<Run
+									contextString="8978089A-8969-424E-AE54-B94C554F882D"
+									ws="en" />
+							</Str>
+						</OutsideAlignedText>
+					</PubHeader>
+				</DefaultHeader>
+				<Description>
+					<Str>
+						<Run
+							ws="en">Default headers and footers for a one-sided printout for editing or checking the Scripture text</Run>
+					</Str>
+				</Description>
+				<EvenFooter>
+					<PubHeader
+						guid="0d028b7a-6ed3-466c-a282-43a650e43725" />
+				</EvenFooter>
+				<EvenHeader>
+					<PubHeader
+						guid="69ee3b35-0f41-4c4a-871e-c9fc1c37b8af" />
+				</EvenHeader>
+				<FirstFooter>
+					<PubHeader
+						guid="c6fb56b8-f0b8-4e55-8541-5ae2c58913c3" />
+				</FirstFooter>
+				<FirstHeader>
+					<PubHeader
+						guid="e6f6a01d-f5b3-4f2c-a912-e70839282c8c" />
+				</FirstHeader>
+				<Name>
+					<Uni>Default Correction Printout</Uni>
+				</Name>
+			</PubHFSet>
+			<PubHFSet
+				guid="90a5b3be-672c-434a-a22f-d3fb9918ff53">
+				<DefaultFooter>
+					<PubHeader
+						guid="78b6ad4e-b65c-4258-b132-68cd57cfc640" />
+				</DefaultFooter>
+				<DefaultHeader>
+					<PubHeader
+						guid="6fac1f38-517a-436c-9c81-c243422f1deb">
+						<CenteredText>
+							<Str>
+								<Run
+									contextString="85EE15C6-0799-46C6-8769-F9B3CE313AE2"
+									ws="en" />
+							</Str>
+						</CenteredText>
+						<OutsideAlignedText>
+							<Str>
+								<Run
+									contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+									ws="en" />
+							</Str>
+						</OutsideAlignedText>
+					</PubHeader>
+				</DefaultHeader>
+				<Description>
+					<Str>
+						<Run
+							ws="en">Default headers and footers with page numbers and references useful for published Scriptures</Run>
+					</Str>
+				</Description>
+				<EvenFooter>
+					<PubHeader
+						guid="156e234f-b0a4-48a6-8487-2bf1f27fb6b8" />
+				</EvenFooter>
+				<EvenHeader>
+					<PubHeader
+						guid="6a5650d9-02a1-4899-ad05-34b3427e581e">
+						<CenteredText>
+							<Str>
+								<Run
+									contextString="397F43AE-E2B2-4F20-928A-1DF193C07674"
+									ws="en" />
+							</Str>
+						</CenteredText>
+						<OutsideAlignedText>
+							<Str>
+								<Run
+									contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+									ws="en" />
+							</Str>
+						</OutsideAlignedText>
+					</PubHeader>
+				</EvenHeader>
+				<FirstFooter>
+					<PubHeader
+						guid="1c1febd1-214b-4e51-b793-45b9682cab00">
+						<CenteredText>
+							<Str>
+								<Run
+									contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+									ws="en" />
+							</Str>
+						</CenteredText>
+					</PubHeader>
+				</FirstFooter>
+				<FirstHeader>
+					<PubHeader
+						guid="24b0a302-6029-41c3-8fa8-53e36a284958" />
+				</FirstHeader>
+				<Name>
+					<Uni>Default Scripture</Uni>
+				</Name>
+			</PubHFSet>
+			<PubHFSet
+				guid="ec2703aa-261d-46a6-a175-49f70bc7cad3">
+				<DefaultFooter>
+					<PubHeader
+						guid="9dde020e-b3aa-475f-877a-6f763fc60045">
+						<CenteredText>
+							<Str>
+								<Run
+									contextString="5610D086-635F-4AE2-8E85-A95896F3D62D"
+									ws="en" />
+							</Str>
+						</CenteredText>
+						<InsideAlignedText>
+							<Str>
+								<Run
+									contextString="C4556A21-41A8-4675-A74D-59B2C1A7E2B8"
+									ws="en" />
+							</Str>
+						</InsideAlignedText>
+						<OutsideAlignedText>
+							<Str>
+								<Run
+									contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+									ws="en" />
+							</Str>
+						</OutsideAlignedText>
+					</PubHeader>
+				</DefaultFooter>
+				<DefaultHeader>
+					<PubHeader
+						guid="4c9aa9b4-dccf-4196-b1a1-0277809978f3">
+						<OutsideAlignedText>
+							<Str>
+								<Run
+									contextString="8978089A-8969-424E-AE54-B94C554F882D"
+									ws="en" />
+							</Str>
+						</OutsideAlignedText>
+					</PubHeader>
+				</DefaultHeader>
+				<Description>
+					<Str>
+						<Run
+							ws="en">Default headers and footers for one-sided printing of back translations</Run>
+					</Str>
+				</Description>
+				<EvenFooter>
+					<PubHeader
+						guid="591e91ec-f223-4ef4-a7e8-4375e05b1dc2" />
+				</EvenFooter>
+				<EvenHeader>
+					<PubHeader
+						guid="07a552e0-e572-4936-9b94-8a6e95820840" />
+				</EvenHeader>
+				<FirstFooter>
+					<PubHeader
+						guid="8555f35e-357c-4257-82f2-9f0c3aaaab33" />
+				</FirstFooter>
+				<FirstHeader>
+					<PubHeader
+						guid="d41f9ae2-4b75-4bd3-b165-8b29cf6224ab" />
+				</FirstHeader>
+				<Name>
+					<Uni>Default Back Translation</Uni>
+				</Name>
+			</PubHFSet>
+		</HeaderFooterSets>
+		<ImportSettings />
+		<NoteCategories />
+		<Publications>
+			<Publication
+				guid="306d3e3f-9b91-48cf-9033-a762ec507ac4">
+				<BaseFontSize
+					val="0" />
+				<BaseLineSpacing
+					val="0" />
+				<BindingEdge
+					val="0" />
+				<Description>
+					<Str>
+						<Run
+							ws="en">Trial Publication</Run>
+					</Str>
+				</Description>
+				<Divisions>
+					<ownseq
+						class="PubDivision"
+						guid="5aa119f7-6d82-4a82-bfdb-98f454a04074">
+						<DifferentEvenHF
+							val="true" />
+						<DifferentFirstHF
+							val="true" />
+						<HFSet>
+							<PubHFSet
+								guid="339a340b-20a0-4a49-9f97-0f24b0aa3ffa">
+								<DefaultFooter>
+									<PubHeader
+										guid="c7e2534c-d0bf-4c3b-98ea-40a697996809" />
+								</DefaultFooter>
+								<DefaultHeader>
+									<PubHeader
+										guid="4afb1d85-96d4-42ce-bea5-092671faed25">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="85EE15C6-0799-46C6-8769-F9B3CE313AE2"
+													ws="en" />
+											</Str>
+										</CenteredText>
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</DefaultHeader>
+								<Description>
+									<Str>
+										<Run
+											ws="en">Default headers and footers with page numbers and references useful for published Scriptures</Run>
+									</Str>
+								</Description>
+								<EvenFooter>
+									<PubHeader
+										guid="ce6d0b48-cc33-490f-b4a2-01a0026b7c39" />
+								</EvenFooter>
+								<EvenHeader>
+									<PubHeader
+										guid="516203a4-08de-4308-a858-653b24c7d756">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="397F43AE-E2B2-4F20-928A-1DF193C07674"
+													ws="en" />
+											</Str>
+										</CenteredText>
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</EvenHeader>
+								<FirstFooter>
+									<PubHeader
+										guid="c954f19f-1b99-4b03-8807-506f2bcd7cc2">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</CenteredText>
+									</PubHeader>
+								</FirstFooter>
+								<FirstHeader>
+									<PubHeader
+										guid="19aa4c54-9a5c-455a-932b-6e48130b8946" />
+								</FirstHeader>
+								<Name>
+									<Uni>Default Scripture</Uni>
+								</Name>
+							</PubHFSet>
+						</HFSet>
+						<NumColumns
+							val="2" />
+						<PageLayout>
+							<PubPageLayout
+								guid="f8b37865-00ea-432c-aa8f-ca43a683924d">
+								<IsBuiltIn
+									val="true" />
+								<IsModified
+									val="False" />
+								<MarginBottom
+									val="36720" />
+								<MarginInside
+									val="36000" />
+								<MarginOutside
+									val="36000" />
+								<MarginTop
+									val="48960" />
+								<Name>
+									<Uni>Default Scripture</Uni>
+								</Name>
+								<PosFooter
+									val="25200" />
+								<PosHeader
+									val="25200" />
+							</PubPageLayout>
+						</PageLayout>
+						<StartAt
+							val="1" />
+					</ownseq>
+				</Divisions>
+				<FootnoteSepWidth
+					val="0" />
+				<GutterLoc
+					val="0" />
+				<GutterMargin
+					val="0" />
+				<IsLandscape
+					val="False" />
+				<Name>
+					<Uni>Trial Publication</Uni>
+				</Name>
+				<PageHeight
+					val="626400" />
+				<PageWidth
+					val="417600" />
+				<PaperHeight
+					val="0" />
+				<PaperWidth
+					val="0" />
+				<SheetLayout
+					val="1" />
+				<SheetsPerSig
+					val="0" />
+			</Publication>
+			<Publication
+				guid="4d5b4730-86ef-4027-b4ba-eb659571cd8a">
+				<BaseFontSize
+					val="12000" />
+				<BaseLineSpacing
+					val="-36000" />
+				<BindingEdge
+					val="0" />
+				<Description>
+					<Str>
+						<Run
+							ws="en">Correction Draft for reviewing and editing Scripture</Run>
+					</Str>
+				</Description>
+				<Divisions>
+					<ownseq
+						class="PubDivision"
+						guid="2b20e8f3-04b0-4ca3-863b-5f592c18826a">
+						<DifferentEvenHF
+							val="False" />
+						<DifferentFirstHF
+							val="False" />
+						<HFSet>
+							<PubHFSet
+								guid="ecd4ec22-e6c5-42a7-8f73-56cbab54ea79">
+								<DefaultFooter>
+									<PubHeader
+										guid="31621746-92c2-437d-a8d4-9a1aca3ee775">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="5610D086-635F-4AE2-8E85-A95896F3D62D"
+													ws="en" />
+											</Str>
+										</CenteredText>
+										<InsideAlignedText>
+											<Str>
+												<Run
+													contextString="C4556A21-41A8-4675-A74D-59B2C1A7E2B8"
+													ws="en" />
+											</Str>
+										</InsideAlignedText>
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</DefaultFooter>
+								<DefaultHeader>
+									<PubHeader
+										guid="216c2a5c-76b0-4624-a42c-ae72555dc37b">
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="8978089A-8969-424E-AE54-B94C554F882D"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</DefaultHeader>
+								<Description>
+									<Str>
+										<Run
+											ws="en">Default headers and footers for a one-sided printout for editing or checking the Scripture text</Run>
+									</Str>
+								</Description>
+								<Name>
+									<Uni>Default Correction Printout</Uni>
+								</Name>
+							</PubHFSet>
+						</HFSet>
+						<NumColumns
+							val="1" />
+						<PageLayout>
+							<PubPageLayout
+								guid="7b6a2353-3f90-4d44-a0de-e5a9a9b757aa">
+								<IsBuiltIn
+									val="true" />
+								<IsModified
+									val="False" />
+								<MarginBottom
+									val="72000" />
+								<MarginInside
+									val="72000" />
+								<MarginOutside
+									val="165600" />
+								<MarginTop
+									val="72000" />
+								<Name>
+									<Uni>Default Scripture</Uni>
+								</Name>
+								<PosFooter
+									val="54000" />
+								<PosHeader
+									val="54000" />
+							</PubPageLayout>
+						</PageLayout>
+						<StartAt
+							val="1" />
+					</ownseq>
+				</Divisions>
+				<FootnoteSepWidth
+					val="0" />
+				<GutterLoc
+					val="0" />
+				<GutterMargin
+					val="0" />
+				<IsLandscape
+					val="False" />
+				<Name>
+					<Uni>Correction Layout</Uni>
+				</Name>
+				<PageHeight
+					val="0" />
+				<PageWidth
+					val="0" />
+				<PaperHeight
+					val="0" />
+				<PaperWidth
+					val="0" />
+				<SheetLayout
+					val="0" />
+				<SheetsPerSig
+					val="0" />
+			</Publication>
+			<Publication
+				guid="a316a038-a058-467c-b78d-be8729241ea4">
+				<BaseFontSize
+					val="12000" />
+				<BaseLineSpacing
+					val="-14000" />
+				<BindingEdge
+					val="0" />
+				<Description>
+					<Str>
+						<Run
+							ws="en">Back Translation with front and back translation for checking purposes</Run>
+					</Str>
+				</Description>
+				<Divisions>
+					<ownseq
+						class="PubDivision"
+						guid="f7afe302-4a73-4465-aa22-d8a8f508bec8">
+						<DifferentEvenHF
+							val="False" />
+						<DifferentFirstHF
+							val="False" />
+						<HFSet>
+							<PubHFSet
+								guid="08817394-2399-41ae-9a75-f1d52bae36fe">
+								<DefaultFooter>
+									<PubHeader
+										guid="fe55e481-1c9d-44e6-85c8-32f103bbb41f">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="5610D086-635F-4AE2-8E85-A95896F3D62D"
+													ws="en" />
+											</Str>
+										</CenteredText>
+										<InsideAlignedText>
+											<Str>
+												<Run
+													contextString="C4556A21-41A8-4675-A74D-59B2C1A7E2B8"
+													ws="en" />
+											</Str>
+										</InsideAlignedText>
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</DefaultFooter>
+								<DefaultHeader>
+									<PubHeader
+										guid="76941044-127a-45e9-89dc-a7d9c9864f0d">
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="8978089A-8969-424E-AE54-B94C554F882D"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</DefaultHeader>
+								<Description>
+									<Str>
+										<Run
+											ws="en">Default headers and footers for one-sided printing of back translations</Run>
+									</Str>
+								</Description>
+								<Name>
+									<Uni>Default Back Translation</Uni>
+								</Name>
+							</PubHFSet>
+						</HFSet>
+						<NumColumns
+							val="1" />
+						<PageLayout>
+							<PubPageLayout
+								guid="336b790f-d54d-468a-ae23-a86858b2c37d">
+								<IsBuiltIn
+									val="true" />
+								<IsModified
+									val="False" />
+								<MarginBottom
+									val="72000" />
+								<MarginInside
+									val="72000" />
+								<MarginOutside
+									val="180000" />
+								<MarginTop
+									val="72000" />
+								<Name>
+									<Uni>Default Back Translation</Uni>
+								</Name>
+								<PosFooter
+									val="54000" />
+								<PosHeader
+									val="54000" />
+							</PubPageLayout>
+						</PageLayout>
+						<StartAt
+							val="1" />
+					</ownseq>
+				</Divisions>
+				<FootnoteSepWidth
+					val="0" />
+				<GutterLoc
+					val="0" />
+				<GutterMargin
+					val="0" />
+				<IsLandscape
+					val="False" />
+				<Name>
+					<Uni>Back Translation Side-by-Side</Uni>
+				</Name>
+				<PageHeight
+					val="0" />
+				<PageWidth
+					val="0" />
+				<PaperHeight
+					val="0" />
+				<PaperWidth
+					val="0" />
+				<SheetLayout
+					val="0" />
+				<SheetsPerSig
+					val="0" />
+			</Publication>
+			<Publication
+				guid="b0a75ed8-ed28-4856-9c72-f3c1e3f5afab">
+				<BaseFontSize
+					val="12000" />
+				<BaseLineSpacing
+					val="-14000" />
+				<BindingEdge
+					val="0" />
+				<Description>
+					<Str>
+						<Run
+							ws="en">Basic Scripture Print Layout</Run>
+					</Str>
+				</Description>
+				<Divisions>
+					<ownseq
+						class="PubDivision"
+						guid="d3e2688e-3ac6-4253-a28e-cc25b43b1939">
+						<DifferentEvenHF
+							val="true" />
+						<DifferentFirstHF
+							val="true" />
+						<HFSet>
+							<PubHFSet
+								guid="e65736c8-535f-45c6-98fa-908eecb825ae">
+								<DefaultFooter>
+									<PubHeader
+										guid="ee9902fa-b095-4167-9cdc-71dff82b0f12" />
+								</DefaultFooter>
+								<DefaultHeader>
+									<PubHeader
+										guid="291dee2d-8ddf-4bd0-a528-3c339a7e9ea0">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="85EE15C6-0799-46C6-8769-F9B3CE313AE2"
+													ws="en" />
+											</Str>
+										</CenteredText>
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</DefaultHeader>
+								<Description>
+									<Str>
+										<Run
+											ws="en">Default headers and footers with page numbers and references useful for published Scriptures</Run>
+									</Str>
+								</Description>
+								<EvenFooter>
+									<PubHeader
+										guid="fdfb6805-4d98-4ddb-a0d5-132c4acce1b2" />
+								</EvenFooter>
+								<EvenHeader>
+									<PubHeader
+										guid="43640847-4389-4ac9-ad82-99be183594b0">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="397F43AE-E2B2-4F20-928A-1DF193C07674"
+													ws="en" />
+											</Str>
+										</CenteredText>
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</EvenHeader>
+								<FirstFooter>
+									<PubHeader
+										guid="7f2cde0b-31c1-4dbb-aeb2-2130fa0aaab5">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</CenteredText>
+									</PubHeader>
+								</FirstFooter>
+								<FirstHeader>
+									<PubHeader
+										guid="4bca54ad-d271-483c-8e18-3d4fa7f65747" />
+								</FirstHeader>
+								<Name>
+									<Uni>Default Scripture</Uni>
+								</Name>
+							</PubHFSet>
+						</HFSet>
+						<NumColumns
+							val="1" />
+						<PageLayout>
+							<PubPageLayout
+								guid="1e587e0f-6e59-42b8-906f-6e31c263ddc0">
+								<IsBuiltIn
+									val="true" />
+								<IsModified
+									val="False" />
+								<MarginBottom
+									val="72000" />
+								<MarginInside
+									val="72000" />
+								<MarginOutside
+									val="72000" />
+								<MarginTop
+									val="72000" />
+								<Name>
+									<Uni>Default Scripture</Uni>
+								</Name>
+								<PosFooter
+									val="54000" />
+								<PosHeader
+									val="54000" />
+							</PubPageLayout>
+						</PageLayout>
+						<StartAt
+							val="1" />
+					</ownseq>
+				</Divisions>
+				<FootnoteSepWidth
+					val="0" />
+				<GutterLoc
+					val="0" />
+				<GutterMargin
+					val="0" />
+				<IsLandscape
+					val="False" />
+				<Name>
+					<Uni>Scripture Draft</Uni>
+				</Name>
+				<PageHeight
+					val="0" />
+				<PageWidth
+					val="0" />
+				<PaperHeight
+					val="0" />
+				<PaperWidth
+					val="0" />
+				<SheetLayout
+					val="1" />
+				<SheetsPerSig
+					val="0" />
+			</Publication>
+			<Publication
+				guid="db8222da-e65d-4eb4-9668-698f6ec7f5bb">
+				<BaseFontSize
+					val="12000" />
+				<BaseLineSpacing
+					val="-14000" />
+				<BindingEdge
+					val="0" />
+				<Description>
+					<Str>
+						<Run
+							ws="en">Back Translation for checking purposes</Run>
+					</Str>
+				</Description>
+				<Divisions>
+					<ownseq
+						class="PubDivision"
+						guid="4fd6ed49-c681-4f5c-a093-575984d75399">
+						<DifferentEvenHF
+							val="False" />
+						<DifferentFirstHF
+							val="False" />
+						<HFSet>
+							<PubHFSet
+								guid="af03a98a-1f71-41b9-aab8-af898bbddc7e">
+								<DefaultFooter>
+									<PubHeader
+										guid="2f17551d-d287-4fa5-8388-dfe78ee8a132">
+										<CenteredText>
+											<Str>
+												<Run
+													contextString="5610D086-635F-4AE2-8E85-A95896F3D62D"
+													ws="en" />
+											</Str>
+										</CenteredText>
+										<InsideAlignedText>
+											<Str>
+												<Run
+													contextString="C4556A21-41A8-4675-A74D-59B2C1A7E2B8"
+													ws="en" />
+											</Str>
+										</InsideAlignedText>
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="644DF48A-3B60-45F4-80C7-739BE6E56A96"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</DefaultFooter>
+								<DefaultHeader>
+									<PubHeader
+										guid="66321842-d994-4fe0-a862-35bbc5e0739b">
+										<OutsideAlignedText>
+											<Str>
+												<Run
+													contextString="8978089A-8969-424E-AE54-B94C554F882D"
+													ws="en" />
+											</Str>
+										</OutsideAlignedText>
+									</PubHeader>
+								</DefaultHeader>
+								<Description>
+									<Str>
+										<Run
+											ws="en">Default headers and footers for one-sided printing of back translations</Run>
+									</Str>
+								</Description>
+								<Name>
+									<Uni>Default Back Translation</Uni>
+								</Name>
+							</PubHFSet>
+						</HFSet>
+						<NumColumns
+							val="1" />
+						<PageLayout>
+							<PubPageLayout
+								guid="4c398249-f314-43ec-9c6f-dd3323a988d4">
+								<IsBuiltIn
+									val="true" />
+								<IsModified
+									val="False" />
+								<MarginBottom
+									val="72000" />
+								<MarginInside
+									val="72000" />
+								<MarginOutside
+									val="180000" />
+								<MarginTop
+									val="72000" />
+								<Name>
+									<Uni>Default Back Translation</Uni>
+								</Name>
+								<PosFooter
+									val="54000" />
+								<PosHeader
+									val="54000" />
+							</PubPageLayout>
+						</PageLayout>
+						<StartAt
+							val="1" />
+					</ownseq>
+				</Divisions>
+				<FootnoteSepWidth
+					val="0" />
+				<GutterLoc
+					val="0" />
+				<GutterMargin
+					val="0" />
+				<IsLandscape
+					val="False" />
+				<Name>
+					<Uni>Back Translation</Uni>
+				</Name>
+				<PageHeight
+					val="0" />
+				<PageWidth
+					val="0" />
+				<PaperHeight
+					val="0" />
+				<PaperWidth
+					val="0" />
+				<SheetLayout
+					val="0" />
+				<SheetsPerSig
+					val="0" />
+			</Publication>
+		</Publications>
+		<RefSepr>
+			<Uni>;</Uni>
+		</RefSepr>
+		<Resources>
+			<CmResource
+				guid="09756a52-af7b-40a4-83d9-cd82431cc701">
+				<Name>
+					<Uni>FixedStylesInUse</Uni>
+				</Name>
+				<Version
+					val="8d4c8a53-edc2-4e11-87ce-42fcb1a7d79c" />
+			</CmResource>
+			<CmResource
+				guid="2d220733-d886-4333-a691-5f00b44612f5">
+				<Name>
+					<Uni>FixedOrphanedFootnotes</Uni>
+				</Name>
+				<Version
+					val="35e2f9e2-af55-48c4-a8a1-4c2722386c85" />
+			</CmResource>
+			<CmResource
+				guid="3c7c17ca-c956-441d-a1d9-c0592dd1973f">
+				<Name>
+					<Uni>BiblicalTerms_en</Uni>
+				</Name>
+				<Version
+					val="86dd3fb2-00a5-43dc-8e64-49dab8f6e00a" />
+			</CmResource>
+			<CmResource
+				guid="41b4d47d-160c-4558-a42c-3a530e749885">
+				<Name>
+					<Uni>TePublications</Uni>
+				</Name>
+				<Version
+					val="9ebf37b6-a0bc-4d54-a572-5b7bc836c38a" />
+			</CmResource>
+			<CmResource
+				guid="4b6e326a-c33a-43d2-93f2-3415f1f5a54c">
+				<Name>
+					<Uni>ScrBookRef</Uni>
+				</Name>
+				<Version
+					val="a85a5b94-4da9-4e73-83b3-2508cdbb7959" />
+			</CmResource>
+			<CmResource
+				guid="5494c660-8f7f-4324-a786-fc874701b4fa">
+				<Name>
+					<Uni>TeStyles</Uni>
+				</Name>
+				<Version
+					val="700176e1-4f42-4abd-8fb5-3c586670085d" />
+			</CmResource>
+			<CmResource
+				guid="6c0355f9-6b37-4161-958a-de4b17bac844">
+				<Name>
+					<Uni>FixedParasWithoutSegments</Uni>
+				</Name>
+				<Version
+					val="e6b7cc55-e795-49ad-a1f0-da72e3978829" />
+			</CmResource>
+			<CmResource
+				guid="b56babcc-1ce1-4160-a77f-d8ead4a0e3af">
+				<Name>
+					<Uni>ResegmentedParasWithOrcs</Uni>
+				</Name>
+				<Version
+					val="49f3406e-9c7d-4853-9bf1-dbb8ebaefb5e" />
+			</CmResource>
+			<CmResource
+				guid="b95863a6-47ef-48e7-b977-8b3c0643db21">
+				<Name>
+					<Uni>RemovedOldKeyTermsList</Uni>
+				</Name>
+				<Version
+					val="98dbedce-0568-4f66-afe3-59f032c324c6" />
+			</CmResource>
+			<CmResource
+				guid="ef7754c1-80ee-4fd1-aced-0bb5baa912a8">
+				<Name>
+					<Uni>BiblicalTerms</Uni>
+				</Name>
+				<Version
+					val="00fea689-3b63-4bd4-b640-7262a274d1a8" />
+			</CmResource>
+			<CmResource
+				guid="facd245e-82ca-4953-bae1-5bcc573b6833">
+				<Name>
+					<Uni>FixedParasWithoutBt</Uni>
+				</Name>
+				<Version
+					val="bebf4afa-6317-4c05-beca-47e8d0d57e5e" />
+			</CmResource>
+		</Resources>
+		<RestartFootnoteBoundary
+			val="0" />
+		<RestartFootnoteSequence
+			val="False" />
+		<ScriptDigitZero
+			val="0" />
+		<ScriptureBooks />
+		<Styles />
+		<UseScriptDigits
+			val="False" />
+		<VerseSepr>
+			<Uni>,</Uni>
+		</VerseSepr>
+		<Versification
+			val="4" />
+	</Scripture>
+</TranslatedScripture>

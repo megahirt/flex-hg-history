@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextMarkupTags>
+	<CmPossibilityList
+		guid="4a815b38-df03-45f3-abae-6403c8f45af1">
+		<Abbreviation>
+			<AUni
+				ws="en">TxtTags</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2009-2-12 17:0:23.143" />
+		<DateModified
+			val="2009-2-12 17:0:23.143" />
+		<Depth
+			val="127" />
+		<Description>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">Text Markup Tags</Run>
+			</AStr>
+		</Description>
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="true" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Text Markup Tags</AUni>
+			<AUni
+				ws="pt">Etiquetas de Marcação de Texto</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="283c6f58-cea2-4227-b1bb-9992a466e2e5">
+				<Abbreviation>
+					<AUni
+						ws="en">GrRel-Func</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2009-2-12 17:0:23.157" />
+				<DateModified
+					val="2009-2-12 17:0:23.157" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A list of Role tags based on the book "Describing Morphosyntax" by Thomas E. Payne(p. 129).</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Grammatical Relations-Functional</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="066c219a-cbf9-446c-9611-908c1805998a">
+						<Abbreviation>
+							<AUni
+								ws="en">A</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.200" />
+						<DateModified
+							val="2009-2-12 17:0:23.200" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The most Agent-like argument of a multi-argument clause (transitive).</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="c0113f51-cd02-4c83-9d17-bb9f242b1844">
+								<DateModified
+									val="2011-2-2 19:19:27.847" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="9f84d22c-762c-43fb-9dd0-8c95bd12d5e5">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">A</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="cdebe474-4be3-41c6-a826-2c7e6cdfaf8e">
+						<Abbreviation>
+							<AUni
+								ws="en">P</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.207" />
+						<DateModified
+							val="2009-2-12 17:0:23.207" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The most Patient-like argument of a multi-argument clause (transitive).</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">P</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="110842c1-1bf9-4657-8d30-92bcfb2e3025">
+						<Abbreviation>
+							<AUni
+								ws="en">S</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.213" />
+						<DateModified
+							val="2009-2-12 17:0:23.213" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The only nominal argument of a single argument clause (intransitive).</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">S</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b07cf1f3-4f03-40dc-89da-4ecbb7630950">
+						<Abbreviation>
+							<AUni
+								ws="en">Subj</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.213" />
+						<DateModified
+							val="2009-2-12 17:0:23.213" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The S or A argument in a Nominative/Accusative system of grammatical relations.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Subject</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="6fb57bd2-f3ca-405c-a13a-0a624ff156ee">
+						<Abbreviation>
+							<AUni
+								ws="en">Obj</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.213" />
+						<DateModified
+							val="2009-2-12 17:0:23.213" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Usually the P argument in a Nominative/Accusative system. The object most closely tied to the Verb syntactically.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Direct Object</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="f163eac3-a214-4427-b64a-5486d1d17f73">
+						<Abbreviation>
+							<AUni
+								ws="en">IO</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.213" />
+						<DateModified
+							val="2009-2-12 17:0:23.213" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An object less closely tied to the Verb syntactically than the Direct Object.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Indirect Object</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="2dba4817-2e72-4438-af04-5f628626be39">
+						<Abbreviation>
+							<AUni
+								ws="en">Erg</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.220" />
+						<DateModified
+							val="2009-2-12 17:0:23.220" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The A argument in an Ergative/Absolutive system of grammatical relations.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Ergative</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="9b0999aa-4d76-4f98-a988-ac18ed0fdd0e">
+						<Abbreviation>
+							<AUni
+								ws="en">Abs</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.220" />
+						<DateModified
+							val="2009-2-12 17:0:23.220" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The S or P argument in an Ergative/Absolutive system of grammatical relations.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Absolutive</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="bddf07dd-89be-409a-a1c3-5d7f4fcac86d">
+						<Abbreviation>
+							<AUni
+								ws="en">Obl</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.227" />
+						<DateModified
+							val="2009-5-12 20:48:36.817" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A nominal with at best secondary relation to the Verb in a Clause.</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="e571c6b1-d311-48fa-94a9-88a7751028e0">
+								<DateModified
+									val="2011-2-2 19:19:27.847" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="7ad84a9a-6eea-4c35-8d6d-1a1b092ab71a">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Oblique</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="6c295a37-b608-40e7-b81d-b5288f8e1ad7">
+				<Abbreviation>
+					<AUni
+						ws="en">Syn-Desc</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2009-2-12 17:0:23.230" />
+				<DateModified
+					val="2009-2-12 17:0:23.230" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A list of basic descriptive Syntax tags.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Syntax-Descriptive</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="76944c07-99df-4615-91ba-42bf47f76e89">
+						<Abbreviation>
+							<AUni
+								ws="en">AdjP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.230" />
+						<DateModified
+							val="2009-2-12 17:0:23.230" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A phrase consisting of an Adjective and its modifiers.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Adjective Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="7e752a75-62a6-4060-86f7-b017c5ab2457">
+						<Abbreviation>
+							<AUni
+								ws="en">AdvP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.233" />
+						<DateModified
+							val="2009-2-12 17:0:23.233" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A phrase consisting of an Adverb and its modifiers.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Adverb Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="bf9831f3-a25e-4ea9-93f8-9b622c1246e2">
+						<Abbreviation>
+							<AUni
+								ws="en">Cl</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.237" />
+						<DateModified
+							val="2009-2-12 17:0:23.237" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A group of words with a single central Verb Phrase.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Clause</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="86e28395-640d-4412-ab5e-c817224daf51">
+						<Abbreviation>
+							<AUni
+								ws="en">Chn</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.240" />
+						<DateModified
+							val="2009-2-12 17:0:23.240" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A chain of Clauses.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Clause Chain</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="cc7b00f8-362d-464a-836e-3cda2d289b23">
+						<Abbreviation>
+							<AUni
+								ws="en">NP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.240" />
+						<DateModified
+							val="2009-2-12 17:0:23.240" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A phrase consisting of a Noun and its modifiers.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Noun Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="e76fdcff-1670-434a-84f8-adabd2e87580">
+						<Abbreviation>
+							<AUni
+								ws="en">PossP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.240" />
+						<DateModified
+							val="2009-2-12 17:0:23.240" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Possessive Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="2d4a8f73-6544-4ca6-9386-1707f3e031c5">
+						<Abbreviation>
+							<AUni
+								ws="en">PostP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.247" />
+						<DateModified
+							val="2009-2-12 17:0:23.247" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An Adpositional Phrase where the central constituent follows the Nominal.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Postpositional Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="61377d5a-587b-4adb-8a9c-f56845301d21">
+						<Abbreviation>
+							<AUni
+								ws="en">PreP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.247" />
+						<DateModified
+							val="2009-2-12 17:0:23.247" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An Adpositional Phrase where the central constituent precedes the Nominal.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Prepositional Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="5265868f-600b-4076-a026-cedc13df1660">
+						<Abbreviation>
+							<AUni
+								ws="en">RelCl</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.280" />
+						<DateModified
+							val="2009-2-12 17:0:23.280" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A clause that serves as a noun modifier.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Relative Clause</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="2238ba13-7b83-4466-8847-8f49dced78a4">
+						<Abbreviation>
+							<AUni
+								ws="en">Sent</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.280" />
+						<DateModified
+							val="2009-2-12 17:0:23.280" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A complete grouping of one or more Clauses.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Sentence</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="2a3a931c-3dc3-4bab-a617-fb9a072c5a3b">
+						<Abbreviation>
+							<AUni
+								ws="en">IP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.297" />
+						<DateModified
+							val="2009-2-12 17:0:23.297" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A grouping of (usually) a Verb Phrase and its inflectional modifiers.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Inflectional Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="4da04a11-d05d-41a1-ad1a-4bf77a89f357">
+						<Abbreviation>
+							<AUni
+								ws="en">VP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.297" />
+						<DateModified
+							val="2009-2-12 17:0:23.297" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A phrase consisting of a Verb and its direct modifiers.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Verb Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="50f0baa9-c136-4890-b825-6e8d0845dac5">
+				<Abbreviation>
+					<AUni
+						ws="en">Sem-RRG</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2009-2-12 17:0:23.297" />
+				<DateModified
+					val="2009-2-12 17:0:23.297" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A list of Semantic tags based on an email from John Roberts about RRG. This will need further work when crossing trees are possible in FLEx.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Semantics-RRG</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="e3013c4f-027e-4b73-b67a-977be0d716d3">
+						<Abbreviation>
+							<AUni
+								ws="en">ACTOR</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.303" />
+						<DateModified
+							val="2009-2-12 17:0:23.303" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An RRG macrorole, most agentive.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">ACTOR</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="fb3c86de-9296-4614-a146-9e8e1807896c">
+						<Abbreviation>
+							<AUni
+								ws="en">UNDER</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.307" />
+						<DateModified
+							val="2009-2-12 17:0:23.307" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An RRG macrorole, least agentive.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">UNDERGOER</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="c9a203a7-6daa-432d-ba05-268e8ceb79f6">
+						<Abbreviation>
+							<AUni
+								ws="en">NON-MR</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.307" />
+						<DateModified
+							val="2009-2-12 17:0:23.307" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Non-Macrorole argument</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">NON-MACROROLE</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="4e1f3672-3db6-4732-a762-2927c34b3c7a">
+				<Abbreviation>
+					<AUni
+						ws="en">Syn-RRG</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2009-2-12 17:0:23.307" />
+				<DateModified
+					val="2009-2-12 17:0:23.307" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A list of Syntax tags based on an email from John Roberts about RRG.</Run>
+					</AStr>
+				</Description>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Syntax-RRG</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="ddc8bdef-5de0-48ec-b622-1d2acdb36f1e">
+						<Abbreviation>
+							<AUni
+								ws="en">SENT</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.317" />
+						<DateModified
+							val="2009-2-12 17:0:23.317" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">SENTENCE</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="36c9c392-22fd-4d73-8d96-586a89be495c">
+						<Abbreviation>
+							<AUni
+								ws="en">CL</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.320" />
+						<DateModified
+							val="2009-2-12 17:0:23.320" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">CLAUSE</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="d823cf99-d5ac-4153-920e-ef7e7b72d9a0">
+						<Abbreviation>
+							<AUni
+								ws="en">CORE</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.320" />
+						<DateModified
+							val="2009-2-12 17:0:23.320" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">CORE</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="adc3c990-6844-41b2-8466-c509be0a1da0">
+						<Abbreviation>
+							<AUni
+								ws="en">NUC</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.320" />
+						<DateModified
+							val="2009-2-12 17:0:23.320" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">NUCLEUS</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="9f3e53ff-512c-4be5-a8a7-f08e3014739d">
+						<Abbreviation>
+							<AUni
+								ws="en">PRED</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.323" />
+						<DateModified
+							val="2009-2-12 17:0:23.323" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">PREDICATE</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="6aba3691-72bc-463c-8583-2d8ff157857b">
+						<Abbreviation>
+							<AUni
+								ws="en">LDP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.327" />
+						<DateModified
+							val="2009-2-12 17:0:23.327" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Left Detached Position</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="48d123ec-6945-4e8f-a41a-bc3eb1b53c02">
+						<Abbreviation>
+							<AUni
+								ws="en">RDP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.327" />
+						<DateModified
+							val="2009-2-12 17:0:23.327" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Right Detached Position</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="b4affbfc-de23-4386-8f19-5c8e3bf783f9">
+						<Abbreviation>
+							<AUni
+								ws="en">PrCS</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.330" />
+						<DateModified
+							val="2009-2-12 17:0:23.330" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Pre-core slot</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="59a2bd7a-4b1e-48bf-afa6-47d2952df0b1">
+						<Abbreviation>
+							<AUni
+								ws="en">PoCS</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.333" />
+						<DateModified
+							val="2009-2-12 17:0:23.333" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Post-core slot</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="38f13dc7-9678-45ea-9a30-91ee31eee1ea">
+						<Abbreviation>
+							<AUni
+								ws="en">PERI</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.337" />
+						<DateModified
+							val="2009-2-12 17:0:23.337" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">PERIPHERY</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="65fbbc28-3a7b-4cd3-a204-f826d8531d00">
+						<Abbreviation>
+							<AUni
+								ws="en">RP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.340" />
+						<DateModified
+							val="2009-2-12 17:0:23.340" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Referential Phrase replaces the Noun Phrase(NP) in earlier RRG models (Van Valin 2006).</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Reference Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="59bb9aea-677b-47e6-9f83-95254b124330">
+						<Abbreviation>
+							<AUni
+								ws="en">PRO</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.347" />
+						<DateModified
+							val="2009-2-12 17:0:23.347" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Used for arguments represented by bound morphemes.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Pronominal Argument</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="f966a7ca-14e5-47a9-aedc-d294a3c55cdd">
+						<Abbreviation>
+							<AUni
+								ws="en">AUX</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.347" />
+						<DateModified
+							val="2009-2-12 17:0:23.347" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Non-predicative verbs required for the formation of particular syntactic constructions.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Auxiliary</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="d35667f6-db74-41ba-88ff-d1aeacaf54e5">
+						<Abbreviation>
+							<AUni
+								ws="en">CORE-R</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.347" />
+						<DateModified
+							val="2009-2-12 17:0:23.347" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The CORE of a Referential Phrase.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">CORE-R</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="d5d6a6bb-d742-485c-85f9-6d37f79be136">
+						<Abbreviation>
+							<AUni
+								ws="en">NUC-R</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.350" />
+						<DateModified
+							val="2009-2-12 17:0:23.350" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The NUCLEUS of a Referential Phrase.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">NUCLEUS-R</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="df5e5ab4-a335-45ca-ac97-598750124c7b">
+						<Abbreviation>
+							<AUni
+								ws="en">RPIP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.350" />
+						<DateModified
+							val="2009-2-12 17:0:23.350" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Referential Phrase Initial Position</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="8a7fd49a-9740-48f6-81f5-72d7c3794b56">
+						<Abbreviation>
+							<AUni
+								ws="en">RPFP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.353" />
+						<DateModified
+							val="2009-2-12 17:0:23.353" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Referential Phrase Final Position</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="8b2007b8-24a2-4238-b3d2-ec7112202a0f">
+						<Abbreviation>
+							<AUni
+								ws="en">PERI-R</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.353" />
+						<DateModified
+							val="2009-2-12 17:0:23.353" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The PERIPHERY of a Referential Phrase.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">PERIPHERY-R</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="9eb6d8ec-6187-4c30-91dc-3540a9da8e5b">
+						<Abbreviation>
+							<AUni
+								ws="en">MP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.357" />
+						<DateModified
+							val="2009-2-12 17:0:23.357" />
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Modifier Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="36120b70-5775-47bc-ae37-811bf538b680">
+						<Abbreviation>
+							<AUni
+								ws="en">CORE-M</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.360" />
+						<DateModified
+							val="2009-2-12 17:0:23.360" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The CORE of a Modifier Phrase.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">CORE-M</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="5f2f299e-4b28-445b-9f13-4d5677f407ad">
+						<Abbreviation>
+							<AUni
+								ws="en">NUC-M</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.360" />
+						<DateModified
+							val="2009-2-12 17:0:23.360" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The NUCLEUS of a Modifier Phrase.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">NUCLEUS-M</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="ad2b4e44-143b-4b68-ac92-f51328eaa092">
+						<Abbreviation>
+							<AUni
+								ws="en">PP</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.360" />
+						<DateModified
+							val="2009-2-12 17:0:23.360" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">PP is either Prepositional Phrase or Postpositional Phrase depending on the typology of the language.</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Adpositional Phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="06d68e54-565a-484d-8290-4abab77ff743">
+						<Abbreviation>
+							<AUni
+								ws="en">CORE-P</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.360" />
+						<DateModified
+							val="2009-2-12 17:0:23.360" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The CORE of an Adpositional Phrase(PP).</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">CORE-P</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="369c39f9-b5f0-41fe-b84f-80534a407fcb">
+						<Abbreviation>
+							<AUni
+								ws="en">NUC-P</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2009-2-12 17:0:23.373" />
+						<DateModified
+							val="2009-2-12 17:0:23.373" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The NUCLEUS of an Adpositional Phrase(PP).</Run>
+							</AStr>
+						</Description>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">NUCLEUS-P</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="true" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</TextMarkupTags>

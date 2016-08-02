@@ -1,0 +1,4235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PartsOfSpeech>
+	<CmPossibilityList
+		guid="a7c03b70-3b4f-4853-a437-6b9a02ac6195">
+		<Abbreviation>
+			<AUni
+				ws="en">Pos</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-6-22 13:56:8.340" />
+		<DateModified
+			val="2009-4-9 21:34:16.870" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="true" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="5049" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Parts Of Speech</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="PartOfSpeech"
+				guid="c6e7f0b9-2de7-4172-86bf-f865ddfe4a66">
+				<Abbreviation>
+					<AUni
+						ws="en">Adv</AUni>
+					<AUni
+						ws="pt">Adv</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<CatalogSourceId>
+					<Uni>Adverb</Uni>
+				</CatalogSourceId>
+				<DateCreated
+					val="2005-6-22 13:56:13.587" />
+				<DateModified
+					val="2006-9-11 20:22:16.270" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">An adverb, narrowly defined, is a part of speech whose members modify verbs for such categories as time, manner, place, or direction. An adverb, broadly defined, is a part of speech whose members modify any constituent class of words other than nouns, such as verbs, adjectives, adverbs, phrases, clauses, or sentences. Under this definition, the possible type of modification depends on the class of the constituent being modified.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="c2711817-c353-4469-a6e2-cf1eaf381d86">
+						<DateModified
+							val="2011-2-2 19:19:27.750" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="0ce33a57-7a9d-4790-ac4c-e4b3b74f8236">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="6303632" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Adverb</AUni>
+					<AUni
+						ws="pt">Advérbio</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="1" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="3ecbfcc8-76d7-43bc-a5ff-3c47fabf355c">
+				<Abbreviation>
+					<AUni
+						ws="en">N</AUni>
+					<AUni
+						ws="pt">N</AUni>
+				</Abbreviation>
+				<AffixSlots>
+					<MoInflAffixSlot
+						guid="8dbea555-e604-4cc9-b39b-24a8009511f7">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">double noun class marker, can only be classes 6, 7, 8, 12,14, 16, 17 &amp; 18</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">dblncl</AUni>
+							<AUni
+								ws="pt">dblncl</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="93baff71-1181-41de-8e48-3a17be386cff">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">noun class marker</Run>
+							</AStr>
+							<AStr
+								ws="pt">
+								<Run
+									ws="pt">classe de nome</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">ncl</AUni>
+							<AUni
+								ws="pt">ncl</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="b37c404e-790d-4b0e-9981-4088220ec17a">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">used in polite address eg "madzibaba"</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">extncl</AUni>
+							<AUni
+								ws="pt">extnpx</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+				</AffixSlots>
+				<AffixTemplates>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="03645ac5-5189-435a-9273-f8237c72401a">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Basic noun</AUni>
+							<AUni
+								ws="pt">Nome básico</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="93baff71-1181-41de-8e48-3a17be386cff"
+								t="r" />
+						</PrefixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="f7ab88be-5d3a-45ab-bb74-c496e223cedb">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">note that this slot can also be used for diminuatives eg cimuti</Run>
+							</AStr>
+						</Description>
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Locative noun</AUni>
+							<AUni
+								ws="pt">Nome Locativo</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="8dbea555-e604-4cc9-b39b-24a8009511f7"
+								t="r" />
+							<refseq
+								guid="93baff71-1181-41de-8e48-3a17be386cff"
+								t="r" />
+						</PrefixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="38b0f2d4-e2eb-4756-9617-0eb6bf73ec8d">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Polite address stem noun</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="93baff71-1181-41de-8e48-3a17be386cff"
+								t="r" />
+							<refseq
+								guid="b37c404e-790d-4b0e-9981-4088220ec17a"
+								t="r" />
+						</PrefixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="33fbb176-4678-41df-844c-c6359cab285e">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Class 14 plural</AUni>
+						</Name>
+					</ownseq>
+				</AffixTemplates>
+				<BackColor
+					val="-1073741824" />
+				<CatalogSourceId>
+					<Uni>Noun</Uni>
+				</CatalogSourceId>
+				<DateCreated
+					val="2005-6-22 13:56:13.587" />
+				<DateModified
+					val="2006-10-3 15:12:32.960" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A noun is a broad classification of parts of speech which include substantives and nominals.</Run>
+					</AStr>
+					<AStr
+						ws="pt">
+						<Run
+							ws="pt">Nome, substantivo</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="118c770f-a1e0-456b-a400-802aeffd9d48">
+						<DateModified
+							val="2011-2-2 19:19:27.750" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="a1b5423c-d058-4587-a8cc-a5eaa64866f1">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="16777152" />
+				<Hidden
+					val="False" />
+				<InflectableFeats>
+					<refcol
+						guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+						t="r" />
+				</InflectableFeats>
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Noun</AUni>
+					<AUni
+						ws="pt">Nome</AUni>
+				</Name>
+				<ReferenceForms>
+					<FsFeatStruc
+						guid="05c39822-f6d8-4848-8417-cae3480f82bc">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="a2d2127d-2cd7-447f-9be5-7a90662e0516">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="51eaab23-d6fd-4aea-9f91-7e1fa0ce61b1">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="83da001f-91ea-45fb-ba13-4ade55e5dee0">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="b143668a-886e-411b-a3f8-7faf69e3c8a8"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="127d9f04-f983-4d07-9b6d-e2f4dd92a893">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="c941725f-bde0-4eaa-9dc6-3c5a2eee45b0">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="cac5450e-1772-4e79-841b-b0ead0d5701a">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="fdb214b8-ebed-4e7a-9af0-a639ec2693e8">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="314759d7-3113-44fa-b58b-5935cdc4757b"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="1f9c9c38-75d1-4fec-953a-38cf84ca84b5">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="55990b6c-a203-4077-b3e5-80f2ad5ddc60">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="52718b94-b20d-4232-89be-08bafb25a2fc">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="8baf4269-f793-40a5-a0ef-749779cbcb11">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="56a01a3f-024a-432e-803c-01e7659e2ff1"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="4390419f-1721-42f3-b760-12e46cc8daf7">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="ea37da4c-8a53-4ea0-930b-ee626ce9527b">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="0b7fd3a6-0617-4996-8727-e2fc1e105063">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="5a55d7b2-b80c-417e-9e96-39b6db056ca8">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="e4bae34e-81d7-48ca-a8b0-619e0667fe7b"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="45d19fa4-70f1-4402-9516-de7e49913e57">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="6d4adbec-212f-4aad-8f51-cbec4d98da03">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="a5965a10-6cde-4d6e-98f4-89d17781ebda">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="6bb6b1a7-a938-4d73-a343-8835183622c3">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="cd42b56b-8868-492b-87af-dc57132fc6c9"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="574f3ed7-dc23-45c1-b2db-bc41e8af8a03">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="408085d7-794c-4b08-8af3-40bf4d8fdf2f">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="7ffda344-242b-40aa-b25a-5cf8d968b1f2">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="0b2e3d3b-9ebc-4474-bb2e-c0fc47136c3e">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="cd42b56b-8868-492b-87af-dc57132fc6c9"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="59711db4-1cad-4a45-926f-3c773de77f84">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="4a7121cf-d840-4be3-a6cc-80d18c0de462">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="c530849e-ad44-4aab-95ee-b7982575a8ca">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="1d595b5b-479c-4b5a-ac80-27bac3909942">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="76d9640d-f5f8-4a54-b169-238bcc0ad3a5"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="5cdedc25-cb4f-4e71-b8db-690fe2000f81">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="77271edc-7910-4575-88d7-c427888b18e5">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="c77e5f2e-b3c5-4e67-9125-671cc1cf213f">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="fba5a9fe-9b82-449b-8252-02b4c7070874">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="cd42b56b-8868-492b-87af-dc57132fc6c9"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="619b986a-8ec7-4117-81aa-5f5e30517c06">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="d8c22ac7-f17c-400a-9bf6-2ae810b49d3a">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="1380ae40-3f00-41a7-ab89-653c20294737">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="a8fc1149-452d-4c8d-8a3d-1dbb7c752b51">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="d7772128-fc8c-4091-994b-764a8010bd5e"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="6961375e-86df-42a9-bda2-cff14bff7918">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="77dd03ae-5244-4674-8f94-c46512f7638c">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="688d65f4-87cc-4ad4-aaba-db8f6d498bb2">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="3a27976a-1138-428c-9e40-7f3d64491a70">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="87dee9e5-16e2-4791-a730-652e368bb059"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="6c8a92e8-e404-498a-b7d1-976b5cf28776">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="33f64571-0d1e-4227-98a1-d8308d09a206">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="54879383-242c-4a78-ab7b-893be9f1e191">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="a9fc8e26-de04-42ce-9654-8aeb93133cb8">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="f44b198a-52d2-46fa-8bfe-9019cfd258f0"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="71d31c6d-c70d-4c05-a044-91549d19758b">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="03d42f69-77a9-4ab2-bb1b-c8546f5e4eae">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="080ada22-c152-4169-b904-6b96fcc0e13f">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="6c960652-9e4c-4584-b128-f2d80756d451">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="4ca6b213-e53a-4e15-b7a5-54ba0056bd85"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="78563943-dbfd-4c64-9d21-5ed541847f2e">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="06c6596f-3768-47d5-b743-49cb88dfd16f">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="4b4d2152-8be4-462e-a245-160b022572b8">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="122157c5-8e7e-4d5a-ac01-35a72c7df781">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="729f5986-94c7-44a4-b64e-e42af7e7d6ba"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="818f02a7-41d5-409b-9b9b-be3c4f414914">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="f7e727d5-f205-4989-bdc8-b760e1c8a1b8">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="aa7f236b-2f64-4a82-be09-3875e919e918">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="5edc718d-9ade-438c-a86f-1fca58fe2df9">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="99eb82f4-6ba2-4e2c-8c26-de920549d9cb"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="927f0127-eeb0-4159-9634-93ce3698efbf">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="05b78314-553f-42e0-af86-fdc909addddb">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="474292eb-2eb0-4ed1-a029-8f368bcdb57a">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="f0b61e51-199a-44dd-ae9a-d6e018676fea">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="7cd4afa0-91d0-482d-a231-6bca3b46eb4f"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="ad5ec7e3-1a74-434f-ab02-3e8510fc06a4">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="85142b80-d45c-41b0-b769-ddd36820dd52">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="59fe2939-afd1-431d-bcf0-fab89317e9c3">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="715569a2-dd0e-4a27-82a4-777efb9e8cdc">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="0ff81759-536e-4381-b271-06e3eece6e73"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="bb0ad0a5-9ed5-4763-88a9-8ab7e9fe9226">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="71eee9ee-5f7c-4703-8db2-bc2ac1162c02">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="62ac35d1-0ae4-4f66-99ee-1b619e98333a">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="314b05a9-8b8c-4564-b294-4e0f27acabc4">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="857cfa6a-7d41-4295-a1ce-2904cbdf4d09"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="cfeded1d-6207-48c6-8fe3-639682d91e41">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="af8bec05-cc28-4e53-bf61-1255d55f26fd">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="3cfcb481-2cea-4186-8197-251e3baf48e0">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="a2d4defa-d5b1-4cc5-9ae2-b1927b11975f">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="7924a9fa-c79b-405e-8225-42a393d555ca"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="d0741227-ebb2-478d-9f31-aa3767fc998e">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="fbd4189d-b503-4a7d-8d9f-3c03596a7277">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="f4d528bf-543c-405e-9df1-4d5c5b9f8b07">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="37045ac8-eeb6-4d72-90c7-4c943a247cea">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="56fc7efb-b07f-4f5b-9ab9-79dfc8a4c1f9"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="e08d97d8-9369-4f7e-b356-21aecfcf2cc8">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="7dd4a56d-c1c3-4a82-a451-9f410590d7bd">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="efae964e-8002-4d54-aed9-2d681e122fa3">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="251f286e-2a6d-4a51-bb84-ca0f133e5f6b">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="7ad14145-10c6-4d6b-a54d-4b6453b38116"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="e4ecea1b-78d5-4aff-8b22-b1883b90436d">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="db7c20d7-748d-4ec1-85a7-a41a2d3c990d">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="cd26df09-912e-4866-894e-dec0a0427e63">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="034006a4-9c92-405f-a1c7-c7e327f99cf0">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="ddd53034-8561-4e4b-b23a-ab0b5b3332b1"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+					<FsFeatStruc
+						guid="ea9796e1-e9ae-4c21-b83f-de9706950b2c">
+						<FeatureSpecs>
+							<FsComplexValue
+								guid="321aade3-63b0-4de3-b27f-f0aaac2356e0">
+								<Feature>
+									<objsur
+										guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+										t="r" />
+								</Feature>
+								<RefNumber
+									val="0" />
+								<Value>
+									<FsFeatStruc
+										guid="8b2eded7-4e41-4071-8acc-aed9ceddd0ec">
+										<FeatureSpecs>
+											<FsClosedValue
+												guid="999965c2-4e0d-4939-a63a-e28097270d3a">
+												<Feature>
+													<objsur
+														guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+														t="r" />
+												</Feature>
+												<RefNumber
+													val="0" />
+												<Value>
+													<objsur
+														guid="3b9ad749-69a8-4e0b-8313-938201a14032"
+														t="r" />
+												</Value>
+												<ValueState
+													val="0" />
+											</FsClosedValue>
+										</FeatureSpecs>
+										<Type>
+											<objsur
+												guid="cc64bf42-a64b-4d57-b14a-504e7d89ebc0"
+												t="r" />
+										</Type>
+									</FsFeatStruc>
+								</Value>
+								<ValueState
+									val="0" />
+							</FsComplexValue>
+						</FeatureSpecs>
+						<Type>
+							<objsur
+								guid="1828a080-11b7-46ec-8c87-b07b426fbe52"
+								t="r" />
+						</Type>
+					</FsFeatStruc>
+				</ReferenceForms>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="3" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="748af620-8cd0-4364-a951-c234306f5b9f">
+				<Abbreviation>
+					<AUni
+						ws="en">Cop</AUni>
+					<AUni
+						ws="pt">Cop</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-8-10 14:33:32.763" />
+				<DateModified
+					val="2006-9-11 21:48:46.977" />
+				<Discussion>
+					<StText
+						guid="6c8c0392-3842-495c-bd93-a397ba6aeb1b">
+						<DateModified
+							val="2011-2-2 19:19:27.750" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="b8387935-1bd9-410a-a8a1-2cad9c4633d8">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Copula Verb</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="c99beb3a-995d-4156-a66c-9b7d0860c332">
+				<Abbreviation>
+					<AUni
+						ws="en">Nomzr</AUni>
+					<AUni
+						ws="pt">Nomzr </AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-10-10 16:6:18.83" />
+				<DateModified
+					val="2005-10-10 16:6:18.83" />
+				<Discussion>
+					<StText
+						guid="52c6d35d-0c7d-41df-bb80-66937dd7e985">
+						<DateModified
+							val="2011-2-2 19:19:27.750" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="72028ffe-ebbd-4ae6-889a-0f1a06925cad">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Nominalizer</AUni>
+					<AUni
+						ws="pt">Nominalizador</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="54dfc4de-7b9f-4840-89bc-b9fd4d8a5a19">
+				<Abbreviation>
+					<AUni
+						ws="en">Intj</AUni>
+					<AUni
+						ws="pt">Intj</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-6-23 16:30:40.827" />
+				<DateModified
+					val="2006-9-11 21:49:28.903" />
+				<Discussion>
+					<StText
+						guid="89039dc5-f289-41ae-bb84-33144be2e9ce">
+						<DateModified
+							val="2011-2-2 19:19:27.750" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="a12a9515-0eb4-4db6-9084-6d18cf3087f1">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Interjection</AUni>
+					<AUni
+						ws="pt">Interjeição</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="90db97f0-cea8-40bb-9bb0-d67b119614f6">
+				<Abbreviation>
+					<AUni
+						ws="en">Conj</AUni>
+					<AUni
+						ws="pt">Conj</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<CatalogSourceId>
+					<Uni>Connective</Uni>
+				</CatalogSourceId>
+				<DateCreated
+					val="2005-7-25 17:30:31.597" />
+				<DateModified
+					val="2006-9-11 20:22:24.803" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Also known as a connective, a Connective is a class of parts of speech whose members syntactically link words or larger constituents, and expresses a semantic relationship between them. A conjunction is positionally fixed relative to one or more of the elements related by it, thus distinguishing it from constituents such as English conjunctive adverbs.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="68eb86cb-9371-44fd-a28c-baa098dd7cb5">
+						<DateModified
+							val="2011-2-2 19:19:27.750" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="4e453f63-4512-465d-9958-8787210a7736">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Conjunction</AUni>
+					<AUni
+						ws="pt">Conjunção</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="24f4134f-0530-449c-b809-8a633ced440d">
+				<Abbreviation>
+					<AUni
+						ws="en">Prep</AUni>
+					<AUni
+						ws="pt">Prep</AUni>
+				</Abbreviation>
+				<AffixSlots>
+					<MoInflAffixSlot
+						guid="a53165bd-dd50-4b6d-8934-ee5a2b487fc2">
+						<Name>
+							<AUni
+								ws="en">assocncl</AUni>
+							<AUni
+								ws="pt">assocncl</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+				</AffixSlots>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-6-23 16:30:41.13" />
+				<DateModified
+					val="2006-9-11 21:49:44.793" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">In ciSena this can be 1) locative marker operating on the phrase level  wa 2) an associative 3) copula verb with  a locative prefix  kuli 4) "na" 'with' with a locative prefix eg "kuna" 4) location words with "na" eg. pafupi na 5) a word mpaka</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="aff0207f-d3a1-4bb8-a2ae-9bd04ec5de08">
+						<DateModified
+							val="2011-2-2 19:19:27.750" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="c8fc3ec0-45bc-4a0e-9cf7-a00e36b0a65b">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Preposition</AUni>
+					<AUni
+						ws="pt">Preposição</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="PartOfSpeech"
+						guid="8d0461bd-2b2e-4d65-9f17-0ab5b99d0736">
+						<Abbreviation>
+							<AUni
+								ws="en">Assoc</AUni>
+							<AUni
+								ws="pt">Assoc</AUni>
+						</Abbreviation>
+						<AffixTemplates>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="e25612c4-748a-4e1e-bafc-0346083def6d">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<PrefixSlots>
+									<refseq
+										guid="a53165bd-dd50-4b6d-8934-ee5a2b487fc2"
+										t="r" />
+								</PrefixSlots>
+							</ownseq>
+						</AffixTemplates>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2006-7-31 15:39:46.137" />
+						<DateModified
+							val="2006-9-11 21:48:0.757" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">As a word it functions as a preposition, it can also be a prefix to a possessive root. Q: should it be listed separtely as a preposion and a prefix- ?</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="14df4187-76b6-41bd-bd23-54ef0796a71a">
+								<DateModified
+									val="2011-2-2 19:19:27.750" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="bb10ddd1-8a73-41f1-b268-1a305f5410e4">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Associative</AUni>
+							<AUni
+								ws="pt">Associativo</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="a511495e-48fa-46fe-a9db-fd5d31e585b3">
+						<Abbreviation>
+							<AUni
+								ws="en">PrepPhr</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2007-1-22 18:59:44.820" />
+						<DateModified
+							val="2007-1-22 19:0:0.27" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A prepositional phrase may be a group of words but here I am glossing contractions</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="674db470-5949-4479-9ebc-29c50716822d">
+								<DateModified
+									val="2011-2-2 19:19:27.750" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="4ce1d1d9-1c13-4728-a2e1-e61ae669ddae">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Prepositional phrase</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="61b871bd-293d-4144-9c36-4ffe3d3d078f">
+				<Abbreviation>
+					<AUni
+						ws="en">Poss</AUni>
+					<AUni
+						ws="pt">Poss</AUni>
+				</Abbreviation>
+				<AffixSlots>
+					<MoInflAffixSlot
+						guid="850c248a-2216-4949-bcea-b7c12a114290">
+						<Name>
+							<AUni
+								ws="en">possncl</AUni>
+							<AUni
+								ws="pt">possncl</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="9180faf1-3460-44e3-ba08-5ef0465c3bbd">
+						<Name>
+							<AUni
+								ws="en">assocpx</AUni>
+							<AUni
+								ws="pt">assocpx</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+				</AffixSlots>
+				<AffixTemplates>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="c929bcd0-9f35-4138-91b5-b57866bbd681">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Possesive</AUni>
+							<AUni
+								ws="pt">Possessivo</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="850c248a-2216-4949-bcea-b7c12a114290"
+								t="r" />
+							<refseq
+								guid="9180faf1-3460-44e3-ba08-5ef0465c3bbd"
+								t="r" />
+						</PrefixSlots>
+					</ownseq>
+				</AffixTemplates>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2006-8-3 17:43:17.103" />
+				<DateModified
+					val="2006-9-13 16:0:23.357" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">The possesives are formed by prefixing a set of possessive roots with the associative particle of the noun class being modified. When they are fused with the noun they modify the associative particle is elided.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="7e347546-47a9-4b1f-9d5f-5bf3091b58a4">
+						<DateModified
+							val="2011-2-2 19:19:27.750" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="08da9d08-40f7-4203-8cb2-191b35198773">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<InflectableFeats>
+					<refcol
+						guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+						t="r" />
+					<refcol
+						guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+						t="r" />
+					<refcol
+						guid="9a9e7176-047e-4d1b-8de2-b37bc41a4730"
+						t="r" />
+				</InflectableFeats>
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Possessive</AUni>
+					<AUni
+						ws="pt">Possessivo</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="3334b4ff-18aa-405b-854a-c727fd7ee109">
+				<Abbreviation>
+					<AUni
+						ws="en">Pro-form</AUni>
+					<AUni
+						ws="pt">Pro-form</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<CatalogSourceId>
+					<Uni>Pro-form</Uni>
+				</CatalogSourceId>
+				<DateCreated
+					val="2005-8-25 20:59:59.650" />
+				<DateModified
+					val="2006-9-11 20:24:12.807" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A pro-form is a part of speech whose members usually substitute for other constituents, including phrases, clauses, or sentences, and whose meaning is recoverable from the linguistic or extralinguistic context.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="6f2ddd62-5f69-43e2-8aa5-d65186d9bd83">
+						<DateModified
+							val="2011-2-2 19:19:27.751" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="9e302684-5c15-43da-9a30-1826acdccae8">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Pro-form</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="PartOfSpeech"
+						guid="78f35fe9-e85c-441c-a162-230d785efddc">
+						<Abbreviation>
+							<AUni
+								ws="en">Pro</AUni>
+							<AUni
+								ws="pt">Pro</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<CatalogSourceId>
+							<Uni>Pronoun</Uni>
+						</CatalogSourceId>
+						<DateCreated
+							val="2005-6-22 13:56:13.600" />
+						<DateModified
+							val="2006-10-2 17:48:14.953" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An Independent Pronoun functions like a noun and substitutes for a noun or noun phrase. It is contrastive my nature, used to distinguist between main characters on state at the same time in a narrative.</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="32a20147-ff3c-4dd4-b7fe-3c6d619c3603">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="b56af07f-72a2-4b9d-b7cd-9388287dcc1d">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="49407" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Independent Pronoun</AUni>
+							<AUni
+								ws="pt">Pronome Independente</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="PartOfSpeech"
+								guid="d35c60bd-e436-4769-a6c6-96770a849831">
+								<Abbreviation>
+									<AUni
+										ws="en">Ppron</AUni>
+									<AUni
+										ws="pt">Ppron</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2005-6-23 16:30:40.937" />
+								<DateModified
+									val="2006-9-11 21:48:20.540" />
+								<Discussion>
+									<StText
+										guid="83bffdf0-0534-499f-86e5-75b88d0a37f9">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="a2ac7b88-d17b-4c93-be9b-7d61b2aa9bd7">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Personal Pronoun</AUni>
+									<AUni
+										ws="pt">Pronome Pessoal</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="3" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="ed463a0b-7031-470d-bd49-2e0242dda244">
+				<Abbreviation>
+					<AUni
+						ws="en">Det</AUni>
+					<AUni
+						ws="pt">Det</AUni>
+				</Abbreviation>
+				<AffixSlots>
+					<MoInflAffixSlot
+						guid="6c1cb015-e039-476a-8488-61ba33cdda3c">
+						<Name>
+							<AUni
+								ws="en">adjncl</AUni>
+							<AUni
+								ws="pt">adjncl</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="7bced391-3911-45bb-808e-0d6a67135667">
+						<Name>
+							<AUni
+								ws="en">sbj</AUni>
+							<AUni
+								ws="pt">sbj</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+				</AffixSlots>
+				<BackColor
+					val="-1073741824" />
+				<CatalogSourceId>
+					<Uni>Determiner</Uni>
+				</CatalogSourceId>
+				<DateCreated
+					val="2006-7-28 22:11:55.660" />
+				<DateModified
+					val="2006-9-13 15:32:33.17" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A determiner is a part of speech whose members belong to a class of noun modifiers and express the reference, including quantity, of a noun.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="1b4585cb-c6d2-4e45-bf2d-2773325cbc6c">
+						<DateModified
+							val="2011-2-2 19:19:27.751" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="0ed6e707-1710-4b98-b504-5283b66a807f">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Determiner</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="PartOfSpeech"
+						guid="f91fd93f-2c48-4cee-a18a-521744dedcb3">
+						<Abbreviation>
+							<AUni
+								ws="en">Dem</AUni>
+							<AUni
+								ws="pt">Dem</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<CatalogSourceId>
+							<Uni>Demonstrative</Uni>
+						</CatalogSourceId>
+						<DateCreated
+							val="2006-7-28 22:12:24.253" />
+						<DateModified
+							val="2006-8-15 16:32:0.93" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A demonstrative is a determiner that is used deictically to indicate a referent's spatial, temporal, or discourse location. A demonstrative functions as a modifier of a noun, or a pronoun.</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="61c38d7f-d09b-4f61-9953-4b6fb69bddfa">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="e2fb99ca-71ab-4304-926f-3ee56e86c571">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Demonstrative</AUni>
+							<AUni
+								ws="pt">Demonstrativo</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="PartOfSpeech"
+								guid="40b0ad55-5b3e-4e4f-acf8-e3a060dc21b1">
+								<Abbreviation>
+									<AUni
+										ws="en">dem1</AUni>
+									<AUni
+										ws="pt">dem1</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2006-7-28 22:23:49.657" />
+								<DateModified
+									val="2006-8-16 21:24:24.403" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">immediate previous back-refernece or spacially proximal</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="40f83624-4f66-4bd3-94d4-6c4ac8045039">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="03a6e18f-c076-4014-993a-732f265990b3">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Demonstrative1</AUni>
+									<AUni
+										ws="pt">Demonstrativo1</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="PartOfSpeech"
+								guid="730528ca-6a9b-4424-9839-a58bf66db779">
+								<Abbreviation>
+									<AUni
+										ws="en">dem2</AUni>
+									<AUni
+										ws="pt">dem2</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2006-7-28 22:26:31.233" />
+								<DateModified
+									val="2006-8-16 21:24:0.577" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">"-o" spacially distal or for activating minor characters or props</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="33edd227-2c0e-4117-9bc9-d4c762dcaf7e">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="87ed75ad-a42c-4601-9653-7537dc4e4f9b">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Demonstrative2</AUni>
+									<AUni
+										ws="pt">Demonstrativo2</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="PartOfSpeech"
+								guid="6eb02b74-d776-4c26-987e-bd99dd3520ca">
+								<Abbreviation>
+									<AUni
+										ws="en">dem3</AUni>
+									<AUni
+										ws="pt">dem3</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2006-7-28 22:28:17.983" />
+								<DateModified
+									val="2006-8-16 21:24:34.920" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">"-le/-re" further than dem2, thematically salient</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="54148823-1fd2-4466-8659-63522147f964">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="f1549da7-1bc3-4331-9c38-58dea3c90df9">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Demonstrative3</AUni>
+									<AUni
+										ws="pt">Demonstrativo3</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="PartOfSpeech"
+								guid="3a3b7275-3bbd-4f24-b584-2c9b2a068b62">
+								<Abbreviation>
+									<AUni
+										ws="en">dem4</AUni>
+									<AUni
+										ws="pt">dem4</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2006-7-28 22:29:57.873" />
+								<DateModified
+									val="2006-8-16 21:24:44.310" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">"-no" closer than dem1, physical contact with speaker</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="b4fcc661-08ea-43e2-a46b-599205031321">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="9454d7d5-0756-42d5-87c5-a24a05e0c5cf">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Demonstrative4</AUni>
+									<AUni
+										ws="pt">Demonstrativo4</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="PartOfSpeech"
+								guid="b6ad792c-1067-4e8c-bc84-207a26784bb7">
+								<Abbreviation>
+									<AUni
+										ws="en">dem5</AUni>
+									<AUni
+										ws="pt">dem5</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2006-7-28 22:31:28.340" />
+								<DateModified
+									val="2006-8-16 21:24:53.607" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">"-ene-" emphatic "this very one", proximal</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="433f75e4-16b1-4676-ba52-cab39e30714f">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="f4fbcadb-f6da-449b-87e8-bfb0c1061609">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Demonstrative5</AUni>
+									<AUni
+										ws="pt">Demonstrativo5</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="PartOfSpeech"
+								guid="4b013c5c-12a5-4bfe-aec3-248b8e3847f0">
+								<Abbreviation>
+									<AUni
+										ws="en">dem6</AUni>
+									<AUni
+										ws="pt">dem6</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<DateCreated
+									val="2006-7-28 22:34:56.653" />
+								<DateModified
+									val="2006-8-16 21:25:3.637" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">"-ene- -o" emphatic "this very one", distal</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="41222807-c052-4857-aa88-7c0e3e20c0a4">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="ea8949a0-4d57-480a-a6f8-0de2761424cb">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Demonstrative6</AUni>
+									<AUni
+										ws="pt">Demonstrativo6</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="c4a797ae-3129-457a-9a5c-8c1c62eb4474">
+						<Abbreviation>
+							<AUni
+								ws="en">Inter</AUni>
+							<AUni
+								ws="pt">Inter</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2005-6-23 16:30:39.903" />
+						<DateModified
+							val="2006-9-11 21:49:7.917" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Interrogatives can funcion sytactically as an adjective with the noun they modify or as pronouns, replaceing the noun.</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="5a5f68d2-56f8-4955-a57a-e49bfa8c02da">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="f1e2fbca-4fa3-40d4-a16c-df45b3f99de0">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Interrogative</AUni>
+							<AUni
+								ws="pt">Interrogativo</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="44caec78-e079-4329-ab85-9e9fb96af30a">
+						<Abbreviation>
+							<AUni
+								ws="en">Num</AUni>
+							<AUni
+								ws="pt">Num</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2005-6-23 16:30:40.13" />
+						<DateModified
+							val="2006-9-11 21:49:18.590" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A numeral can be abstract counting without an agreement marker or can modify a noun with an agreement marker.</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="6985ad75-b49e-4e6e-a3a5-60e4f32a3676">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="7eac2d3a-aa34-4542-b960-b71a8f2746e8">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Numeral</AUni>
+							<AUni
+								ws="pt">Numeral</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<SubPossibilities>
+							<ownseq
+								class="PartOfSpeech"
+								guid="57624cac-0b24-4056-91a3-311bfee73520">
+								<Abbreviation>
+									<AUni
+										ws="en">Cardnum</AUni>
+									<AUni
+										ws="pt">Cardnum</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<CatalogSourceId>
+									<Uni>CardinalNumeral</Uni>
+								</CatalogSourceId>
+								<DateCreated
+									val="2006-8-3 18:34:56.967" />
+								<DateModified
+									val="2006-9-11 20:23:1.367" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A cardinal numeral is a numeral of the class whose members are considered basic in form, are used in counting, and are used in expressing how many objects are referred to.</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="597b576d-de46-4956-ae4c-fcfb69928066">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="f2b2e461-f897-43d8-928a-f53adb1e4c25">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Cardinal numeral</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="PartOfSpeech"
+								guid="52a13307-37cd-4514-a9bd-a37a445bd754">
+								<Abbreviation>
+									<AUni
+										ws="en">Multipnum</AUni>
+									<AUni
+										ws="pt">Multipnum</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<CatalogSourceId>
+									<Uni>MultiplicativeNumeral</Uni>
+								</CatalogSourceId>
+								<DateCreated
+									val="2006-8-3 18:37:28.280" />
+								<DateModified
+									val="2006-9-11 20:23:11.773" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A multiplicative numeral is a numeral that expresses how many fold or how many times. In Sena it is a numeral with a "ka-" (cl 12)</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="0f2e435f-4974-4a09-95e1-220ea09ecb33">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="2494bc95-cbac-4256-81fc-824b4c9f1dc0">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Multiplicative numeral</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+							<ownseq
+								class="PartOfSpeech"
+								guid="5e64a2db-54cf-4d53-96ca-8abb3e8ba934">
+								<Abbreviation>
+									<AUni
+										ws="en">Ord Num</AUni>
+									<AUni
+										ws="pt">Ord Num</AUni>
+								</Abbreviation>
+								<BackColor
+									val="-1073741824" />
+								<CatalogSourceId>
+									<Uni>OrdinalNumeral</Uni>
+								</CatalogSourceId>
+								<DateCreated
+									val="2006-8-3 18:33:59.353" />
+								<DateModified
+									val="2006-9-11 20:23:26.760" />
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">An ordinal numeral is a numeral belonging to a class whose members designate positions in a sequence. Structure is like the derived adjectives:  noun associative numeral in which the numeral is usually class 7 (ci-) but has complex rules for some.</Run>
+									</AStr>
+								</Description>
+								<Discussion>
+									<StText
+										guid="467c02dd-041c-4742-a656-8cdfc132b258">
+										<DateModified
+											val="2011-2-2 19:19:27.751" />
+										<Paragraphs>
+											<ownseq
+												class="StTxtPara"
+												guid="892869ce-96e3-484d-b5cf-7a0d4ccc351d">
+												<ParseIsCurrent
+													val="False" />
+											</ownseq>
+										</Paragraphs>
+										<RightToLeft
+											val="False" />
+									</StText>
+								</Discussion>
+								<ForeColor
+									val="-1073741824" />
+								<Hidden
+									val="False" />
+								<IsProtected
+									val="False" />
+								<Name>
+									<AUni
+										ws="en">Ordinal numeral</AUni>
+								</Name>
+								<SortSpec
+									val="0" />
+								<UnderColor
+									val="-1073741824" />
+								<UnderStyle
+									val="0" />
+							</ownseq>
+						</SubPossibilities>
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="b460265b-9132-4e52-bb51-64b5a2aa7f69">
+						<Abbreviation>
+							<AUni
+								ws="en">Adj</AUni>
+							<AUni
+								ws="pt">Adj</AUni>
+						</Abbreviation>
+						<AffixTemplates>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="c6dfc6b4-afd9-4eb7-b9cd-aabc65507b85">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<Name>
+									<AUni
+										ws="en">Adjective with noun agreement</AUni>
+								</Name>
+								<PrefixSlots>
+									<refseq
+										guid="6c1cb015-e039-476a-8488-61ba33cdda3c"
+										t="r" />
+								</PrefixSlots>
+							</ownseq>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="74538667-7111-4b9d-8e96-6a1566a02449">
+								<Description>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When an adjective agrees with a person then it uses the vebal subject person agreement markers</Run>
+									</AStr>
+								</Description>
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<Name>
+									<AUni
+										ws="en">Adjective with person agreement</AUni>
+								</Name>
+								<PrefixSlots>
+									<refseq
+										guid="7bced391-3911-45bb-808e-0d6a67135667"
+										t="r" />
+								</PrefixSlots>
+							</ownseq>
+						</AffixTemplates>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2006-8-1 18:56:44.660" />
+						<DateModified
+							val="2006-9-11 20:23:33.743" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">This is a small class of adjectives which are inflected for every class. It uses the Noun:npx set. Some adj like -onsene and -okha can also be inflected for person using Verb:sbj</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="c93a219f-9e45-481c-9504-a21d2e37aec4">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="c41852fe-6b9d-460c-b6c4-f6d28dee2fec">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Adjective</AUni>
+							<AUni
+								ws="pt">Adjectivo</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="PartOfSpeech"
+				guid="8e45de56-5105-48dc-b302-05985432e1e7">
+				<Abbreviation>
+					<AUni
+						ws="en">V</AUni>
+					<AUni
+						ws="pt">V</AUni>
+				</Abbreviation>
+				<AffixSlots>
+					<MoInflAffixSlot
+						guid="24982a25-4249-4f58-af91-68d1f8084e52">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">post final</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">pos</AUni>
+							<AUni
+								ws="pt">pos</AUni>
+						</Name>
+						<Optional
+							val="true" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="2f3ca814-31d4-44c4-ba12-fde21e9ae305">
+						<Name>
+							<AUni
+								ws="en">negpos</AUni>
+							<AUni
+								ws="pt">negpos</AUni>
+						</Name>
+						<Optional
+							val="true" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">verb final vowel</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">vf</AUni>
+							<AUni
+								ws="pt">vf</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="4a3e8b8b-f257-4986-ba58-8bd5de67d604">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">direction, subjunctive tam1 slot (no tam2 exists)</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">dir tam</AUni>
+							<AUni
+								ws="pt">dir tam</AUni>
+						</Name>
+						<Optional
+							val="true" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="5da52e2e-0bc8-4202-b11e-7a0ceeabe927">
+						<Name>
+							<AUni
+								ws="en">Imp</AUni>
+						</Name>
+						<Optional
+							val="true" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="5ddcf72d-e6a0-49c3-a9c7-6cd2e595fff6">
+						<Name>
+							<AUni
+								ws="en">mba tam</AUni>
+							<AUni
+								ws="pt">mba tam</AUni>
+						</Name>
+						<Optional
+							val="true" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="673894be-b2f5-4c92-a83d-fc4c70ea0838">
+						<Name>
+							<AUni
+								ws="en">neg</AUni>
+							<AUni
+								ws="pt">neg</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="7d57d934-9018-4b4e-9783-2b2382752328">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">initial prefix</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">mba</AUni>
+							<AUni
+								ws="pt">mba</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="7ff76138-768b-4c18-9ecc-71b2793e208a">
+						<Name>
+							<AUni
+								ws="en">sbj+tam1</AUni>
+							<AUni
+								ws="pt">sbj+tam1</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="9d1b8325-b545-4ba2-ba01-d0bdb2a5f5fe">
+						<Name>
+							<AUni
+								ws="en">svf</AUni>
+							<AUni
+								ws="pt">svf</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="b2ef7ff6-abec-468d-93a8-24206befa040">
+						<Name>
+							<AUni
+								ws="en">neg+sbj</AUni>
+							<AUni
+								ws="pt">neg+sbj</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">object</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">obj</AUni>
+							<AUni
+								ws="pt">obj</AUni>
+						</Name>
+						<Optional
+							val="true" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="bd468cc4-7e76-4ef3-927d-9b7b01d6749f">
+						<Name>
+							<AUni
+								ws="en">inf</AUni>
+							<AUni
+								ws="pt">inf</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="c4816c32-f871-4c0c-9aac-f7bbcd1b0aa5">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">tense aspect marker 2</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">tam2</AUni>
+							<AUni
+								ws="pt">tam2</AUni>
+						</Name>
+						<Optional
+							val="true" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="eaa2926c-46bb-48db-a2c6-841cf4aa9ccb">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">tense aspect marker 1</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">tam1</AUni>
+							<AUni
+								ws="pt">tam1</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="f294d082-e87d-4357-ac62-da56632f596d">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">negative and relative tam1 slot</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">neg/rel  tam1</AUni>
+							<AUni
+								ws="pt">neg/rel  tam1</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+					<MoInflAffixSlot
+						guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">subject marker</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">sbj</AUni>
+							<AUni
+								ws="pt">sbj</AUni>
+						</Name>
+						<Optional
+							val="False" />
+					</MoInflAffixSlot>
+				</AffixSlots>
+				<AffixTemplates>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="2f63ffac-642f-432b-9714-aa7224b501e7">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Affirmative Indicative Verb</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+								t="r" />
+							<refseq
+								guid="eaa2926c-46bb-48db-a2c6-841cf4aa9ccb"
+								t="r" />
+							<refseq
+								guid="c4816c32-f871-4c0c-9aac-f7bbcd1b0aa5"
+								t="r" />
+							<refseq
+								guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+								t="r" />
+							<refseq
+								guid="24982a25-4249-4f58-af91-68d1f8084e52"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="20c016d0-1701-4bf8-a1ad-406dcd636981">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Indicative Verb with a subject-tam1 portmanteu</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="7ff76138-768b-4c18-9ecc-71b2793e208a"
+								t="r" />
+							<refseq
+								guid="c4816c32-f871-4c0c-9aac-f7bbcd1b0aa5"
+								t="r" />
+							<refseq
+								guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+								t="r" />
+							<refseq
+								guid="24982a25-4249-4f58-af91-68d1f8084e52"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="9500d6b3-6a91-4e43-b45f-941ffe16a496">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Subjunctive Verb</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+								t="r" />
+							<refseq
+								guid="4a3e8b8b-f257-4986-ba58-8bd5de67d604"
+								t="r" />
+							<refseq
+								guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="9d1b8325-b545-4ba2-ba01-d0bdb2a5f5fe"
+								t="r" />
+							<refseq
+								guid="24982a25-4249-4f58-af91-68d1f8084e52"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="12cd0682-d3e8-48ff-9cd1-f29d23ef42f4">
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The infinitive verb template includes the imperative, which is marked by having no morpheme in the (inf) slot.</Run>
+							</AStr>
+						</Description>
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Infinitive Verb</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="bd468cc4-7e76-4ef3-927d-9b7b01d6749f"
+								t="r" />
+							<refseq
+								guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+								t="r" />
+							<refseq
+								guid="24982a25-4249-4f58-af91-68d1f8084e52"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="f5f05b95-a21d-49ad-b7eb-3024ff76b7b9">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Negative Indicative Verb</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="673894be-b2f5-4c92-a83d-fc4c70ea0838"
+								t="r" />
+							<refseq
+								guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+								t="r" />
+							<refseq
+								guid="f294d082-e87d-4357-ac62-da56632f596d"
+								t="r" />
+							<refseq
+								guid="c4816c32-f871-4c0c-9aac-f7bbcd1b0aa5"
+								t="r" />
+							<refseq
+								guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+								t="r" />
+							<refseq
+								guid="2f3ca814-31d4-44c4-ba12-fde21e9ae305"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="c0c79cc3-70a9-435d-9d9d-9099445272ac">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Negative Indicative Verb with a neg+sub portmanteau</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="b2ef7ff6-abec-468d-93a8-24206befa040"
+								t="r" />
+							<refseq
+								guid="eaa2926c-46bb-48db-a2c6-841cf4aa9ccb"
+								t="r" />
+							<refseq
+								guid="c4816c32-f871-4c0c-9aac-f7bbcd1b0aa5"
+								t="r" />
+							<refseq
+								guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+								t="r" />
+							<refseq
+								guid="2f3ca814-31d4-44c4-ba12-fde21e9ae305"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="c09cedad-9963-4bbe-a7ae-fccbe10becff">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Relative Verb Template</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+								t="r" />
+							<refseq
+								guid="f294d082-e87d-4357-ac62-da56632f596d"
+								t="r" />
+							<refseq
+								guid="c4816c32-f871-4c0c-9aac-f7bbcd1b0aa5"
+								t="r" />
+							<refseq
+								guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+								t="r" />
+							<refseq
+								guid="24982a25-4249-4f58-af91-68d1f8084e52"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="2986a8b2-b416-4697-a2d6-2e673f6649e1">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Indicative Discourse Cohesive (mba-) chart</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="7d57d934-9018-4b4e-9783-2b2382752328"
+								t="r" />
+							<refseq
+								guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+								t="r" />
+							<refseq
+								guid="5ddcf72d-e6a0-49c3-a9c7-6cd2e595fff6"
+								t="r" />
+							<refseq
+								guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+								t="r" />
+							<refseq
+								guid="24982a25-4249-4f58-af91-68d1f8084e52"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+					<ownseq
+						class="MoInflAffixTemplate"
+						guid="3055358b-fdd3-4c7d-aa1d-3846f5c9e8d0">
+						<Disabled
+							val="False" />
+						<Final
+							val="true" />
+						<Name>
+							<AUni
+								ws="en">Subjunctive Discourse Cohesive (mba-) chart</AUni>
+						</Name>
+						<PrefixSlots>
+							<refseq
+								guid="7d57d934-9018-4b4e-9783-2b2382752328"
+								t="r" />
+							<refseq
+								guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+								t="r" />
+						</PrefixSlots>
+						<SuffixSlots>
+							<refseq
+								guid="9d1b8325-b545-4ba2-ba01-d0bdb2a5f5fe"
+								t="r" />
+							<refseq
+								guid="24982a25-4249-4f58-af91-68d1f8084e52"
+								t="r" />
+						</SuffixSlots>
+					</ownseq>
+				</AffixTemplates>
+				<BackColor
+					val="-1073741824" />
+				<CatalogSourceId>
+					<Uni>Verb</Uni>
+				</CatalogSourceId>
+				<DateCreated
+					val="2005-6-22 13:56:13.600" />
+				<DateModified
+					val="2009-4-9 21:42:36.253" />
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A Verb is a part of speech whose members typically signal events and actions; constitute, singly or in a phrase, a minimal predicate in a clause; govern the number and types of other constituents which may occur in the clause; and, in inflectional languages, may be inflected for tense, aspect, voice, modality, or agreement with other constituents in person, number, or grammatical gender.</Run>
+					</AStr>
+				</Description>
+				<Discussion>
+					<StText
+						guid="b0198f99-d831-4d1b-8f29-5b04b01103a2">
+						<DateModified
+							val="2011-2-2 19:19:27.751" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="06a37bb5-2a03-4ec8-8f10-bd90867f44fc">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="13631439" />
+				<Hidden
+					val="False" />
+				<InflectableFeats>
+					<refcol
+						guid="586ef9dd-4ee8-492f-b478-69a98d126081"
+						t="r" />
+					<refcol
+						guid="61a6ab39-7b9e-4ab1-9766-4c142b05eaf3"
+						t="r" />
+					<refcol
+						guid="9a9e7176-047e-4d1b-8de2-b37bc41a4730"
+						t="r" />
+				</InflectableFeats>
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Verb</AUni>
+					<AUni
+						ws="pt">Verbo</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="PartOfSpeech"
+						guid="b1bcdc90-4ee0-44f5-9c2d-3043b84394a7">
+						<Abbreviation>
+							<AUni
+								ws="en">Vaux</AUni>
+							<AUni
+								ws="pt">Vaux</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2005-8-10 14:34:41.830" />
+						<DateModified
+							val="2006-9-11 20:24:48.777" />
+						<Discussion>
+							<StText
+								guid="04c55ac5-016c-4c25-b773-d78d6db74375">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="6bb534c0-4708-4145-986f-10c556a79b88">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Auxiliary Verb</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="7fbf785b-73d5-4827-b102-f8d33d9ecf98">
+						<Abbreviation>
+							<AUni
+								ws="en">Vadj</AUni>
+							<AUni
+								ws="pt">Vadj</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2006-8-1 18:58:35.63" />
+						<DateModified
+							val="2006-9-22 18:0:0.410" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">a derived adject is a phrase with the structure: &lt;noun assoc derivedadj&gt; in which derivedadj can be an infinitive verb or a noun</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="e822c127-bba7-4863-9ecf-545dc948f16d">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="319cd45f-839f-4ec8-8fed-f084e6e34e56">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Derived Adjective</AUni>
+							<AUni
+								ws="pt">Adjectivo derivado</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="92b78ed5-a9d0-440a-bf0c-b6168c6b4d4e">
+						<Abbreviation>
+							<AUni
+								ws="en">Irreg - khala</AUni>
+							<AUni
+								ws="pt">Irreg - khala</AUni>
+						</Abbreviation>
+						<AffixTemplates>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="e88eda58-8154-4a7c-853b-e21cd86b3f0c">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<Name>
+									<AUni
+										ws="en">Kukhala Indicative</AUni>
+								</Name>
+								<PrefixSlots>
+									<refseq
+										guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+										t="r" />
+									<refseq
+										guid="eaa2926c-46bb-48db-a2c6-841cf4aa9ccb"
+										t="r" />
+								</PrefixSlots>
+								<SuffixSlots>
+									<refseq
+										guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+										t="r" />
+									<refseq
+										guid="24982a25-4249-4f58-af91-68d1f8084e52"
+										t="r" />
+								</SuffixSlots>
+							</ownseq>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="f01cfec4-50bd-4276-928d-fa3e788d99df">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<Name>
+									<AUni
+										ws="en">Kukhala Infinitive</AUni>
+								</Name>
+								<PrefixSlots>
+									<refseq
+										guid="bd468cc4-7e76-4ef3-927d-9b7b01d6749f"
+										t="r" />
+								</PrefixSlots>
+								<SuffixSlots>
+									<refseq
+										guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+										t="r" />
+								</SuffixSlots>
+							</ownseq>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="87af4b4b-5e1e-40f6-9880-7e1f803a690a">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<Name>
+									<AUni
+										ws="en">Kukhala Discourse Cohesive</AUni>
+								</Name>
+								<PrefixSlots>
+									<refseq
+										guid="7d57d934-9018-4b4e-9783-2b2382752328"
+										t="r" />
+									<refseq
+										guid="b78edde6-6afe-4f97-a90f-8c3bc038bf52"
+										t="r" />
+								</PrefixSlots>
+								<SuffixSlots>
+									<refseq
+										guid="33fcb833-6c7f-447a-8762-f60d8c81d9aa"
+										t="r" />
+									<refseq
+										guid="24982a25-4249-4f58-af91-68d1f8084e52"
+										t="r" />
+								</SuffixSlots>
+							</ownseq>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="c0fe7561-9000-4443-a196-c052f24d2943">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<Name>
+									<AUni
+										ws="en">Kukhala Imperative</AUni>
+								</Name>
+								<SuffixSlots>
+									<refseq
+										guid="24982a25-4249-4f58-af91-68d1f8084e52"
+										t="r" />
+								</SuffixSlots>
+							</ownseq>
+						</AffixTemplates>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2006-9-22 19:36:32.117" />
+						<DateModified
+							val="2006-9-22 19:55:2.560" />
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">The three verb kukhala uses a restricted subset of the verb patterns</Run>
+							</AStr>
+						</Description>
+						<Discussion>
+							<StText
+								guid="15028770-0072-4980-988f-3831d4b6b0c3">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="62896b3f-cd1e-433d-a703-a6cba00542fb">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Irregular Verb - Kukhala</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="dbf8cf00-ef63-466a-bfb1-472e1fdae57d">
+						<Abbreviation>
+							<AUni
+								ws="en">Irreg-na</AUni>
+							<AUni
+								ws="pt">Irreg-na</AUni>
+						</Abbreviation>
+						<AffixTemplates>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="60806506-88b0-4ff6-8e42-da9912d190ad">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<Name>
+									<AUni
+										ws="en">Inifinitive form of the irregular verb na</AUni>
+								</Name>
+								<PrefixSlots>
+									<refseq
+										guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+										t="r" />
+								</PrefixSlots>
+							</ownseq>
+						</AffixTemplates>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2006-9-22 19:51:48.610" />
+						<DateModified
+							val="2006-10-5 18:59:0.93" />
+						<Discussion>
+							<StText
+								guid="13139fb5-543c-4675-b08f-41a9e3028934">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="9899a92a-90a4-4052-99b6-ccaa0a074cd5">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Irregular Verb - na</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="cf4b95e5-2362-412d-92a1-24846a4bab59">
+						<Abbreviation>
+							<AUni
+								ws="en">Irreg-li</AUni>
+							<AUni
+								ws="pt">Irreg-li</AUni>
+						</Abbreviation>
+						<AffixTemplates>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="08f24f26-5400-47a5-a878-85248300c006">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<Name>
+									<AUni
+										ws="en">Inifinitive form of the irregular verb li</AUni>
+								</Name>
+								<PrefixSlots>
+									<refseq
+										guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+										t="r" />
+									<refseq
+										guid="5da52e2e-0bc8-4202-b11e-7a0ceeabe927"
+										t="r" />
+								</PrefixSlots>
+							</ownseq>
+						</AffixTemplates>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2006-10-5 18:51:40.40" />
+						<DateModified
+							val="2006-10-5 18:59:24.107" />
+						<Discussion>
+							<StText
+								guid="3174e661-aef8-4e37-92b2-758270479c32">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="24dbbdbc-0ea7-43b7-b018-331322a509e9">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Irregular Verb - li</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="ae52e28d-f653-4f8e-821a-04940a1d7074">
+						<AffixTemplates>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="cab63916-f9c7-475d-abf8-caec1f061cad">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<PrefixSlots>
+									<refseq
+										guid="7d57d934-9018-4b4e-9783-2b2382752328"
+										t="r" />
+								</PrefixSlots>
+							</ownseq>
+							<ownseq
+								class="MoInflAffixTemplate"
+								guid="02526f91-5e93-47ba-b6a6-825e5214152e">
+								<Disabled
+									val="False" />
+								<Final
+									val="true" />
+								<PrefixSlots>
+									<refseq
+										guid="f9fb1493-e8d7-4e5f-90f5-c6b2a6f70c9a"
+										t="r" />
+								</PrefixSlots>
+							</ownseq>
+						</AffixTemplates>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2006-10-10 20:44:44.680" />
+						<DateModified
+							val="2006-10-11 16:25:10.950" />
+						<Discussion>
+							<StText
+								guid="6db5fd7f-9dff-4e84-b945-cbd3a4898a4d">
+								<DateModified
+									val="2011-2-2 19:19:27.751" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="5925ad9a-3d5f-4f92-b6fd-8f4e7f60caa1">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Irregular Verb - ti</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="c36e1ddc-d24b-42d5-9660-49766bda6555">
+						<Abbreviation>
+							<AUni
+								ws="en">Vrel</AUni>
+							<AUni
+								ws="pt">Vrel</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2009-4-9 21:34:16.870" />
+						<DateModified
+							val="2009-4-9 21:35:36.223" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Relative Verb</AUni>
+							<AUni
+								ws="pt">Verbo Relativo</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="4c90d669-cc98-49ea-8c9c-a739253336ed">
+						<Abbreviation>
+							<AUni
+								ws="en">Vsub</AUni>
+							<AUni
+								ws="pt">Vsub</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2009-4-9 21:39:4.123" />
+						<DateModified
+							val="2009-4-9 21:39:4.123" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Subjunctive Verb</AUni>
+							<AUni
+								ws="pt">Verbo Conjuntivo</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="PartOfSpeech"
+						guid="8aa1f669-4dad-411e-adeb-6ef50ce9aa0a">
+						<Abbreviation>
+							<AUni
+								ws="en">Or</AUni>
+							<AUni
+								ws="pt">Or</AUni>
+						</Abbreviation>
+						<BackColor
+							val="0" />
+						<DateCreated
+							val="2009-4-9 21:42:36.143" />
+						<DateModified
+							val="2009-4-9 21:46:6.887" />
+						<ForeColor
+							val="0" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Orienter</AUni>
+							<AUni
+								ws="pt">Orientador</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="0" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="1" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="true" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</PartsOfSpeech>

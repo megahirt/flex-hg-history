@@ -1,0 +1,2607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PhonologicalData>
+	<PhPhonData
+		guid="86980496-9fe8-428d-bd53-fa2e623fe1c0">
+		<Environments>
+			<ownseq
+				class="PhEnvironment"
+				guid="02132942-0ff7-45e8-8f09-f4918535a31e">
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">used for e&gt;i change on vext</Run>
+					</AStr>
+				</Description>
+				<Name>
+					<AUni
+						ws="en">mid vowel in previous syllable</AUni>
+				</Name>
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/[</Run>
+						<Run
+							ws="en">V+mid] ([preNas]) [C-nas] ([Mod]) _</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="1ae6eb4a-84a0-4134-b684-5b446ad83708">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ [C] _</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="68ebe859-a26d-4822-97da-3b051d4c7a22">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ #</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="36f13032-984d-40e3-8f8a-c633e7bd32bc">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ e _</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="6f252993-389a-4284-8317-d638490f6d0c">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ o ... _</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="36bc0bd0-d6b5-43a9-a341-9c03cb386816">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [</Run>
+						<Run
+							ws="en">V]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="6e42b150-1c07-4d04-9a6e-38222952297b">
+				<Name>
+					<AUni
+						ws="en">Labial aspirated</AUni>
+				</Name>
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/_[LabAsp]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="f0a67a63-1840-4c3f-b361-3505783a5d37">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [</Run>
+						<Run
+							ws="en">Lab]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="6ad2c29d-d0b8-4f63-a9ab-75a66707d39e">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [nonlabialaspirated]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="a819cc6d-607f-42dd-af2a-de0d248c3339">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [</Run>
+						<Run
+							ws="en">C]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="7d33913a-02a2-47cc-be1e-fa0dd68eb951">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ i</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="097d9fa7-364e-486e-9f92-dce9fb27f44d">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ a</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="3eacba77-b996-4801-878f-b91b4b74dd29">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ ~_ [V]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="a8c11f42-f178-48eb-990a-51c34231c7be">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ o</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="048b5c62-2988-4766-9de5-9b9780cbf246">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ </Run>
+						<Run
+							undercolor="red"
+							underline="squiggle"
+							ws="en">~[V]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="714f9f5a-5612-4c75-bd34-353299882c76">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [</Run>
+						<Run
+							ws="en">V-back]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="a8be9845-3da1-4567-9d84-9129027a32ec">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ u</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="9338cef3-333d-4a9b-879e-768ad55426ab">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/_ [V]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="125650c1-dfce-49bb-8a19-c3e0718e7994">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ </Run>
+						<Run
+							ws="en">_ [-Lab]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="5b8000ad-4b81-49c7-868d-547060182d9a">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ # _</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="387d2da1-179e-477c-b704-9a62c9180d6e">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ </Run>
+						<Run
+							ws="en">_ e</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="fd20c174-2ba4-4085-81ed-ca3d4acfae3e">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ # _ u</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="6bcbdab9-ef1b-4076-8e9a-f29dfc7df205">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ # _ a</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="fcd91c28-4849-48b9-a270-df191ac9620c">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ ene</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="b7402c94-1f44-4f2e-8be9-18081a855510">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ # ~_</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="dd507980-8a7d-458e-a9d6-f3609c3c072e">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/_ so</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="6ee52251-b04b-4934-8fbd-9d1f24b45213">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/_ [V]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="cabd9846-eb40-43c2-bcab-8244aa96dac0">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/</Run>
+						<Run
+							ws="seh">_ [AOU]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="504ee5d9-45e0-4409-80de-cadd88aee3bc">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/#na_</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="3be33482-38ee-4bee-a13b-7a0589942af3">
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">controls l/r</Run>
+					</AStr>
+				</Description>
+				<Name>
+					<AUni
+						ws="en">After a front vowel</AUni>
+				</Name>
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/</Run>
+						<Run
+							ws="seh"> [V-front] _</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="1a455a77-c375-446d-8bf6-3fdc43ad67f9">
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">for cl 5 nouns with hardened initial C</Run>
+					</AStr>
+				</Description>
+				<Name>
+					<AUni
+						ws="en">class 6 nouns</AUni>
+				</Name>
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/ma_</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="20869372-80c2-49e2-8a24-613b4bbc1f6d">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [</Run>
+						<Run
+							ws="en">AEI]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="5b914b7e-5d79-42c0-bb3a-1ad3ac6b3beb">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/</Run>
+						<Run
+							ws="seh"> [V-front] _</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="547c2892-628d-4d29-85cb-05a502aec25f">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [</Run>
+						<Run
+							ws="en">V+back]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="afe3adba-4301-4c5a-ba75-6895b1689678">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [C-lab-lat-nas</Run>
+						<Run
+							ws="en">]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="d064c00e-c407-48c5-a3ac-b665130894b5">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/_[Nas]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="e149ae8a-1a2c-409c-8941-48011bb7b0c4">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/_[-Lab+Asp]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="e5e81505-6f2b-42df-88dc-a76c2dfcad87">
+				<Name>
+					<AUni
+						ws="en">non-labial, non-lateral non-nasal consonants</AUni>
+				</Name>
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ _ [-Lab-Lat-Nas</Run>
+						<Run
+							ws="en">]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="962f3ac7-38a3-4aeb-955c-78619f4f9005">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/m_</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="68d29df8-9bf7-4051-9038-b90f8be741ea">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/mi_</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="5294c340-b476-47bf-a293-388b22e807b8">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/_muna</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="f22e02e6-582b-4b3f-961b-5e3be705700b">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="en">/ </Run>
+						<Run
+							ws="en">_ [-Lab][-Nas]</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="7d9a7e47-0e61-4f59-8ce6-b416c2ea9804">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/mb_</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+			<ownseq
+				class="PhEnvironment"
+				guid="994e40b0-c380-4ac2-9ad1-0f2b4bfaedf6">
+				<StringRepresentation>
+					<Str>
+						<Run
+							ws="seh">/[V]_</Run>
+					</Str>
+				</StringRepresentation>
+			</ownseq>
+		</Environments>
+		<NaturalClasses>
+			<ownseq
+				class="PhNCSegments"
+				guid="22279498-b64a-448c-939a-59d0f18140fa">
+				<Abbreviation>
+					<AUni
+						ws="en">V</AUni>
+					<AUni
+						ws="pt">V</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">vowels</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="08740d03-706c-4d79-973c-bb1dc8a5f63a"
+						t="r" />
+					<refcol
+						guid="14bd1795-d041-4c59-91ae-1d5506c63402"
+						t="r" />
+					<refcol
+						guid="1fe59fab-5e53-42c3-8b23-d8ea6a2d531f"
+						t="r" />
+					<refcol
+						guid="70286ab3-04b7-43ab-afb3-76e978e24142"
+						t="r" />
+					<refcol
+						guid="ce9bdc1f-3e80-4c7f-a045-1bfaff3d989f"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="0f785459-fdd5-4079-9c9c-1cf5ce8addb4">
+				<Abbreviation>
+					<AUni
+						ws="en">Lab</AUni>
+					<AUni
+						ws="pt">Lab</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">labials</AUni>
+					<AUni
+						ws="pt">labiais</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="07d4f30f-adff-4d91-9aea-965b1e5edd67"
+						t="r" />
+					<refcol
+						guid="13c8912b-30fb-4a79-82ce-442e35b7c1d4"
+						t="r" />
+					<refcol
+						guid="35a2a60a-ea74-4712-b98c-2b49c0f69e34"
+						t="r" />
+					<refcol
+						guid="62426ecf-51c0-48f9-acbf-24e407e206c9"
+						t="r" />
+					<refcol
+						guid="7835cc34-ff4b-435c-be10-f1026838d7c8"
+						t="r" />
+					<refcol
+						guid="7fef04b0-4d91-4172-9c42-9c50a7d65aac"
+						t="r" />
+					<refcol
+						guid="9c4b0b53-62e0-4238-8eca-0e2dd632bec5"
+						t="r" />
+					<refcol
+						guid="b0ed6f3e-804d-4b2a-9db8-238b395f8fc5"
+						t="r" />
+					<refcol
+						guid="c172b324-d130-42da-972a-866a331fc714"
+						t="r" />
+					<refcol
+						guid="f830273c-0834-475e-bad5-27087ad9e6ea"
+						t="r" />
+					<refcol
+						guid="f8f99596-cd40-4f7a-ab77-b89cce86a2e6"
+						t="r" />
+					<refcol
+						guid="fc73c7e6-a7be-4dce-adc8-f76028245cad"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="35898d19-3e7b-445b-962f-53123ebe0fcf">
+				<Abbreviation>
+					<AUni
+						ws="en">C</AUni>
+					<AUni
+						ws="pt">C</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">consonants</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="07d4f30f-adff-4d91-9aea-965b1e5edd67"
+						t="r" />
+					<refcol
+						guid="13c8912b-30fb-4a79-82ce-442e35b7c1d4"
+						t="r" />
+					<refcol
+						guid="1ca0867d-f552-471e-9e80-1120cc17de7b"
+						t="r" />
+					<refcol
+						guid="32d10b7d-d499-4610-9298-f4aa00eb6f19"
+						t="r" />
+					<refcol
+						guid="35a2a60a-ea74-4712-b98c-2b49c0f69e34"
+						t="r" />
+					<refcol
+						guid="36897620-d231-4a2d-bd25-b90e3f856887"
+						t="r" />
+					<refcol
+						guid="3ff8d085-d090-45db-a075-42405b77d23a"
+						t="r" />
+					<refcol
+						guid="62426ecf-51c0-48f9-acbf-24e407e206c9"
+						t="r" />
+					<refcol
+						guid="69d2d111-f81e-4ca7-8cef-5f30b7a327a5"
+						t="r" />
+					<refcol
+						guid="721991b0-8006-45be-a6b7-2e47041ed7bd"
+						t="r" />
+					<refcol
+						guid="7716e981-8a84-47eb-89dd-21f8945d3c54"
+						t="r" />
+					<refcol
+						guid="7835cc34-ff4b-435c-be10-f1026838d7c8"
+						t="r" />
+					<refcol
+						guid="7fef04b0-4d91-4172-9c42-9c50a7d65aac"
+						t="r" />
+					<refcol
+						guid="80de42fa-3152-41e6-8aec-2a9b59faa5b6"
+						t="r" />
+					<refcol
+						guid="82b13fe1-552a-4065-9f16-28c91f09a789"
+						t="r" />
+					<refcol
+						guid="8a95ddbc-41bf-4aa1-bed7-e052d22d3178"
+						t="r" />
+					<refcol
+						guid="937234ce-012f-4143-9130-c80cce3d8ace"
+						t="r" />
+					<refcol
+						guid="9c4b0b53-62e0-4238-8eca-0e2dd632bec5"
+						t="r" />
+					<refcol
+						guid="a4afe386-6463-4311-9fc9-e57519276c7a"
+						t="r" />
+					<refcol
+						guid="aec85db1-31f1-406d-b480-45dfe6552e39"
+						t="r" />
+					<refcol
+						guid="b0ed6f3e-804d-4b2a-9db8-238b395f8fc5"
+						t="r" />
+					<refcol
+						guid="b4d383ca-f06d-4c2e-b769-eacd7cee081b"
+						t="r" />
+					<refcol
+						guid="c1626766-e9ea-40c0-83a1-743afa07c89f"
+						t="r" />
+					<refcol
+						guid="c172b324-d130-42da-972a-866a331fc714"
+						t="r" />
+					<refcol
+						guid="cf286958-c6c3-453f-8369-a93ef0d6f3e0"
+						t="r" />
+					<refcol
+						guid="d80bca00-592c-42d7-9cee-bbb2be4ed56f"
+						t="r" />
+					<refcol
+						guid="dbd6d116-b210-4dc0-9a0b-1d664751ca27"
+						t="r" />
+					<refcol
+						guid="eb6dfaa3-82d7-4dff-8e0f-63601d25e770"
+						t="r" />
+					<refcol
+						guid="f2aab4c3-be3c-4456-8bb3-3f0bc46f9020"
+						t="r" />
+					<refcol
+						guid="f7ee0a39-1595-4129-9d1d-5405164207e6"
+						t="r" />
+					<refcol
+						guid="f830273c-0834-475e-bad5-27087ad9e6ea"
+						t="r" />
+					<refcol
+						guid="f8687755-bfb7-42aa-84eb-14fcc1412efc"
+						t="r" />
+					<refcol
+						guid="f8f99596-cd40-4f7a-ab77-b89cce86a2e6"
+						t="r" />
+					<refcol
+						guid="fc73c7e6-a7be-4dce-adc8-f76028245cad"
+						t="r" />
+					<refcol
+						guid="fee040aa-7999-47a9-a822-87f5985daef4"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="11b7ddde-8bc5-4e45-8fc3-6fc1087825ba">
+				<Abbreviation>
+					<AUni
+						ws="en">V-front</AUni>
+					<AUni
+						ws="pt">V-front</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">non-front vowels</AUni>
+					<AUni
+						ws="pt">vogais não-frontais</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="14bd1795-d041-4c59-91ae-1d5506c63402"
+						t="r" />
+					<refcol
+						guid="1fe59fab-5e53-42c3-8b23-d8ea6a2d531f"
+						t="r" />
+					<refcol
+						guid="70286ab3-04b7-43ab-afb3-76e978e24142"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="0accca6b-b086-455e-9a46-a54f64b93685">
+				<Abbreviation>
+					<AUni
+						ws="en">V+front</AUni>
+					<AUni
+						ws="pt">V+front</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">front vowels</AUni>
+					<AUni
+						ws="pt">vogais frontais</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="08740d03-706c-4d79-973c-bb1dc8a5f63a"
+						t="r" />
+					<refcol
+						guid="ce9bdc1f-3e80-4c7f-a045-1bfaff3d989f"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="63b345c1-d118-43c4-8f70-2d97114b1ed2">
+				<Abbreviation>
+					<AUni
+						ws="en">V+mid</AUni>
+					<AUni
+						ws="pt">V+mid</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">mid-vowels</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="14bd1795-d041-4c59-91ae-1d5506c63402"
+						t="r" />
+					<refcol
+						guid="ce9bdc1f-3e80-4c7f-a045-1bfaff3d989f"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="2e4a1a68-fb92-485d-8e5c-261cfa1bc2ee">
+				<Abbreviation>
+					<AUni
+						ws="en">V-mid</AUni>
+					<AUni
+						ws="pt">V-mid</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">non-mid vowels</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="08740d03-706c-4d79-973c-bb1dc8a5f63a"
+						t="r" />
+					<refcol
+						guid="1fe59fab-5e53-42c3-8b23-d8ea6a2d531f"
+						t="r" />
+					<refcol
+						guid="70286ab3-04b7-43ab-afb3-76e978e24142"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="8cb1a1c0-4f55-418f-b457-7de9ffbdb11f">
+				<Abbreviation>
+					<AUni
+						ws="en">Nas</AUni>
+					<AUni
+						ws="pt">Nas</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">nasals</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="8a95ddbc-41bf-4aa1-bed7-e052d22d3178"
+						t="r" />
+					<refcol
+						guid="dbd6d116-b210-4dc0-9a0b-1d664751ca27"
+						t="r" />
+					<refcol
+						guid="f8f99596-cd40-4f7a-ab77-b89cce86a2e6"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="ec90b4e3-720e-47ab-9e2e-5f745f50779c">
+				<Abbreviation>
+					<AUni
+						ws="en">Lat</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">lateral</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="82b13fe1-552a-4065-9f16-28c91f09a789"
+						t="r" />
+					<refcol
+						guid="937234ce-012f-4143-9130-c80cce3d8ace"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="3a71d5ad-619c-4048-89e2-8fd29b0ded2c">
+				<Abbreviation>
+					<AUni
+						ws="en">V-back</AUni>
+					<AUni
+						ws="pt">V-back</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">non-back vowels</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="08740d03-706c-4d79-973c-bb1dc8a5f63a"
+						t="r" />
+					<refcol
+						guid="1fe59fab-5e53-42c3-8b23-d8ea6a2d531f"
+						t="r" />
+					<refcol
+						guid="ce9bdc1f-3e80-4c7f-a045-1bfaff3d989f"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="660c76e9-8054-44a4-8960-1b36adae58ce">
+				<Abbreviation>
+					<AUni
+						ws="en">Mod</AUni>
+				</Abbreviation>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">The set of phonemes that modifies an immediately preceding consonant.</Run>
+					</AStr>
+				</Description>
+				<Name>
+					<AUni
+						ws="en">Post-consonantal modifiers</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="02423cfb-438d-4a0c-b776-195afd3b941b"
+						t="r" />
+					<refcol
+						guid="7e960604-3aae-47f1-8f74-aaf317010ab1"
+						t="r" />
+					<refcol
+						guid="cfd57b1f-6089-4c80-9752-2df7ccd9fc13"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="84c6b7f1-25bc-48ae-9d52-77f0b55ba4fd">
+				<Abbreviation>
+					<AUni
+						ws="en">preNas</AUni>
+				</Abbreviation>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">The prenasalization phoneme. (This could be considered to be merely a nasal feature, but the parser does not currently allow us to use phonological features.)</Run>
+					</AStr>
+				</Description>
+				<Name>
+					<AUni
+						ws="en">Prenasalization</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="110b1534-7da1-4460-86ec-98191e2c90b6"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="04023d7f-65a3-425c-b07f-244a2c568984">
+				<Abbreviation>
+					<AUni
+						ws="en">-Nas</AUni>
+				</Abbreviation>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">In the consonant cluster [preNas][C][Mod] the [C] cannont be a nasal.</Run>
+					</AStr>
+				</Description>
+				<Name>
+					<AUni
+						ws="en">Consonants minus the nasals</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="07d4f30f-adff-4d91-9aea-965b1e5edd67"
+						t="r" />
+					<refcol
+						guid="13c8912b-30fb-4a79-82ce-442e35b7c1d4"
+						t="r" />
+					<refcol
+						guid="1ca0867d-f552-471e-9e80-1120cc17de7b"
+						t="r" />
+					<refcol
+						guid="32d10b7d-d499-4610-9298-f4aa00eb6f19"
+						t="r" />
+					<refcol
+						guid="35a2a60a-ea74-4712-b98c-2b49c0f69e34"
+						t="r" />
+					<refcol
+						guid="36897620-d231-4a2d-bd25-b90e3f856887"
+						t="r" />
+					<refcol
+						guid="3ff8d085-d090-45db-a075-42405b77d23a"
+						t="r" />
+					<refcol
+						guid="62426ecf-51c0-48f9-acbf-24e407e206c9"
+						t="r" />
+					<refcol
+						guid="69d2d111-f81e-4ca7-8cef-5f30b7a327a5"
+						t="r" />
+					<refcol
+						guid="721991b0-8006-45be-a6b7-2e47041ed7bd"
+						t="r" />
+					<refcol
+						guid="7716e981-8a84-47eb-89dd-21f8945d3c54"
+						t="r" />
+					<refcol
+						guid="7835cc34-ff4b-435c-be10-f1026838d7c8"
+						t="r" />
+					<refcol
+						guid="7fef04b0-4d91-4172-9c42-9c50a7d65aac"
+						t="r" />
+					<refcol
+						guid="80de42fa-3152-41e6-8aec-2a9b59faa5b6"
+						t="r" />
+					<refcol
+						guid="82b13fe1-552a-4065-9f16-28c91f09a789"
+						t="r" />
+					<refcol
+						guid="937234ce-012f-4143-9130-c80cce3d8ace"
+						t="r" />
+					<refcol
+						guid="9c4b0b53-62e0-4238-8eca-0e2dd632bec5"
+						t="r" />
+					<refcol
+						guid="a4afe386-6463-4311-9fc9-e57519276c7a"
+						t="r" />
+					<refcol
+						guid="aec85db1-31f1-406d-b480-45dfe6552e39"
+						t="r" />
+					<refcol
+						guid="b0ed6f3e-804d-4b2a-9db8-238b395f8fc5"
+						t="r" />
+					<refcol
+						guid="b4d383ca-f06d-4c2e-b769-eacd7cee081b"
+						t="r" />
+					<refcol
+						guid="c1626766-e9ea-40c0-83a1-743afa07c89f"
+						t="r" />
+					<refcol
+						guid="c172b324-d130-42da-972a-866a331fc714"
+						t="r" />
+					<refcol
+						guid="cf286958-c6c3-453f-8369-a93ef0d6f3e0"
+						t="r" />
+					<refcol
+						guid="d80bca00-592c-42d7-9cee-bbb2be4ed56f"
+						t="r" />
+					<refcol
+						guid="eb6dfaa3-82d7-4dff-8e0f-63601d25e770"
+						t="r" />
+					<refcol
+						guid="f2aab4c3-be3c-4456-8bb3-3f0bc46f9020"
+						t="r" />
+					<refcol
+						guid="f7ee0a39-1595-4129-9d1d-5405164207e6"
+						t="r" />
+					<refcol
+						guid="f830273c-0834-475e-bad5-27087ad9e6ea"
+						t="r" />
+					<refcol
+						guid="f8687755-bfb7-42aa-84eb-14fcc1412efc"
+						t="r" />
+					<refcol
+						guid="fc73c7e6-a7be-4dce-adc8-f76028245cad"
+						t="r" />
+					<refcol
+						guid="fee040aa-7999-47a9-a822-87f5985daef4"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="f1050eb2-a416-4491-960c-6c4564543a7c">
+				<Abbreviation>
+					<AUni
+						ws="en">-Lab</AUni>
+					<AUni
+						ws="pt">-Lab</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">non-labial consonants</AUni>
+					<AUni
+						ws="pt">consoantes não-labias</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="1ca0867d-f552-471e-9e80-1120cc17de7b"
+						t="r" />
+					<refcol
+						guid="32d10b7d-d499-4610-9298-f4aa00eb6f19"
+						t="r" />
+					<refcol
+						guid="36897620-d231-4a2d-bd25-b90e3f856887"
+						t="r" />
+					<refcol
+						guid="3ff8d085-d090-45db-a075-42405b77d23a"
+						t="r" />
+					<refcol
+						guid="69d2d111-f81e-4ca7-8cef-5f30b7a327a5"
+						t="r" />
+					<refcol
+						guid="721991b0-8006-45be-a6b7-2e47041ed7bd"
+						t="r" />
+					<refcol
+						guid="7716e981-8a84-47eb-89dd-21f8945d3c54"
+						t="r" />
+					<refcol
+						guid="80de42fa-3152-41e6-8aec-2a9b59faa5b6"
+						t="r" />
+					<refcol
+						guid="82b13fe1-552a-4065-9f16-28c91f09a789"
+						t="r" />
+					<refcol
+						guid="8a95ddbc-41bf-4aa1-bed7-e052d22d3178"
+						t="r" />
+					<refcol
+						guid="a4afe386-6463-4311-9fc9-e57519276c7a"
+						t="r" />
+					<refcol
+						guid="aec85db1-31f1-406d-b480-45dfe6552e39"
+						t="r" />
+					<refcol
+						guid="b4d383ca-f06d-4c2e-b769-eacd7cee081b"
+						t="r" />
+					<refcol
+						guid="c1626766-e9ea-40c0-83a1-743afa07c89f"
+						t="r" />
+					<refcol
+						guid="cf286958-c6c3-453f-8369-a93ef0d6f3e0"
+						t="r" />
+					<refcol
+						guid="d80bca00-592c-42d7-9cee-bbb2be4ed56f"
+						t="r" />
+					<refcol
+						guid="dbd6d116-b210-4dc0-9a0b-1d664751ca27"
+						t="r" />
+					<refcol
+						guid="eb6dfaa3-82d7-4dff-8e0f-63601d25e770"
+						t="r" />
+					<refcol
+						guid="f2aab4c3-be3c-4456-8bb3-3f0bc46f9020"
+						t="r" />
+					<refcol
+						guid="f7ee0a39-1595-4129-9d1d-5405164207e6"
+						t="r" />
+					<refcol
+						guid="f8687755-bfb7-42aa-84eb-14fcc1412efc"
+						t="r" />
+					<refcol
+						guid="fee040aa-7999-47a9-a822-87f5985daef4"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="085e32ec-eb5b-4eed-9dab-e55854ce88fb">
+				<Abbreviation>
+					<AUni
+						ws="en">V+back</AUni>
+					<AUni
+						ws="pt">V+back</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">back vowels</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="14bd1795-d041-4c59-91ae-1d5506c63402"
+						t="r" />
+					<refcol
+						guid="70286ab3-04b7-43ab-afb3-76e978e24142"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="a835a8de-62b1-4a8f-83d0-f8513e1dae88">
+				<Abbreviation>
+					<AUni
+						ws="en">-Lab-Lat-Nas</AUni>
+					<AUni
+						ws="pt">-Lab-Lat-Nas</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">non-labial, non-lateral non-nasal consonants</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="1ca0867d-f552-471e-9e80-1120cc17de7b"
+						t="r" />
+					<refcol
+						guid="32d10b7d-d499-4610-9298-f4aa00eb6f19"
+						t="r" />
+					<refcol
+						guid="36897620-d231-4a2d-bd25-b90e3f856887"
+						t="r" />
+					<refcol
+						guid="3ff8d085-d090-45db-a075-42405b77d23a"
+						t="r" />
+					<refcol
+						guid="69d2d111-f81e-4ca7-8cef-5f30b7a327a5"
+						t="r" />
+					<refcol
+						guid="7716e981-8a84-47eb-89dd-21f8945d3c54"
+						t="r" />
+					<refcol
+						guid="80de42fa-3152-41e6-8aec-2a9b59faa5b6"
+						t="r" />
+					<refcol
+						guid="82b13fe1-552a-4065-9f16-28c91f09a789"
+						t="r" />
+					<refcol
+						guid="a4afe386-6463-4311-9fc9-e57519276c7a"
+						t="r" />
+					<refcol
+						guid="aec85db1-31f1-406d-b480-45dfe6552e39"
+						t="r" />
+					<refcol
+						guid="b4d383ca-f06d-4c2e-b769-eacd7cee081b"
+						t="r" />
+					<refcol
+						guid="cf286958-c6c3-453f-8369-a93ef0d6f3e0"
+						t="r" />
+					<refcol
+						guid="d80bca00-592c-42d7-9cee-bbb2be4ed56f"
+						t="r" />
+					<refcol
+						guid="eb6dfaa3-82d7-4dff-8e0f-63601d25e770"
+						t="r" />
+					<refcol
+						guid="f7ee0a39-1595-4129-9d1d-5405164207e6"
+						t="r" />
+					<refcol
+						guid="f8687755-bfb7-42aa-84eb-14fcc1412efc"
+						t="r" />
+					<refcol
+						guid="fee040aa-7999-47a9-a822-87f5985daef4"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="ce57e7d8-02a8-4945-ba30-eef3009418fc">
+				<Abbreviation>
+					<AUni
+						ws="en">LabAsp</AUni>
+				</Abbreviation>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">these are the set of consonantes which change their sound when prenasalized, and must be separated from a nasal with an apostrophe eg m'bale</Run>
+					</AStr>
+				</Description>
+				<Name>
+					<AUni
+						ws="en">labial "aspirated" consonants</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="9c4b0b53-62e0-4238-8eca-0e2dd632bec5"
+						t="r" />
+					<refcol
+						guid="fc73c7e6-a7be-4dce-adc8-f76028245cad"
+						t="r" />
+				</Segments>
+			</ownseq>
+			<ownseq
+				class="PhNCSegments"
+				guid="16d9bb08-6397-4db5-83cc-4114cc492858">
+				<Abbreviation>
+					<AUni
+						ws="en">-Lab+Asp</AUni>
+				</Abbreviation>
+				<Name>
+					<AUni
+						ws="en">non-labial "aspirates"</AUni>
+				</Name>
+				<Segments>
+					<refcol
+						guid="721991b0-8006-45be-a6b7-2e47041ed7bd"
+						t="r" />
+					<refcol
+						guid="c1626766-e9ea-40c0-83a1-743afa07c89f"
+						t="r" />
+					<refcol
+						guid="f2aab4c3-be3c-4456-8bb3-3f0bc46f9020"
+						t="r" />
+				</Segments>
+			</ownseq>
+		</NaturalClasses>
+		<PhonemeSets>
+			<ownseq
+				class="PhPhonemeSet"
+				guid="a95620c8-7362-4d43-87d9-a166223bb538">
+				<BoundaryMarkers>
+					<PhBdryMarker
+						guid="3bde17ce-e39a-4bae-8a5c-a8d96fd4cb56">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="b1a9c12c-034e-4c57-ab9c-03812dd2b0a2">
+								<Representation>
+									<AUni
+										ws="en">+</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Morpheme boundary</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">+</AUni>
+						</Name>
+					</PhBdryMarker>
+					<PhBdryMarker
+						guid="7db635e0-9ef3-4167-a594-12551ed89aaa">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="1c336ba8-a011-4ff7-996e-c53b46f70224">
+								<Representation>
+									<AUni
+										ws="en">#</AUni>
+									<AUni
+										ws="seh">#</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Word boundary</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">#</AUni>
+							<AUni
+								ws="seh">#</AUni>
+						</Name>
+					</PhBdryMarker>
+				</BoundaryMarkers>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Main phoneme set</Run>
+					</AStr>
+				</Description>
+				<Name>
+					<AUni
+						ws="en">Main phoneme set</AUni>
+				</Name>
+				<Phonemes>
+					<PhPhoneme
+						guid="02423cfb-438d-4a0c-b776-195afd3b941b">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="681893f2-a6b7-409b-ab43-d8d13b9393bc">
+								<Representation>
+									<AUni
+										ws="seh">y</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Palatalization of an immediately preceding consonant. Note that this phoneme always occurs immediately after a consonant.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">Y</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">Y</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="07d4f30f-adff-4d91-9aea-965b1e5edd67">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="0b1c2116-bb4b-4bea-b28d-ca27ca3b0631">
+								<Representation>
+									<AUni
+										ws="en">p</AUni>
+									<AUni
+										ws="seh">p</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless bilabial stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">p</AUni>
+							<AUni
+								ws="seh">p</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">p</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="08740d03-706c-4d79-973c-bb1dc8a5f63a">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="8ffef2f5-7b03-4790-8d97-073568099ed7">
+								<Representation>
+									<AUni
+										ws="en">i</AUni>
+									<AUni
+										ws="seh">i</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">high front unrounded vowel</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">i</AUni>
+							<AUni
+								ws="seh">i</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">i</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="110b1534-7da1-4460-86ec-98191e2c90b6">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="59a1cc4c-f7ea-4088-9b1a-a2fe3ad27b8a">
+								<Representation>
+									<AUni
+										ws="seh">m</AUni>
+								</Representation>
+							</ownseq>
+							<ownseq
+								class="PhCode"
+								guid="2925d7fd-5d51-4a39-b9e4-b1b332bf58ab">
+								<Representation>
+									<AUni
+										ws="seh">n</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Prenasalization of a following consonant. Note that this phoneme only occurs before a consonant.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">N</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">N</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="13c8912b-30fb-4a79-82ce-442e35b7c1d4">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="651df47f-3d25-4fc1-a86d-60d2025cadcb">
+								<Representation>
+									<AUni
+										ws="seh">pf</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless labiodental affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">pf</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">pf</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="14bd1795-d041-4c59-91ae-1d5506c63402">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="d2ead7bd-6baf-4fa6-a621-e07265c50cb9">
+								<Representation>
+									<AUni
+										ws="en">o</AUni>
+									<AUni
+										ws="seh">o</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">mid back rounded vowel</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">o</AUni>
+							<AUni
+								ws="seh">o</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">o</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="1ca0867d-f552-471e-9e80-1120cc17de7b">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="3469ab27-24a3-432b-b671-355be168e1be">
+								<Representation>
+									<AUni
+										ws="en">s</AUni>
+									<AUni
+										ws="seh">s</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless alveolar fricative</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">s</AUni>
+							<AUni
+								ws="seh">s</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">s</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="1fe59fab-5e53-42c3-8b23-d8ea6a2d531f">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="90f8f27c-a40c-4958-9c2a-52e26e1c2e17">
+								<Representation>
+									<AUni
+										ws="en">a</AUni>
+									<AUni
+										ws="seh">a</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">low central unrounded vowel</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">a</AUni>
+							<AUni
+								ws="seh">a</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">a</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="32d10b7d-d499-4610-9298-f4aa00eb6f19">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="43d88c77-bb58-46eb-a3c3-93419ff69326">
+								<Representation>
+									<AUni
+										ws="en">g</AUni>
+									<AUni
+										ws="seh">g</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced velar stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">g</AUni>
+							<AUni
+								ws="seh">g</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">g</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="35a2a60a-ea74-4712-b98c-2b49c0f69e34">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="d11c901e-4e0b-45bc-89ff-f014b53c9957">
+								<Representation>
+									<AUni
+										ws="en">v</AUni>
+									<AUni
+										ws="seh">v</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced labiodental fricative</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">v</AUni>
+							<AUni
+								ws="seh">v</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">v</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="36897620-d231-4a2d-bd25-b90e3f856887">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="af4b4e7b-15f1-4c3e-9da4-34a18bc07d76">
+								<Representation>
+									<AUni
+										ws="seh">dh</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced alveolar stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">d</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">d</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="3ff8d085-d090-45db-a075-42405b77d23a">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="1db6e025-63d3-4dc3-91d8-5768ea49a694">
+								<Representation>
+									<AUni
+										ws="seh">dj</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced alveolar affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">dʒ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">dʒ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="62426ecf-51c0-48f9-acbf-24e407e206c9">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="dc0ca496-9da1-4d5d-a228-232dc1498e7f">
+								<Representation>
+									<AUni
+										ws="seh">ps</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless bilabial affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">ps</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">ps</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="69d2d111-f81e-4ca7-8cef-5f30b7a327a5">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="ca70e8a0-dc7d-4744-8f5e-568e623abc8a">
+								<Representation>
+									<AUni
+										ws="seh">j</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced palatal affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">ʒ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">ʒ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="70286ab3-04b7-43ab-afb3-76e978e24142">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="19ab2e4c-d836-4c8f-8388-31f98327f209">
+								<Representation>
+									<AUni
+										ws="en">u</AUni>
+									<AUni
+										ws="seh">u</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">high back  rounded vowel</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">u</AUni>
+							<AUni
+								ws="seh">u</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">u</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="721991b0-8006-45be-a6b7-2e47041ed7bd">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="db885de8-27a9-4329-90cb-b7995ad8c310">
+								<Representation>
+									<AUni
+										ws="seh">th</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless alveolar aspirated stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">tʰ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">tʰ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="7716e981-8a84-47eb-89dd-21f8945d3c54">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="e9d4e1c8-6984-44c6-9427-76d8bba01456">
+								<Representation>
+									<AUni
+										ws="seh">ch</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless palatal aspirated affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">tʃʰ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">tʃʰ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="7835cc34-ff4b-435c-be10-f1026838d7c8">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="ac339fdf-4a2e-4a19-a17e-6b6cdc064352">
+								<Representation>
+									<AUni
+										ws="seh">bz</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced bilabial affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">bz</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">bz</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="7e960604-3aae-47f1-8f74-aaf317010ab1">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="a86fa21a-fb0c-41e4-bf77-1663baac761a">
+								<Representation>
+									<AUni
+										ws="seh">yw</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Simultaneous labialization and palatalization of an immediately preceding consonant. Note that this phoneme always occurs immediately after a consonant</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">YW</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">YW</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="7fef04b0-4d91-4172-9c42-9c50a7d65aac">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="353a3508-eec0-4a20-a7be-b0e831ab8554">
+								<Representation>
+									<AUni
+										ws="seh">bh</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced bilabial stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">b</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">b</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="80de42fa-3152-41e6-8aec-2a9b59faa5b6">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="42da12a2-d206-43c5-9b14-5eda1942be7a">
+								<Representation>
+									<AUni
+										ws="seh">h</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless glottal fricative</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">h</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">h</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="82b13fe1-552a-4065-9f16-28c91f09a789">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="814726a1-44c6-4cfe-a98a-19cacca467fc">
+								<Representation>
+									<AUni
+										ws="en">r</AUni>
+									<AUni
+										ws="seh">r</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">alveolar flap</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">r</AUni>
+							<AUni
+								ws="seh">r</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">ɾ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="8a95ddbc-41bf-4aa1-bed7-e052d22d3178">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="426a5adf-8b7a-4c91-8970-4f2d9b0c91ba">
+								<Representation>
+									<AUni
+										ws="seh">ng'</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">velar nasal</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">ŋ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">ŋ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="937234ce-012f-4143-9130-c80cce3d8ace">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="a3496ed4-6385-4ca9-90bf-4f7647016a64">
+								<Representation>
+									<AUni
+										ws="en">l</AUni>
+									<AUni
+										ws="seh">l</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">alveolar lateral</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">l</AUni>
+							<AUni
+								ws="seh">l</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">l</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="9c4b0b53-62e0-4238-8eca-0e2dd632bec5">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="5e8d8c26-1839-4f78-9c79-c0c3944bf97f">
+								<Representation>
+									<AUni
+										ws="seh">ph</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless bilabial aspirated stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">pʰ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">pʰ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="a4afe386-6463-4311-9fc9-e57519276c7a">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="c1e329a3-acf2-439c-b168-796827e650f8">
+								<Representation>
+									<AUni
+										ws="seh">c</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless palatal affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">tʃ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">tʃ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="aec85db1-31f1-406d-b480-45dfe6552e39">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="b29682a4-8799-493d-9719-41e4682810a9">
+								<Representation>
+									<AUni
+										ws="seh">ts</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless alveolar affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">ts</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">ts</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="b0ed6f3e-804d-4b2a-9db8-238b395f8fc5">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="f5360cea-451a-4d17-bc27-889e69641aa5">
+								<Representation>
+									<AUni
+										ws="en">f</AUni>
+									<AUni
+										ws="seh">f</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless labiodental fricative</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">f</AUni>
+							<AUni
+								ws="seh">f</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">f</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="b4d383ca-f06d-4c2e-b769-eacd7cee081b">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="1c952362-6dc5-4f59-8d77-d09cdda63489">
+								<Representation>
+									<AUni
+										ws="en">z</AUni>
+									<AUni
+										ws="seh">z</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced alveolar fricative</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">z</AUni>
+							<AUni
+								ws="seh">z</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">z</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="c1626766-e9ea-40c0-83a1-743afa07c89f">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="de33d413-c89d-4b8b-be7b-e5a4b9aa7ee4">
+								<Representation>
+									<AUni
+										ws="seh">kh</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless velar aspirated stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">kʰ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">kʰ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="c172b324-d130-42da-972a-866a331fc714">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="25be34d7-3251-4b6e-8597-61830bb0f21b">
+								<Representation>
+									<AUni
+										ws="seh">bv</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced labiodental affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">bv</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">bv</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="ce9bdc1f-3e80-4c7f-a045-1bfaff3d989f">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="8251ee29-2b0a-4056-805e-9a75676adb85">
+								<Representation>
+									<AUni
+										ws="en">e</AUni>
+									<AUni
+										ws="seh">e</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">mid front unrounded vowel</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">e</AUni>
+							<AUni
+								ws="seh">e</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">e</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="cf286958-c6c3-453f-8369-a93ef0d6f3e0">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="8af43e31-cf54-4177-9dd9-39b868f5f1e6">
+								<Representation>
+									<AUni
+										ws="en">k</AUni>
+									<AUni
+										ws="seh">k</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless velar stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">k</AUni>
+							<AUni
+								ws="seh">k</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">k</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="cfd57b1f-6089-4c80-9752-2df7ccd9fc13">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="8379b72f-3bca-43f0-bd48-ac7ca0d263c3">
+								<Representation>
+									<AUni
+										ws="seh">w</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Labialization of an immediately preceding consonant. Note that this phoneme always occurs immediately after a consonant</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">W</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">W</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="d80bca00-592c-42d7-9cee-bbb2be4ed56f">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="09c5a49b-82e5-411e-bffa-cdb415933103">
+								<Representation>
+									<AUni
+										ws="seh">dz</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced dental affricate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">dz</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">dz</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="dbd6d116-b210-4dc0-9a0b-1d664751ca27">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="757a0d21-a3fd-4cc3-84d2-7208abd8ecc7">
+								<Representation>
+									<AUni
+										ws="en">n</AUni>
+									<AUni
+										ws="seh">n</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">alveolar nasal</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">n</AUni>
+							<AUni
+								ws="seh">n</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">n</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="eb6dfaa3-82d7-4dff-8e0f-63601d25e770">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="5da17e8c-02c6-4a18-b60a-dbeb2bb86544">
+								<Representation>
+									<AUni
+										ws="en">x</AUni>
+									<AUni
+										ws="seh">x</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless palatal fricative</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">x</AUni>
+							<AUni
+								ws="seh">ʃ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">ʃ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="f2aab4c3-be3c-4456-8bb3-3f0bc46f9020">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="5f42d416-3ba5-4bfe-a0f5-1a013dfc81b6">
+								<Representation>
+									<AUni
+										ws="en">d</AUni>
+									<AUni
+										ws="seh">d</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced alveolar implosive</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">d</AUni>
+							<AUni
+								ws="seh">ɗ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">ɗ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="f7ee0a39-1595-4129-9d1d-5405164207e6">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="681e1c7d-21ec-4fc2-a28a-7eb9dda40d4e">
+								<Representation>
+									<AUni
+										ws="en">t</AUni>
+									<AUni
+										ws="seh">t</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless alveolar stop</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">t</AUni>
+							<AUni
+								ws="seh">t</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">t</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="f830273c-0834-475e-bad5-27087ad9e6ea">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="1aa5d5ba-84a4-4243-9850-59c48f929385">
+								<Representation>
+									<AUni
+										ws="en">w</AUni>
+									<AUni
+										ws="seh">w</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">labiovelar approximant</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">w</AUni>
+							<AUni
+								ws="seh">w</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">w</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="f8687755-bfb7-42aa-84eb-14fcc1412efc">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="ced06cf5-7768-4f74-bae0-2f3fa9ee07ab">
+								<Representation>
+									<AUni
+										ws="seh">sw</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiceless rounded retroflexed sibilant</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="seh">sʷ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">sʷ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="f8f99596-cd40-4f7a-ab77-b89cce86a2e6">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="fd61a9a5-62bd-4603-a3f6-d6abcbaf6e8a">
+								<Representation>
+									<AUni
+										ws="en">m</AUni>
+									<AUni
+										ws="seh">m</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">bilabial nasal</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">m</AUni>
+							<AUni
+								ws="seh">m</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">m</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="fc73c7e6-a7be-4dce-adc8-f76028245cad">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="93c0b31e-7438-4f52-860e-dee846beafcf">
+								<Representation>
+									<AUni
+										ws="en">b</AUni>
+									<AUni
+										ws="seh">b</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">voiced bilabial implosive</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">b</AUni>
+							<AUni
+								ws="seh">ɓ</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">ɓ</AUni>
+						</Name>
+					</PhPhoneme>
+					<PhPhoneme
+						guid="fee040aa-7999-47a9-a822-87f5985daef4">
+						<Codes>
+							<ownseq
+								class="PhCode"
+								guid="4cc6c569-19ea-4a53-8139-f97b4be659c9">
+								<Representation>
+									<AUni
+										ws="en">y</AUni>
+									<AUni
+										ws="seh">y</AUni>
+								</Representation>
+							</ownseq>
+						</Codes>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">palatal approximate</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">y</AUni>
+							<AUni
+								ws="seh">y</AUni>
+							<AUni
+								ws="seh-fonipa-x-etic">y</AUni>
+						</Name>
+					</PhPhoneme>
+				</Phonemes>
+			</ownseq>
+		</PhonemeSets>
+		<PhonRuleFeats />
+	</PhPhonData>
+</PhonologicalData>

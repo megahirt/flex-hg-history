@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Locations>
+	<CmPossibilityList
+		guid="a50c1109-3d78-4e3f-8f15-098596247852">
+		<Abbreviation>
+			<AUni
+				ws="en">Loc</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-4-29 20:57:23.447" />
+		<DateModified
+			val="2005-4-29 20:57:23.447" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="true" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="12" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Locations</AUni>
+			<AUni
+				ws="pt">Localizações</AUni>
+		</Name>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-6" />
+	</CmPossibilityList>
+</Locations>

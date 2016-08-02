@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfidenceLevels>
+	<CmPossibilityList
+		guid="69d0b94e-c3c8-4613-acec-d167f2900d76">
+		<Abbreviation>
+			<AUni
+				ws="en">Conf</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-4-29 20:57:23.447" />
+		<DateModified
+			val="2005-4-29 20:57:23.447" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Confidence Levels</AUni>
+			<AUni
+				ws="pt">Níveis de Confiança</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="c3804b78-44c6-4bf4-847e-49a88a81cd91">
+				<Abbreviation>
+					<AUni
+						ws="en">High</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.633" />
+				<DateModified
+					val="2005-4-29 20:57:23.633" />
+				<Discussion>
+					<StText
+						guid="9888d8c8-a6ae-4e98-9377-ac607c4257db">
+						<DateModified
+							val="2011-2-2 19:19:27.736" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="dfe7c938-b74b-4527-bb24-099daab8791c">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">High</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="fcc2451e-8f98-4d3b-82cb-f12d6153f59b">
+				<Abbreviation>
+					<AUni
+						ws="en">Med</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.633" />
+				<DateModified
+					val="2005-4-29 20:57:23.633" />
+				<Discussion>
+					<StText
+						guid="0324f57f-4e22-4aa4-9f36-5db322500ac5">
+						<DateModified
+							val="2011-2-2 19:19:27.736" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="da743057-bed0-4024-9190-1e60e0516456">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Medium</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="6b6f631a-f556-4c4e-965c-b6d4126c038f">
+				<Abbreviation>
+					<AUni
+						ws="en">Low</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.633" />
+				<DateModified
+					val="2005-4-29 20:57:23.633" />
+				<Discussion>
+					<StText
+						guid="4ba14529-5461-4534-aa5c-e2ac6e4ea4ac">
+						<DateModified
+							val="2011-2-2 19:19:27.737" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="3a2dd9e5-e5a8-4100-842b-7cf604b96521">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Low</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="8769460c-e679-44fc-a752-cf62f5d4bc7b">
+				<Abbreviation>
+					<AUni
+						ws="en">Unk</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.633" />
+				<DateModified
+					val="2005-4-29 20:57:23.633" />
+				<Discussion>
+					<StText
+						guid="dcd5141b-e1ed-4131-ad2b-d412de472a3d">
+						<DateModified
+							val="2011-2-2 19:19:27.737" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="84aa6a0b-4f82-43c7-8727-a6955fe6b49f">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Unknown</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</ConfidenceLevels>

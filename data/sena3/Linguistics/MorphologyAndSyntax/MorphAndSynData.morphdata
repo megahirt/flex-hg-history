@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MorphAndSynData>
+	<MoMorphData
+		guid="5b77ae71-d127-4638-87a5-d8c72d108b9f">
+		<CompoundRules>
+			<ownseq
+				class="MoExoCompound"
+				guid="1645dd1b-3dc8-44f8-9a8a-e781c1127d8d">
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">is a fusion of ndi + a prounoun</Run>
+					</AStr>
+				</Description>
+				<Disabled
+					val="False" />
+				<LeftMsa>
+					<MoStemMsa
+						guid="66126f1e-2ca1-47b2-a16c-1610a85356b2">
+						<PartOfSpeech>
+							<objsur
+								guid="748af620-8cd0-4364-a951-c234306f5b9f"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</LeftMsa>
+				<Name>
+					<AUni
+						ws="en">ndi+ipron</AUni>
+				</Name>
+				<RightMsa>
+					<MoStemMsa
+						guid="3af5bf41-2239-43fc-8534-cb4f2dbb8c9e">
+						<PartOfSpeech>
+							<objsur
+								guid="78f35fe9-e85c-441c-a162-230d785efddc"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</RightMsa>
+				<ToMsa>
+					<MoStemMsa
+						guid="21a978e4-9301-4708-b0da-786963fb647d">
+						<PartOfSpeech>
+							<objsur
+								guid="748af620-8cd0-4364-a951-c234306f5b9f"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</ToMsa>
+			</ownseq>
+			<ownseq
+				class="MoExoCompound"
+				guid="45a5d8ef-b59b-44ce-9346-ac824e998b51">
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">is a fusion of ndi + a personal pronoun</Run>
+					</AStr>
+				</Description>
+				<Disabled
+					val="False" />
+				<LeftMsa>
+					<MoStemMsa
+						guid="755fcb50-2efb-40c3-ac2d-d1b0809b20e7">
+						<PartOfSpeech>
+							<objsur
+								guid="748af620-8cd0-4364-a951-c234306f5b9f"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</LeftMsa>
+				<Name>
+					<AUni
+						ws="en">ndi+ppron</AUni>
+				</Name>
+				<RightMsa>
+					<MoStemMsa
+						guid="f6e12b45-194c-4946-a826-dd06f810c104">
+						<PartOfSpeech>
+							<objsur
+								guid="d35c60bd-e436-4769-a6c6-96770a849831"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</RightMsa>
+				<ToMsa>
+					<MoStemMsa
+						guid="8154f5c7-33a5-47a8-8a69-216e2784d138">
+						<PartOfSpeech>
+							<objsur
+								guid="748af620-8cd0-4364-a951-c234306f5b9f"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</ToMsa>
+			</ownseq>
+			<ownseq
+				class="MoExoCompound"
+				guid="63621e4b-9d6f-468b-9864-e4eb3a6667d3">
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">is a fusion of li + ipo</Run>
+					</AStr>
+				</Description>
+				<Disabled
+					val="False" />
+				<LeftMsa>
+					<MoStemMsa
+						guid="4ac693de-9db3-4971-947a-e0a7db58661e">
+						<PartOfSpeech>
+							<objsur
+								guid="cf4b95e5-2362-412d-92a1-24846a4bab59"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</LeftMsa>
+				<Name>
+					<AUni
+						ws="en">li+po</AUni>
+					<AUni
+						ws="pt">li+po</AUni>
+				</Name>
+				<RightMsa>
+					<MoStemMsa
+						guid="0c2ff91e-41c2-463b-9ad9-038718718a07">
+						<PartOfSpeech>
+							<objsur
+								guid="78f35fe9-e85c-441c-a162-230d785efddc"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</RightMsa>
+				<ToMsa>
+					<MoStemMsa
+						guid="6584e397-5b2d-4c31-a881-f4c716cb8578">
+						<PartOfSpeech>
+							<objsur
+								guid="cf4b95e5-2362-412d-92a1-24846a4bab59"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</ToMsa>
+			</ownseq>
+			<ownseq
+				class="MoExoCompound"
+				guid="d2761f09-5c53-4395-8767-74c7b504f228">
+				<Disabled
+					val="False" />
+				<LeftMsa>
+					<MoStemMsa
+						guid="43a261b3-b095-48d1-991e-f874a1d7a788">
+						<PartOfSpeech>
+							<objsur
+								guid="748af620-8cd0-4364-a951-c234306f5b9f"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</LeftMsa>
+				<Name>
+					<AUni
+						ws="en">ndi+verb</AUni>
+					<AUni
+						ws="pt">ndi+verb</AUni>
+				</Name>
+				<RightMsa>
+					<MoStemMsa
+						guid="65104b69-d337-4bd0-8c53-c8ff752929e8">
+						<PartOfSpeech>
+							<objsur
+								guid="8e45de56-5105-48dc-b302-05985432e1e7"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</RightMsa>
+				<ToMsa>
+					<MoStemMsa
+						guid="14997dc0-22b9-44af-8c75-76f08c4a54cb">
+						<PartOfSpeech>
+							<objsur
+								guid="8e45de56-5105-48dc-b302-05985432e1e7"
+								t="r" />
+						</PartOfSpeech>
+					</MoStemMsa>
+				</ToMsa>
+			</ownseq>
+		</CompoundRules>
+		<ParserParameters>
+			<Uni>&lt;ParserParameters&gt;
+&lt;XAmple&gt;
+&lt;MaxNulls&gt;1&lt;/MaxNulls&gt;
+&lt;MaxPrefixes&gt;5&lt;/MaxPrefixes&gt;
+&lt;MaxInfixes&gt;1&lt;/MaxInfixes&gt;
+&lt;MaxSuffixes&gt;5&lt;/MaxSuffixes&gt;
+&lt;MaxInterfixes&gt;0&lt;/MaxInterfixes&gt;
+&lt;MaxAnalysesToReturn&gt;10&lt;/MaxAnalysesToReturn&gt;
+&lt;/XAmple&gt;
+&lt;/ParserParameters&gt;</Uni>
+		</ParserParameters>
+		<ProdRestrict />
+	</MoMorphData>
+</MorphAndSynData>

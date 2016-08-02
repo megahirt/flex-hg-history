@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SenseTypes>
+	<CmPossibilityList
+		guid="b07e8b56-afa4-4354-a906-f4d17598b391">
+		<Abbreviation>
+			<AUni
+				ws="en">SenTyp</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-6-22 13:56:13.633" />
+		<DateModified
+			val="2005-6-22 13:56:13.633" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="true" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Sense Types</AUni>
+			<AUni
+				ws="pt">Tipos de Significado</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="738dc512-1f1e-4091-942a-bc8b54bee2c3">
+				<Abbreviation>
+					<AUni
+						ws="en">fig</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-6-22 13:56:16.767" />
+				<DateModified
+					val="2005-6-22 13:56:16.767" />
+				<Discussion>
+					<StText
+						guid="e296dddd-0532-42e6-96d6-3e7a5975f43d">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="aeb4d79c-f977-42ec-aa60-b7532e7dd928">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">figurative</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="c35d92ae-1d29-41e1-8429-9aa332aca272">
+				<Abbreviation>
+					<AUni
+						ws="en">prim</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-6-22 13:56:16.767" />
+				<DateModified
+					val="2005-6-22 13:56:16.767" />
+				<Discussion>
+					<StText
+						guid="d8496659-514d-4078-81ef-e9450b7a9cc2">
+						<DateModified
+							val="2011-2-2 19:19:27.748" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="e212c05d-eed4-4c8b-980b-f1db1e9156be">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">primary</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</SenseTypes>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Education>
+	<CmPossibilityList
+		guid="bd339c6b-4167-41c1-9284-80f1d811d419">
+		<Abbreviation>
+			<AUni
+				ws="en">EdLev</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-4-29 20:57:23.460" />
+		<DateModified
+			val="2005-4-29 20:57:23.460" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Education Levels</AUni>
+			<AUni
+				ws="pt">Níveis de Educação</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="c45fc1ed-b022-44fb-8cfc-cd38ba59f8e0">
+				<Abbreviation>
+					<AUni
+						ws="en">No</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.650" />
+				<DateModified
+					val="2005-4-29 20:57:23.650" />
+				<Discussion>
+					<StText
+						guid="e16449f6-c09a-4df6-9518-ade71eaee081">
+						<DateModified
+							val="2011-2-2 19:19:27.742" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="2ec3e38b-78d5-4c00-81db-ffb507f97a32">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">No Formal</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="57b273d7-1ed6-40a9-a60b-2e98150ed029">
+				<Abbreviation>
+					<AUni
+						ws="en">Pri</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.650" />
+				<DateModified
+					val="2005-4-29 20:57:23.650" />
+				<Discussion>
+					<StText
+						guid="8c3478d4-7238-441f-8a5f-16774d719485">
+						<DateModified
+							val="2011-2-2 19:19:27.742" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="50d3fc5a-ff11-4ec8-912d-b23135c62f56">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Primary</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="e4d95cf2-ae4c-435c-9ed3-8158f7fe0e13">
+				<Abbreviation>
+					<AUni
+						ws="en">JrHi</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="70dee622-8f29-4006-8ba9-a62a79da4e63">
+						<DateModified
+							val="2011-2-2 19:19:27.742" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="e8375ad1-952f-415a-9e97-c27695c3a948">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Junior High</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="927a64e4-d6aa-4d99-a9ad-0254b36ca6b4">
+				<Abbreviation>
+					<AUni
+						ws="en">HS</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="78e5f40c-041f-4791-a3d6-09144410de63">
+						<DateModified
+							val="2011-2-2 19:19:27.742" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="e156bb06-dc51-4cec-abf8-315be9451803">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">High School</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="dafeaca5-117a-46a8-8054-3cdc2c7a41ba">
+				<Abbreviation>
+					<AUni
+						ws="en">UndGrad</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="befd4777-f2e8-47ed-835e-ab1d2661891b">
+						<DateModified
+							val="2011-2-2 19:19:27.742" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="63ddf235-420f-46ab-a613-b86d8f69ea6c">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Undergraduate</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="cfb05055-4832-4cad-a84e-d612055922d3">
+				<Abbreviation>
+					<AUni
+						ws="en">Grad</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="557e616d-f69e-4afa-a385-6c7def16bc5d">
+						<DateModified
+							val="2011-2-2 19:19:27.742" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="5894bc09-8319-49fc-831e-f2d53a85785e">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Graduate</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="36e21230-ff99-4364-876a-59568d6ddaae">
+				<Abbreviation>
+					<AUni
+						ws="en">Prof</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="d6ef2f50-2b44-428d-a747-6c6755298330">
+						<DateModified
+							val="2011-2-2 19:19:27.742" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="b2712825-08d6-455f-babc-9e921619e663">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Professor</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</Education>

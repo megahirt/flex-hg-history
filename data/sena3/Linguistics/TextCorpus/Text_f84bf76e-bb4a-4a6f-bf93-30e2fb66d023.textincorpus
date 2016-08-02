@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="f84bf76e-bb4a-4a6f-bf93-30e2fb66d023">
+		<Contents>
+			<StText
+				guid="40b3e88f-ae59-48d0-a2ba-e498a27cc9b3">
+				<DateModified
+					val="2011-2-2 19:19:27.847" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="aebd9482-28de-4e63-a4ec-0789e06b9cde">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Pisapha, mbwenye pinafunika n'khuphata ntima. Tonsene njira yathu ndjeneyi.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="db5956da-a55f-4d54-a57f-fda9090bf181">
+								<Analyses>
+									<refseq
+										guid="9e2e8700-3b1f-4edc-a081-3d78e32f68f4"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="53621754-d12a-4d7e-9332-767eeaf4fe09"
+										t="r" />
+									<refseq
+										guid="7be00ff4-c58d-4feb-927e-847455e36876"
+										t="r" />
+									<refseq
+										guid="9e4ab959-2eb4-4aff-bc55-a0cc9db5988d"
+										t="r" />
+									<refseq
+										guid="09d70790-5f2b-4c8c-ab69-bf7b6e2e6432"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">These things hurt but what is necessary is to have courage.</Run>
+									</AStr>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Estas coisas doem mas o que é necessário é ter coragem. Pois nós todos vamos morrer.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="e467f5f6-8af7-4d87-8804-61f508f1abcc">
+								<Analyses>
+									<refseq
+										guid="e2d2bca0-3dcf-43ae-b0fe-7826198a88f6"
+										t="r" />
+									<refseq
+										guid="4812d40e-aaff-4831-a6bb-1e6c5cfd8b80"
+										t="r" />
+									<refseq
+										guid="f7e7b4f0-3536-43a9-9aaa-83250bacb9ac"
+										t="r" />
+									<refseq
+										guid="2443061d-c372-493f-9fff-f62be29e1fd8"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="46" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">For all of us will die.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2005-6-25 4:9:16.617" />
+		<DateModified
+			val="2006-9-14 13:46:24.883" />
+		<Description>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">  "Phatani ntima" ("Have courage") (c) Luís Nyazeze, used by permission.</Run>
+			</AStr>
+			<AStr
+				ws="pt">
+				<Run
+					ws="pt">"Phatani ntima" ("Have courage") (c) Luís Nyazeze, used by permission.</Run>
+			</AStr>
+		</Description>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">Have courage</AUni>
+			<AUni
+				ws="pt">Tenha coragem</AUni>
+			<AUni
+				ws="seh">Phatani ntima</AUni>
+		</Name>
+	</Text>
+</TextInCorpus>

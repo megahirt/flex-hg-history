@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotations>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="0130490d-e7ae-4fc8-ad0b-78f7f5976010">
+		<BeginObject>
+			<objsur
+				guid="048b5c62-2988-4766-9de5-9b9780cbf246"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2006-9-14 15:22:1.140" />
+		<DateModified
+			val="2006-9-14 15:22:1.140" />
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="5097008" />
+		<Source>
+			<objsur
+				guid="1257a971-fcef-4f06-a5e2-c289de5aaf72"
+				t="r" />
+		</Source>
+		<Text>
+			<StText
+				guid="a4c67c3e-e1aa-4e68-9ba0-f826905bb400">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="7441d724-bf6f-4536-afb8-aa790a031e51">
+						<Contents>
+							<Str>
+								<Run
+									ws="pt">There is a problem with this environment string '/ _ ~[V]': The phoneme which begins '~[V]' was not found in the set of representations for any Phoneme.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Paragraph" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="1e765d6a-c925-415e-9321-d717d1e3f560">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.7" />
+		<DateModified
+			val="2005-6-22 15:45:6.7" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="6ac720b4-633c-4491-924a-b79d75661c67">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="2789a791-0936-4eb9-aa30-0f71a6988f29">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">\nt 1a pre-edição 300 copies printed Jan 1999</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="1eb06128-a449-4b28-a0c7-65cc4e3cc997">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.680" />
+		<DateModified
+			val="2005-6-22 15:45:6.680" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="8ecc97da-10e9-49ac-a21a-7b1ba0a5a6e5">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="443f395f-2bec-4834-8766-86457d670452">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nq Deve ter um introdução de livro tambem? Trabalhar com todas as títilos</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmIndirectAnnotation"
+		guid="204ecb6e-9a42-4e19-a976-58daf68c9c01">
+		<DateCreated
+			val="2006-7-31 19:4:54.113" />
+		<DateModified
+			val="2006-7-31 19:4:54.113" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="3eca9945-26c4-408c-b2a7-144194900bd2">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.210" />
+		<DateModified
+			val="2005-6-22 15:45:6.210" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="04f70ad3-140e-4fcb-9f67-078c0a271bee">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="3866e460-1d2a-4a63-925d-3029f3d1702e">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">Needed: Spell check w/ CARLA, Test, Publish</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="3fa90b3e-f8e9-4048-b0c5-ce439335d89a">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.100" />
+		<DateModified
+			val="2005-6-22 15:45:6.100" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="e9b80248-c886-4053-b2b6-141f1f77b9a3">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="1a68ea9f-09a9-447d-bae2-fef79866727d">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nt8 version 8 (changes marked: nt8) after provisional publication: changed to match orth99 spelling rules</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="43c093c5-ae53-493f-bb00-83132be6ac73">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.617" />
+		<DateModified
+			val="2005-6-22 15:45:6.617" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="46b76133-cf0e-4943-a9ea-c2ddbf2920c7">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="2c51d0b9-60e9-4076-a709-333656655ed3">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">Put in front cover</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="6f73831f-cf3e-4ee2-92ae-159a8bca6619">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.413" />
+		<DateModified
+			val="2005-6-22 15:45:6.413" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="416f9390-eadb-4b62-9e01-edac65f3561e">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="e90baf80-29c7-4dc3-b56c-5673aac8afbc">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nq Check all ine &amp; imwe for maiúsculu: done</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="887339d7-2ee0-4c5b-969d-4b738f2279e9">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.367" />
+		<DateModified
+			val="2005-6-22 15:45:6.367" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="5131a74b-48d8-4f44-be16-78031560d412">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="844e4cbd-afca-4249-9826-be2a2d18c141">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nq Check discourse features (story line, pronouns) &amp; connectors</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="913215e2-96ea-427e-9368-fd17a3fd32ae">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.257" />
+		<DateModified
+			val="2005-6-22 15:45:6.257" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="32f07f46-1b5c-491a-a2f2-b1db69e59f46">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="d71af434-20ac-4e8d-bb6a-aa403aa9be68">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nq Estude citacões, discurso direito em todo o texto.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="94154b7f-b7a1-46eb-97a4-629a2fa641df">
+		<AnnotationType>
+			<objsur
+				guid="20cf6c1c-9389-4380-91f5-dfa057003d51"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="aebd9482-28de-4e63-a4ec-0789e06b9cde"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<CompDetails>
+			<Uni>143987</Uni>
+		</CompDetails>
+		<DateCreated
+			val="2005-8-11 16:25:16.90" />
+		<DateModified
+			val="2005-8-11 16:25:16.90" />
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="bda120d3-0718-46b5-8d0a-00112cf5ad35">
+		<AnnotationType>
+			<objsur
+				guid="20cf6c1c-9389-4380-91f5-dfa057003d51"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="43dd3703-0fb5-45e0-a2fb-93d9a19431fb"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<CompDetails>
+			<Uni>804209</Uni>
+		</CompDetails>
+		<DateCreated
+			val="2009-4-9 15:51:12.310" />
+		<DateModified
+			val="2009-4-9 15:51:12.310" />
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="c4c5ebbe-7112-4990-af17-d0264b726e4c">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.477" />
+		<DateModified
+			val="2005-6-22 15:45:6.477" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="d4e72e49-aff0-45e7-9aff-d48d0b90b23a">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="bbbf997c-0223-4f76-bc76-d1c0fc7b02be">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nq CARLA spell check</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="c9ce6bba-3fcf-49f9-87e8-abb0fc74f1da">
+		<AnnotationType>
+			<objsur
+				guid="20cf6c1c-9389-4380-91f5-dfa057003d51"
+				t="r" />
+		</AnnotationType>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<CompDetails>
+			<Uni>804021</Uni>
+		</CompDetails>
+		<DateCreated
+			val="2009-4-9 15:35:26.667" />
+		<DateModified
+			val="2009-4-9 15:35:26.667" />
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="cd02c731-a0a4-451a-8437-644ceef49a71">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.570" />
+		<DateModified
+			val="2005-6-22 15:45:6.570" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="7445ac6d-4604-4816-a2df-229ddc2626c3">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="5148e89e-16c9-4812-8437-cf7fd7ef129c">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nc Pronomes referindo a Deus ou Jesus fique minúsculu</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="d90982c1-7699-4562-a2bb-2a277c544f54">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.53" />
+		<DateModified
+			val="2005-6-22 15:45:6.53" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="ffb91f7f-f1e4-45da-8db0-4685e1b9cf0b">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="bf277132-95c0-44ef-93c2-2e84d20915be">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">2a pre-edição 1000 copies printed May 1999</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="da18732c-766b-4892-8986-eaf19443f664">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.320" />
+		<DateModified
+			val="2005-6-22 15:45:6.320" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="0387edff-e079-4121-b343-f948ca0b219f">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="1abb5c63-668f-446d-aeba-8ac73c3e896a">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nq Verifica cada caso de Mbuya, Senhor para saber se for YHWH ou adonai</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="ddb82463-7b09-46cd-87d6-ab1b544579f6">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.523" />
+		<DateModified
+			val="2005-6-22 15:45:6.523" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="c8c1c3d3-7525-494b-8e29-c4acff9feebf">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="2256a754-53e2-4067-92c0-7d27cf3f019d">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">fyi na tenepa should only start a new sentence or phrase (ie should be preceeded by a period or semi-colon</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+	<CmAnnotation
+		class="CmBaseAnnotation"
+		guid="ef695c4d-8d5b-4052-81fd-589bd057b1cb">
+		<AnnotationType>
+			<objsur
+				guid="56de9b1a-1ce7-42a1-aa76-512ebeff0dda"
+				t="r" />
+		</AnnotationType>
+		<BeginObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</BeginObject>
+		<BeginOffset
+			val="0" />
+		<BeginRef
+			val="0" />
+		<DateCreated
+			val="2005-6-22 15:45:6.163" />
+		<DateModified
+			val="2005-6-22 15:45:6.163" />
+		<EndObject>
+			<objsur
+				guid="a1984410-2489-4505-b49d-31dd608ee0bf"
+				t="r" />
+		</EndObject>
+		<EndOffset
+			val="0" />
+		<EndRef
+			val="0" />
+		<Flid
+			val="0" />
+		<Text>
+			<StText
+				guid="689ef0ea-ed85-4f48-942a-ea2e6d605f12">
+				<DateModified
+					val="2011-2-2 19:19:27.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="b8d89fc2-2bcd-40ad-ac55-9e85eb8ac787">
+						<Contents>
+							<Str>
+								<Run
+									ws="en">nt8 Change pronouns following new capitalization rule</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="False" />
+						<StyleRules>
+							<Prop
+								namedStyle="Remark" />
+						</StyleRules>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Text>
+		<WsSelector
+			val="0" />
+	</CmAnnotation>
+</Annotations>

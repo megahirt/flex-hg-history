@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WritingSystemChangeLog
+	Version="1">
+	<Changes>
+		<Delete
+			Producer="FieldWorks"
+			ProducerVersion="Version 8.2.8 (apparent build date: 20-May-2016)"
+			TimeStamp="2016-08-01T03:30:32Z">
+			<Id>en</Id>
+		</Delete>
+		<Delete
+			Producer="FieldWorks"
+			ProducerVersion="Version 8.2.8 (apparent build date: 20-May-2016)"
+			TimeStamp="2016-08-01T03:30:32Z">
+			<Id>grc</Id>
+		</Delete>
+		<Delete
+			Producer="FieldWorks"
+			ProducerVersion="Version 8.2.8 (apparent build date: 20-May-2016)"
+			TimeStamp="2016-08-01T03:30:32Z">
+			<Id>hbo</Id>
+		</Delete>
+		<Delete
+			Producer="FieldWorks"
+			ProducerVersion="Version 8.2.8 (apparent build date: 20-May-2016)"
+			TimeStamp="2016-08-01T03:30:32Z">
+			<Id>pt</Id>
+		</Delete>
+		<Delete
+			Producer="FieldWorks"
+			ProducerVersion="Version 8.2.8 (apparent build date: 20-May-2016)"
+			TimeStamp="2016-08-01T03:30:32Z">
+			<Id>seh-fonipa-x-etic</Id>
+		</Delete>
+	</Changes>
+</WritingSystemChangeLog>

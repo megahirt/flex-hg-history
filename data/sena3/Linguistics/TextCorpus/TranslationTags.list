@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslationTags>
+	<CmPossibilityList
+		guid="d7f71649-e8cf-11d3-9764-00c04f186933">
+		<Abbreviation>
+			<AUni
+				ws="en">Type</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-4-29 20:57:23.383" />
+		<DateModified
+			val="2005-4-29 20:57:23.383" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="true" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Translation Types</AUni>
+			<AUni
+				ws="pt">Tipos de Tradução</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="80a0dddb-8b4b-4454-b872-88adec6f2aba">
+				<Abbreviation>
+					<AUni
+						ws="en">BT</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.603" />
+				<DateModified
+					val="2005-4-29 20:57:23.603" />
+				<Discussion>
+					<StText
+						guid="73939e94-eadf-482e-ae69-8820b6294985">
+						<DateModified
+							val="2011-2-2 19:19:27.879" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="c3274565-fd8d-4cc8-995b-66a8abb5f6db">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="true" />
+				<Name>
+					<AUni
+						ws="en">Back translation</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="d7f7164a-e8cf-11d3-9764-00c04f186933">
+				<Abbreviation>
+					<AUni
+						ws="en">FT</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.617" />
+				<DateModified
+					val="2005-4-29 20:57:23.617" />
+				<Discussion>
+					<StText
+						guid="20fbe4b5-afa3-4e61-b94f-c4efb971251c">
+						<DateModified
+							val="2011-2-2 19:19:27.880" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="68360002-0bdb-47c8-b51b-70623d61692d">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="true" />
+				<Name>
+					<AUni
+						ws="en">Free translation</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="d7f7164b-e8cf-11d3-9764-00c04f186933">
+				<Abbreviation>
+					<AUni
+						ws="en">LT</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.617" />
+				<DateModified
+					val="2005-4-29 20:57:23.617" />
+				<Discussion>
+					<StText
+						guid="8aec3586-5234-409f-ba58-5201dcef2601">
+						<DateModified
+							val="2011-2-2 19:19:27.880" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="f3ccb000-3ee0-4e14-8713-0d99943bda93">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="true" />
+				<Name>
+					<AUni
+						ws="en">Literal translation</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</TranslationTags>

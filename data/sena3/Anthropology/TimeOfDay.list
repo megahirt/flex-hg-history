@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeOfDay>
+	<CmPossibilityList
+		guid="8a07b85b-e75b-40fe-ad73-ae6db6e102f7">
+		<Abbreviation>
+			<AUni
+				ws="en">Time</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-4-29 20:57:23.460" />
+		<DateModified
+			val="2005-4-29 20:57:23.460" />
+		<Depth
+			val="127" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Time Of Day</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPossibility"
+				guid="10054010-e6ef-4f98-bd59-274df7cb86f2">
+				<Abbreviation>
+					<AUni
+						ws="en">Pred</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="ed87b92e-23ed-4021-9a7e-17cc9a962cef">
+						<DateModified
+							val="2011-2-2 19:19:27.848" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="3e0b3137-ece5-43d4-810a-d9a0269dcb50">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Predawn</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="5e5bd7cb-e262-4f6c-8b47-a0d850a96136">
+				<Abbreviation>
+					<AUni
+						ws="en">Morn</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="878930ff-9253-473e-a42a-17d603a867b1">
+						<DateModified
+							val="2011-2-2 19:19:27.848" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="b4041bf8-35fa-4b9f-8690-c752400953cf">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Morning</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="228359f2-982e-4d17-9dc8-a37d3297dd43">
+						<Abbreviation>
+							<AUni
+								ws="en">EMorn</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2005-4-29 20:57:24.277" />
+						<DateModified
+							val="2005-4-29 20:57:24.277" />
+						<Discussion>
+							<StText
+								guid="a091eb07-7e57-4855-a12f-00433cde3a06">
+								<DateModified
+									val="2011-2-2 19:19:27.848" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="19bef908-d2c1-4532-b081-6d22a550dfe6">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Early Morning</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="d565ae7d-5a4c-499d-99ff-8e333e795212">
+						<Abbreviation>
+							<AUni
+								ws="en">LMorn</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2005-4-29 20:57:24.277" />
+						<DateModified
+							val="2005-4-29 20:57:24.277" />
+						<Discussion>
+							<StText
+								guid="83940946-fd76-4f93-ac83-fa2b96b4e607">
+								<DateModified
+									val="2011-2-2 19:19:27.848" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="98adce79-98ca-4291-a4cb-523d44191982">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Late Morning</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="b10d498c-eda7-4767-bdfb-75e686333d3d">
+				<Abbreviation>
+					<AUni
+						ws="en">Mid</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="f49c1845-62b0-4cc7-a832-9f708ccebcb0">
+						<DateModified
+							val="2011-2-2 19:19:27.848" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="bfc8a05a-fcc2-4922-bdf7-0bdce5a263d3">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Midday</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="0c2aad95-ece0-4e68-b018-923e33c03d07">
+				<Abbreviation>
+					<AUni
+						ws="en">Aft</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="65ce2825-4303-4b0d-a918-016eeff7e097">
+						<DateModified
+							val="2011-2-2 19:19:27.848" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="454502a8-46c5-4b74-910b-85269827fad2">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Afternoon</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<SubPossibilities>
+					<ownseq
+						class="CmPossibility"
+						guid="fa2b7bc9-c29c-4c6f-82b2-f0f1b22c7d7f">
+						<Abbreviation>
+							<AUni
+								ws="en">EAft</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2005-4-29 20:57:24.277" />
+						<DateModified
+							val="2005-4-29 20:57:24.277" />
+						<Discussion>
+							<StText
+								guid="1e91c051-a666-409b-a16e-8a79fb187960">
+								<DateModified
+									val="2011-2-2 19:19:27.848" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="c911d7b0-acc6-494e-a2d9-9bc3788dff50">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Early Afternoon</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+					<ownseq
+						class="CmPossibility"
+						guid="779277fe-ead7-4ae3-8518-b8bbfc3a20f3">
+						<Abbreviation>
+							<AUni
+								ws="en">LAft</AUni>
+						</Abbreviation>
+						<BackColor
+							val="-1073741824" />
+						<DateCreated
+							val="2005-4-29 20:57:24.277" />
+						<DateModified
+							val="2005-4-29 20:57:24.277" />
+						<Discussion>
+							<StText
+								guid="b538fcf9-d1e3-41e9-919c-e089d3424e3a">
+								<DateModified
+									val="2011-2-2 19:19:27.848" />
+								<Paragraphs>
+									<ownseq
+										class="StTxtPara"
+										guid="0b2dc8d6-9b81-4bfb-a742-6b7ed36ae6d6">
+										<ParseIsCurrent
+											val="False" />
+									</ownseq>
+								</Paragraphs>
+								<RightToLeft
+									val="False" />
+							</StText>
+						</Discussion>
+						<ForeColor
+							val="-1073741824" />
+						<Hidden
+							val="False" />
+						<IsProtected
+							val="False" />
+						<Name>
+							<AUni
+								ws="en">Late Afternoon</AUni>
+						</Name>
+						<SortSpec
+							val="0" />
+						<UnderColor
+							val="-1073741824" />
+						<UnderStyle
+							val="0" />
+					</ownseq>
+				</SubPossibilities>
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="25fb1f2a-cb66-411b-8c70-d91b82d9187e">
+				<Abbreviation>
+					<AUni
+						ws="en">Eve</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="def858b6-6cb5-49f1-a876-dc37841400eb">
+						<DateModified
+							val="2011-2-2 19:19:27.848" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="25729f33-1ba1-49f1-bcf8-07973aa8c376">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Evening</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="bd60e2af-d0ee-4f3c-bad3-6c5dbda4026e">
+				<Abbreviation>
+					<AUni
+						ws="en">Night</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="61cc2448-3f79-4e99-b0e9-30b6a3e39eaf">
+						<DateModified
+							val="2011-2-2 19:19:27.848" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="2c76384c-359c-46e5-9aff-980cb7881b98">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Night</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPossibility"
+				guid="940ed930-fad3-4f5d-a574-566ca2b0192d">
+				<Abbreviation>
+					<AUni
+						ws="en">Midnight</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2005-4-29 20:57:23.663" />
+				<DateModified
+					val="2005-4-29 20:57:23.663" />
+				<Discussion>
+					<StText
+						guid="8f189359-ba19-4691-a1c4-ec1a5501ceb0">
+						<DateModified
+							val="2011-2-2 19:19:27.849" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="352d3700-9cd2-456f-927f-855a70977ebb">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Midnight</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</TimeOfDay>

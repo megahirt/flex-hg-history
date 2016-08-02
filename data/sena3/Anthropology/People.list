@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<People>
+	<CmPossibilityList
+		guid="a1521090-95dd-42a0-b94f-6f833b8fb088">
+		<Abbreviation>
+			<AUni
+				ws="en">Part</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-4-29 20:57:23.460" />
+		<DateModified
+			val="2006-9-7 16:0:57.417" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="true" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="13" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">People</AUni>
+			<AUni
+				ws="pt">Pessoas</AUni>
+		</Name>
+		<Possibilities>
+			<ownseq
+				class="CmPerson"
+				guid="5d543e4f-50d7-41fe-93a7-cf851c1d229e">
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2006-1-31 16:53:39.707" />
+				<DateModified
+					val="2006-1-31 16:53:39.707" />
+				<DateOfBirth
+					val="-000000000" />
+				<DateOfDeath
+					val="-000000000" />
+				<Discussion>
+					<StText
+						guid="e71133eb-6b1c-46a7-a563-54f4b33ca0f4">
+						<DateModified
+							val="2011-2-2 19:19:27.752" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="53d36ca6-b852-44b0-9d7d-92e1216689d2">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Gender
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="true" />
+				<IsResearcher
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Default User</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPerson"
+				guid="4b3bf4da-060f-49fa-93e8-42b49c93c200">
+				<Abbreviation>
+					<AUni
+						ws="en">A</AUni>
+					<AUni
+						ws="pt">A</AUni>
+					<AUni
+						ws="seh">A</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2006-9-7 15:56:8.340" />
+				<DateModified
+					val="2006-9-7 15:57:3.683" />
+				<DateOfBirth
+					val="-000000000" />
+				<DateOfDeath
+					val="-000000000" />
+				<Discussion>
+					<StText
+						guid="9c0816b9-d795-44f3-9dcd-b8b2bb09e7b6">
+						<DateModified
+							val="2011-2-2 19:19:27.752" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="3ea633bf-698b-411a-b64d-1c5b168d9390">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Gender
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<IsResearcher
+					val="False" />
+				<Name>
+					<AUni
+						ws="seh">Alicete</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPerson"
+				guid="fa38d72b-f432-4bf7-a04a-b069e983ba2f">
+				<Abbreviation>
+					<AUni
+						ws="en">Nya</AUni>
+					<AUni
+						ws="pt">Nya</AUni>
+					<AUni
+						ws="seh">Nya</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2006-9-7 15:56:23.193" />
+				<DateModified
+					val="2006-9-7 15:57:12.337" />
+				<DateOfBirth
+					val="-000000000" />
+				<DateOfDeath
+					val="-000000000" />
+				<Discussion>
+					<StText
+						guid="4154983d-804e-4ac9-9261-69b5954d434e">
+						<DateModified
+							val="2011-2-2 19:19:27.752" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="bac206cb-8829-4908-a30c-733d31b8afbc">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Gender
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<IsResearcher
+					val="False" />
+				<Name>
+					<AUni
+						ws="seh">Nyazeze</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPerson"
+				guid="5de23bb8-37c0-4dc5-813f-4de891636fb0">
+				<Abbreviation>
+					<AUni
+						ws="en">T</AUni>
+					<AUni
+						ws="pt">T</AUni>
+					<AUni
+						ws="seh">T</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2006-9-7 15:56:44.670" />
+				<DateModified
+					val="2006-9-7 15:56:44.670" />
+				<DateOfBirth
+					val="-000000000" />
+				<DateOfDeath
+					val="-000000000" />
+				<Discussion>
+					<StText
+						guid="37a816e6-bcd3-421d-a69c-7a0a591d9d3b">
+						<DateModified
+							val="2011-2-2 19:19:27.752" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="e363dd8c-5825-4cd8-b6f9-e40b26fb3c22">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Gender
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<IsResearcher
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Troutman</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPerson"
+				guid="15211ba9-957e-4502-a03b-ffb08e92d8f0">
+				<Abbreviation>
+					<AUni
+						ws="en">C</AUni>
+					<AUni
+						ws="pt">C</AUni>
+					<AUni
+						ws="seh">C</AUni>
+				</Abbreviation>
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2006-9-7 15:58:41.953" />
+				<DateModified
+					val="2006-9-7 15:59:0.90" />
+				<DateOfBirth
+					val="-000000000" />
+				<DateOfDeath
+					val="-000000000" />
+				<Discussion>
+					<StText
+						guid="1007173e-9322-4722-bb22-bb78c03c2207">
+						<DateModified
+							val="2011-2-2 19:19:27.752" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="c39e7db1-84eb-43ea-b965-f9caaa8ec62d">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Gender
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<IsResearcher
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">Review Committee</AUni>
+					<AUni
+						ws="seh">Comité</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+			<ownseq
+				class="CmPerson"
+				guid="d1200037-b933-4b5d-a297-d89c5ac366ba">
+				<BackColor
+					val="-1073741824" />
+				<DateCreated
+					val="2006-9-7 16:0:57.400" />
+				<DateModified
+					val="2006-9-7 16:1:1.40" />
+				<DateOfBirth
+					val="-000000000" />
+				<DateOfDeath
+					val="-000000000" />
+				<Discussion>
+					<StText
+						guid="1b5a4470-862f-4d66-998b-357e6125e206">
+						<DateModified
+							val="2011-2-2 19:19:27.752" />
+						<Paragraphs>
+							<ownseq
+								class="StTxtPara"
+								guid="34f99580-7732-4669-80b6-4a4b56627418">
+								<ParseIsCurrent
+									val="False" />
+							</ownseq>
+						</Paragraphs>
+						<RightToLeft
+							val="False" />
+					</StText>
+				</Discussion>
+				<ForeColor
+					val="-1073741824" />
+				<Gender
+					val="0" />
+				<Hidden
+					val="False" />
+				<IsProtected
+					val="False" />
+				<IsResearcher
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">George</AUni>
+					<AUni
+						ws="seh">Jorge</AUni>
+				</Name>
+				<SortSpec
+					val="0" />
+				<UnderColor
+					val="-1073741824" />
+				<UnderStyle
+					val="0" />
+			</ownseq>
+		</Possibilities>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="true" />
+		<WsSelector
+			val="-6" />
+	</CmPossibilityList>
+</People>

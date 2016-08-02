@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="db094e82-30fd-4f62-81e8-9c4015bfbd7f">
+		<Contents>
+			<StText
+				guid="95663db0-64d9-41f8-ab11-e388ce54e3f2">
+				<DateModified
+					val="2011-2-2 19:19:27.848" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="43dd3703-0fb5-45e0-a2fb-93d9a19431fb">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Ngwa pyacitwa, pyacitwa na nkazi na mamuna abala mwana wawo m'bodzi.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="efa04f83-2d6d-4dd7-90df-d057b4aefe05">
+								<Analyses>
+									<refseq
+										guid="a3745f4b-4572-4743-bfc1-f815ce249cbc"
+										t="r" />
+									<refseq
+										guid="8765f336-6a32-4fce-8c31-21eb6f0f3a0f"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="8765f336-6a32-4fce-8c31-21eb6f0f3a0f"
+										t="r" />
+									<refseq
+										guid="486e2a8f-1a63-4f50-894c-b8a7024afc47"
+										t="r" />
+									<refseq
+										guid="910dc543-b9b8-4a15-9752-12f47b082bc0"
+										t="r" />
+									<refseq
+										guid="98722787-771d-44fb-b9f4-883c38750087"
+										t="r" />
+									<refseq
+										guid="f2fe764d-df98-427e-928a-72e4844b2f51"
+										t="r" />
+									<refseq
+										guid="7e834f05-56f1-49cb-9c1e-69e842d16654"
+										t="r" />
+									<refseq
+										guid="04c701ec-522a-4d67-9e4f-00a68fc436a0"
+										t="r" />
+									<refseq
+										guid="0a7fca29-c0fc-4c7a-a3af-cc2e216f35fb"
+										t="r" />
+									<refseq
+										guid="45e2f620-9246-4d3c-afab-30f3195fcfe7"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Era uma vez aconteceu que mulher e homem deu a luz criança deles um.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="2719e825-5639-4d27-8eda-582367659bcc">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Iwo mbalonga tenepa: "Mwanathu uxu, anafuna kunsemba mwanathu akhale munthu ana anji? Ana mpfuma."</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="83360f37-ff92-4910-8ceb-360d51c342c2">
+								<Analyses>
+									<refseq
+										guid="ae28c327-72dd-4576-b895-25a2e83954c0"
+										t="r" />
+									<refseq
+										guid="bcb184cf-eab0-4d95-b6ef-8376e56229e3"
+										t="r" />
+									<refseq
+										guid="27d934bd-66de-4ad5-87af-90d1ae035e67"
+										t="r" />
+									<refseq
+										guid="f18cbc68-e87d-4880-9627-099b66a767de"
+										t="r" />
+									<refseq
+										guid="06602087-dcf2-437e-bf74-6b9eec7e4cec"
+										t="r" />
+									<refseq
+										guid="b189ee5d-f327-494c-910d-1465fcb33651"
+										t="r" />
+									<refseq
+										guid="79277be6-1960-43bf-9b48-1fe0aff1a0d1"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="6e4ee1a6-331f-43b1-ac1a-80aa8e8293c5"
+										t="r" />
+									<refseq
+										guid="d9e84dcd-3c82-4e1e-a14e-e0ec689dfe6d"
+										t="r" />
+									<refseq
+										guid="b808983e-1d98-4d1b-a130-337cd3106690"
+										t="r" />
+									<refseq
+										guid="5b65ac85-7a65-4148-9a92-05c8d7f0b203"
+										t="r" />
+									<refseq
+										guid="aa834ca0-8300-4348-9810-40205b656df4"
+										t="r" />
+									<refseq
+										guid="7e09e697-ac8a-4cc9-9e57-aa4f2d471f78"
+										t="r" />
+									<refseq
+										guid="01341f99-fb35-468b-9b1d-d050c6f70b83"
+										t="r" />
+									<refseq
+										guid="a3851659-855b-4055-9e09-c68ad5feb73a"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Eles disseram assim: "Este nossa filha, aquele que quer casar a nossa filha deve ser um homem que tem o quê?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="7e30ddf7-ba0a-4486-85e8-13f3d1617769">
+								<Analyses>
+									<refseq
+										guid="71a201ee-c392-4976-a3fe-be8fd6829a73"
+										t="r" />
+									<refseq
+										guid="463aa278-059b-4288-b0dd-334794d6a4f6"
+										t="r" />
+									<refseq
+										guid="6f61f463-9c75-49a2-9484-118e47591655"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="86" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Que tem riqueza."</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="396ec69c-c435-42d2-be96-d6c48c30e882">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Mbakhabwera aphale penepo.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="dd7e51cc-8e0b-4a3a-a093-a98c739313fd">
+								<Analyses>
+									<refseq
+										guid="c2c42caf-5bf1-4303-bc89-ceff02a98503"
+										t="r" />
+									<refseq
+										guid="38c189e7-2542-4e69-8d93-8b4434ee1961"
+										t="r" />
+									<refseq
+										guid="147d002f-7e38-4a6d-8d0c-3d5930f2d179"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Vieram muitos jovens para lá.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="67b69e57-d5eb-431f-8e9d-7399496b0bba">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Iwo akhakhonda.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="32a53222-ead4-4a69-a878-48864dcd762e">
+								<Analyses>
+									<refseq
+										guid="ae28c327-72dd-4576-b895-25a2e83954c0"
+										t="r" />
+									<refseq
+										guid="f3c72b35-b5f3-4a86-aad8-8946dbaaf260"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Eles negavam.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="fea74994-b581-4e54-9fa8-4e7b6406495b">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Pai wace akhalonga kuti: "Iwe una mpfuma?"</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="3b02318c-4182-4b73-9c5f-17aece983260">
+								<Analyses>
+									<refseq
+										guid="a39faee6-bd3b-4e23-b106-a1e5e7a451d1"
+										t="r" />
+									<refseq
+										guid="b7c61810-ddd4-4433-8b68-943a7290d232"
+										t="r" />
+									<refseq
+										guid="cb47739f-4a12-44a3-988b-88d231a4d751"
+										t="r" />
+									<refseq
+										guid="3da300fc-2229-4f75-b218-30be82326b59"
+										t="r" />
+									<refseq
+										guid="f18cbc68-e87d-4880-9627-099b66a767de"
+										t="r" />
+									<refseq
+										guid="06602087-dcf2-437e-bf74-6b9eec7e4cec"
+										t="r" />
+									<refseq
+										guid="053caaef-cf5d-4d13-b2b4-a6c6684102ea"
+										t="r" />
+									<refseq
+										guid="6cfd473e-91ba-474e-900e-e6abbd24a42d"
+										t="r" />
+									<refseq
+										guid="463aa278-059b-4288-b0dd-334794d6a4f6"
+										t="r" />
+									<refseq
+										guid="e42d8b23-c3a7-4fa3-8e71-9774e57fde57"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Pai dela dizia: "Tens riqueza?"</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="ac263250-2f65-4dcf-bcb8-7dea1058e823">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Iye ati: "Nkhabe." Mbakhonda.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="280b4117-e6da-46a9-b818-99da0d5ed8ff">
+								<Analyses>
+									<refseq
+										guid="4bf6f00b-b3de-41bc-8a63-6d89e4e47648"
+										t="r" />
+									<refseq
+										guid="bc310ef0-fd1e-4bf4-8640-3146e99d7e98"
+										t="r" />
+									<refseq
+										guid="f18cbc68-e87d-4880-9627-099b66a767de"
+										t="r" />
+									<refseq
+										guid="06602087-dcf2-437e-bf74-6b9eec7e4cec"
+										t="r" />
+									<refseq
+										guid="ee13695b-aaf6-4567-8ec6-a441a34dff15"
+										t="r" />
+									<refseq
+										guid="6f61f463-9c75-49a2-9484-118e47591655"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Ele disse, "Não."</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="84727d98-18be-42c6-89f1-1c572a8d0267">
+								<Analyses>
+									<refseq
+										guid="fd439c9b-76bc-4474-a322-199b3d7e046e"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="19" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">E eles recusaram.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="69b1de55-5ed1-4eea-b7d3-f970d54f35f2">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Mbabwera unango wa ciwiri, mbakhonda.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="48428281-6b0f-4308-8092-008c516999e6">
+								<Analyses>
+									<refseq
+										guid="e507c53c-862a-4e7d-a2a4-4fa39ad4bd33"
+										t="r" />
+									<refseq
+										guid="96d3b13b-af9e-48b7-b823-77365eb9e606"
+										t="r" />
+									<refseq
+										guid="2aadcce4-db68-4212-8608-cdbd708cd5a1"
+										t="r" />
+									<refseq
+										guid="78f43bff-4c0c-4de7-8ad1-bb9c5e973c00"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="fd439c9b-76bc-4474-a322-199b3d7e046e"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Veio segundo, e eles recusaram.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="2653af06-ba5a-4411-9c70-a9df9b0f1764">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Ntsiku inango abwera thika.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="07c92425-3902-4468-980a-cca4cb24b190">
+								<Analyses>
+									<refseq
+										guid="a77654c8-69ff-4f3f-8ad7-c25bdc7b8c1e"
+										t="r" />
+									<refseq
+										guid="0c399a06-9ea7-4ccd-8f3c-7f76630a7779"
+										t="r" />
+									<refseq
+										guid="7ef90197-6456-4853-b95c-dffa23073788"
+										t="r" />
+									<refseq
+										guid="67810120-cc87-43cc-a2ac-4fbc00b17ff7"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Um outro dia veio hiena.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="69278297-c2dc-4c7c-8b46-dd294cd2d528">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Thika ule asanduka. Abwera munthu.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="613254e1-0b74-4077-85f5-b562b981d5fa">
+								<Analyses>
+									<refseq
+										guid="67810120-cc87-43cc-a2ac-4fbc00b17ff7"
+										t="r" />
+									<refseq
+										guid="00bcc78d-9ff6-45df-b97c-bd84905feffb"
+										t="r" />
+									<refseq
+										guid="b9178825-b7df-42e1-ab91-34483e4b1843"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Hiena transformou.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="09ebc5bf-8b84-4fbd-be32-3bdf66954576">
+								<Analyses>
+									<refseq
+										guid="7ef90197-6456-4853-b95c-dffa23073788"
+										t="r" />
+									<refseq
+										guid="aa834ca0-8300-4348-9810-40205b656df4"
+										t="r" />
+									<refseq
+										guid="fd549cf7-9d07-435a-b0dd-52e3eb8c7dcd"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="20" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Tornou-se uma pessoa.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="fe0f0a22-cd7d-4a90-ab0c-49f3f86aa8b6">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Pidabwereye, iye mbafika, mbalonga kuti: "Pai, mamuna anafunene ndule."</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="c42c5d69-2acc-47c8-be62-c8befbb9439a">
+								<Analyses>
+									<refseq
+										guid="b47ae167-4fb3-435b-aa03-b4085283c986"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="27a8e363-95c0-4cd1-abc1-0481141f71ae"
+										t="r" />
+									<refseq
+										guid="ac0ecc60-bdd5-4fe8-a9c3-91d34e4e9269"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="8210dd5f-49a1-4246-b611-17fd14277ada"
+										t="r" />
+									<refseq
+										guid="3da300fc-2229-4f75-b218-30be82326b59"
+										t="r" />
+									<refseq
+										guid="f18cbc68-e87d-4880-9627-099b66a767de"
+										t="r" />
+									<refseq
+										guid="06602087-dcf2-437e-bf74-6b9eec7e4cec"
+										t="r" />
+									<refseq
+										guid="06482680-8135-4762-8bfc-ac383f9dacb0"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="f2fe764d-df98-427e-928a-72e4844b2f51"
+										t="r" />
+									<refseq
+										guid="69ebc355-7a9e-4bdf-953e-d2ec93aabbdb"
+										t="r" />
+									<refseq
+										guid="8a801bd4-379e-430e-9165-55184d91ef78"
+										t="r" />
+									<refseq
+										guid="6f61f463-9c75-49a2-9484-118e47591655"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Quando ele veio, ela chegou e disse: "Pai, o marido que eu quero é aquele."</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="27c2e08d-f397-4be2-8a77-0922ca1db6fd">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">Mwana ule, pidalongeye tenepa mwana kuti "Mamuna anafunene ndule", apai wace atawirambo,</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="a36783ab-d681-4f56-9756-3106d7520251">
+								<Analyses>
+									<refseq
+										guid="04c701ec-522a-4d67-9e4f-00a68fc436a0"
+										t="r" />
+									<refseq
+										guid="00bcc78d-9ff6-45df-b97c-bd84905feffb"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="ddd0e4c9-f365-4467-a696-ddf8d6ba1c47"
+										t="r" />
+									<refseq
+										guid="96ee38b3-49f7-48b3-b181-35c09672b9a7"
+										t="r" />
+									<refseq
+										guid="04c701ec-522a-4d67-9e4f-00a68fc436a0"
+										t="r" />
+									<refseq
+										guid="17278697-5959-40c0-9dc4-f109feeab39c"
+										t="r" />
+									<refseq
+										guid="06602087-dcf2-437e-bf74-6b9eec7e4cec"
+										t="r" />
+									<refseq
+										guid="de612147-24f0-4412-b392-edeaec9da804"
+										t="r" />
+									<refseq
+										guid="69ebc355-7a9e-4bdf-953e-d2ec93aabbdb"
+										t="r" />
+									<refseq
+										guid="8a801bd4-379e-430e-9165-55184d91ef78"
+										t="r" />
+									<refseq
+										guid="af08345a-95ad-428d-a997-39f4d519f15e"
+										t="r" />
+									<refseq
+										guid="47aa1e83-3ec8-4b68-9cd5-b2a5085752e8"
+										t="r" />
+									<refseq
+										guid="b7c61810-ddd4-4433-8b68-943a7290d232"
+										t="r" />
+									<refseq
+										guid="9ab8948c-2d3a-443f-94b5-4bf742bcec24"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">Aquela filha, quando a criança disse assim que "O marido que eu quero é aquele, os pais dela aceitou também,</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="51702636-f8ff-49f0-b71a-a45b3093e4d0">
+						<Contents>
+							<Str>
+								<Run
+									ws="seh">mbalonga, "Ande, ife tiri kumuonadi kuti unowu ndi wanji? Ndwa kupfuma." ...</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="75a299a8-4ddd-4239-b7d4-9c089d414efd">
+								<Analyses>
+									<refseq
+										guid="bad35c56-f937-42b8-9f8a-9f6f0e0e1d2e"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="06602087-dcf2-437e-bf74-6b9eec7e4cec"
+										t="r" />
+									<refseq
+										guid="e1ded3e7-b8cf-4b87-9fe7-0641d96e9d4b"
+										t="r" />
+									<refseq
+										guid="e631f9a8-3582-41a5-b684-09ca17980a02"
+										t="r" />
+									<refseq
+										guid="32b5c98f-e1f0-4150-b0cf-e81eaa04dd43"
+										t="r" />
+									<refseq
+										guid="ac6a1e27-978a-4f88-b121-e6df3d92d8c3"
+										t="r" />
+									<refseq
+										guid="8ea8347e-0f36-4572-b2e3-1a5a582139a1"
+										t="r" />
+									<refseq
+										guid="17278697-5959-40c0-9dc4-f109feeab39c"
+										t="r" />
+									<refseq
+										guid="9189bc87-28e2-4f07-bc39-6e789879b7e6"
+										t="r" />
+									<refseq
+										guid="f7d23157-86b7-43d2-b64f-3b6bcf76f226"
+										t="r" />
+									<refseq
+										guid="f0d577df-f05f-431a-9b6d-eacf461a27b8"
+										t="r" />
+									<refseq
+										guid="a3851659-855b-4055-9e09-c68ad5feb73a"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">e disse, "Sim, nós estamos a ver verdadeiramente que aquele é o quê?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="9b499f86-0564-470f-8f9a-1a5c8fd937ae">
+								<Analyses>
+									<refseq
+										guid="0b741289-7c32-4335-81d4-b21a82a352e9"
+										t="r" />
+									<refseq
+										guid="29f6da03-8881-4d28-88f2-eaad048be84b"
+										t="r" />
+									<refseq
+										guid="6f61f463-9c75-49a2-9484-118e47591655"
+										t="r" />
+									<refseq
+										guid="b2e5ec6b-eff9-4903-8c67-36d55e491540"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="58" />
+								<FreeTranslation>
+									<AStr
+										ws="pt">
+										<Run
+											ws="pt">"É rico."</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2009-4-9 15:51:8.593" />
+		<DateModified
+			val="2009-4-9 17:35:37.687" />
+		<Description>
+			<AStr
+				ws="en">
+				<Run
+					ws="seh">Thika na Ntsikana ("The Hyena and the Girl") (c) Madalena Lede, used by permission</Run>
+			</AStr>
+		</Description>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">The Hyena and the Girl</AUni>
+			<AUni
+				ws="pt">O Hiena e a Rapariga</AUni>
+			<AUni
+				ws="seh">Thika na Ntsikana</AUni>
+		</Name>
+	</Text>
+</TextInCorpus>

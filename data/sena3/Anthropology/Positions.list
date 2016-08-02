@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Positions>
+	<CmPossibilityList
+		guid="31d9855d-6ccd-4a61-af97-b57213fa870d">
+		<Abbreviation>
+			<AUni
+				ws="en">Posn</AUni>
+		</Abbreviation>
+		<DateCreated
+			val="2005-4-29 20:57:23.460" />
+		<DateModified
+			val="2005-4-29 20:57:23.460" />
+		<Depth
+			val="1" />
+		<DisplayOption
+			val="0" />
+		<IsClosed
+			val="False" />
+		<IsSorted
+			val="False" />
+		<IsVernacular
+			val="False" />
+		<ItemClsid
+			val="7" />
+		<ListVersion
+			val="00000000-0000-0000-0000-000000000000" />
+		<Name>
+			<AUni
+				ws="en">Positions</AUni>
+			<AUni
+				ws="pt">Posições</AUni>
+		</Name>
+		<PreventChoiceAboveLevel
+			val="0" />
+		<PreventDuplicates
+			val="False" />
+		<PreventNodeChoices
+			val="False" />
+		<UseExtendedFields
+			val="False" />
+		<WsSelector
+			val="-3" />
+	</CmPossibilityList>
+</Positions>
