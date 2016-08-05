@@ -14,10 +14,13 @@ class TestMain(unittest.TestCase):
         '''
         with self.assertRaises(SystemExit):
             main.main([]);
+        # Non-existent directory
         with self.assertRaises(SystemExit):
             main.main(['python3', '/path/to/dir', '19', '20'])
-        # Relies on existence of Fieldworks Language Explorer database in the 
-        # project directory.
+        # Invalid revision numbers, but correctly points to a Fieldworks 
+        # Language Explorer database in the project directory.
         with self.assertRaises(SystemExit):
             main.main(['python3', '../data/sena3', '18', '24.6'])
-            
+        # Valid arguments, but directory is not a Mercurial repository 
+        with self.assertRaises(SystemExit):
+            main.main(['python3', '../data/', '18', '20'])

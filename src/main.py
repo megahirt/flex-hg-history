@@ -4,7 +4,7 @@ Created on Aug 5, 2016
 @author: Nathaniel Paulus
 '''
 
-import sys, os
+import sys, os, subprocess
 
 def invalid_usage(msg):
     '''
@@ -15,7 +15,7 @@ def invalid_usage(msg):
     if msg: print('Error: ' + msg)
     print('Usage: python3 [path to Mercurial repository] [start revision] [end revision]\n'
           'For example: python3 data/sena3/ 18 20')
-    sys.exit(1);
+    sys.exit(1)
 
 def main(args):
     if len(args) != 4:
@@ -33,8 +33,16 @@ def main(args):
         invalid_usage('Start and end revisions must be integers.')
     else:
         start, end = int(start), int(end)
-        print('Reached end successfully.')
-
+    
+    # Validate that the directory provided is a Mercurial repository
+    env = os.environ.copy()
+    if 'PYTHONPATH' in env: del env['PYTHONPATH']
+    if subprocess.run(['hg', 'status'], cwd=path, env=env, stdout=open(os.devnull, 'w')).returncode != 0:
+        invalid_usage('The {} directory is not a Mercurial repository '
+                      '(non-zero zero exit status running "hg status").'.format(path))
+    
+    print("Reached end.")
+    
 if __name__ == '__main__':
-    main(sys.argv);
+    main(sys.argv)
     
