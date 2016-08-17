@@ -4,7 +4,7 @@ Created on Aug 5, 2016
 @author: Nathaniel Paulus
 '''
 
-import sys, os, subprocess
+import sys, os, diff
 
 def invalid_usage(msg):
     '''
@@ -35,14 +35,13 @@ def main(args):
         start, end = int(start), int(end)
     
     # Validate that the directory provided is a Mercurial repository
-    env = os.environ.copy()
-    if 'PYTHONPATH' in env: del env['PYTHONPATH']
-    if subprocess.run(['hg', 'status'], cwd=path, env=env, stdout=open(os.devnull, 'w')).returncode != 0:
+    if diff.run_process(['hg', 'status'], cwd=path).returncode != 0:
         invalid_usage('The {} directory is not a Mercurial repository '
                       '(non-zero zero exit status running "hg status").'.format(path))
     
-    print("Reached end.")
+    changes = diff.diff_revisions(path, start, end)
+    
+    print("Lexical entries added: {} Removed: {}".format(changes[0], changes[1]))
     
 if __name__ == '__main__':
     main(sys.argv)
-    

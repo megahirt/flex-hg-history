@@ -13,12 +13,12 @@ class TestMain(unittest.TestCase):
         Script should exit when supplied with invalid arguments.
         '''
         with self.assertRaises(SystemExit):
-            main.main([]);
+            main.main([])
         # Non-existent directory
         with self.assertRaises(SystemExit):
             main.main(['python3', '/path/to/dir', '19', '20'])
-        # Invalid revision numbers, but correctly points to a Fieldworks 
-        # Language Explorer database in the project directory.
+        # Invalid revision numbers, but correctly points to a FLEx database in
+        # the project directory.
         with self.assertRaises(SystemExit):
             main.main(['python3', '../data/sena3', '18', '24.6'])
         # Valid arguments, but directory is not a Mercurial repository 
