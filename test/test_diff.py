@@ -11,16 +11,15 @@ class TestDiff(unittest.TestCase):
         # Note: These tests are slow. Temporarily comment them out if they are 
         # slowing you down too much.
         
-        self.assertEqual(diff.diff_revisions('../data/sena3', 13, 14), (0, 1))
-        self.assertEqual(diff.diff_revisions('../data/sena3', 17, 18), (0, 0))
-        self.assertEqual(diff.diff_revisions('../data/sena3', 18, 19), (1, 0))
-        self.assertEqual(diff.diff_revisions('../data/sena3', 19, 20), (0, 0))
+        self.assertEqual(diff.diff_revisions('../data/sena3', 13, 14), (0, 2, 1))
+        self.assertEqual(diff.diff_revisions('../data/sena3', 17, 18), (0, 1, 0))
+        self.assertEqual(diff.diff_revisions('../data/sena3', 18, 19), (1, 0, 0))
+        self.assertEqual(diff.diff_revisions('../data/sena3', 19, 20), (0, 4, 0))
 
-        # The following test incorrectly assumes that a GUID removed will not 
-        # be re-added. It so happens that 24deb938-d6b8-4827-b563-4bd1f7d18e23 
+        # Oddly, the lexical entry with GUID 24deb938-d6b8-4827-b563-4bd1f7d18e23 
         # is removed in revision 14, but added in version 19. Not sure what the 
         # implications of that are. 
-        #self.assertEqual(diff.diff_revisions('../data/sena3', 13, 20), (1, 1))        
+        self.assertEqual(diff.diff_revisions('../data/sena3', 13, 20), (0, 5, 0)) 
 
     def test_run_process(self):
         '''

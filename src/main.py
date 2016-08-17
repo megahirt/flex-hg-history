@@ -41,7 +41,9 @@ def main(args):
     
     changes = diff.diff_revisions(path, start, end)
     
-    print("Lexical entries added: {} Removed: {}".format(changes[0], changes[1]))
+    print('Summary of changes to lexical entries from revision {} to {}: '
+          '\n    Added: {}\n    Modified: {}\n    Removed: {}'
+          .format(start, end, *changes))
     
 if __name__ == '__main__':
     main(sys.argv)
