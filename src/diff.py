@@ -57,6 +57,26 @@ def diff_revisions(cwd, a, b):
     return old.compare(new)
     
 
+def authors(cwd, a, b):
+    '''
+    List the users who made changes between revisions a and b, in the repo
+    specified by cwd.
+    '''
+    changes = run_process(['hg', 'log', '--rev', '{}:{}'.format(a+1, b)], cwd).stdout
+    users = []
+    
+    for line in changes.strip().splitlines():
+        if line.startswith('user:        '):
+            users.append(line[len('user:        '):])
+    
+    # Remove duplicates (using a set wouldn't preserve order)
+    unique_users = []
+    for user in users:
+        if user in unique_users: continue
+        else: unique_users.append(user)
+    
+    return list(unique_users)
+
 # Declare the environment for subprocesses, removing PYTHONPATH. This is 
 # Necessary when PYTHONPATH is set for Python 3 (not always the case), because
 # Mercurial is written in Python 2.

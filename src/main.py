@@ -45,5 +45,12 @@ def main(args):
           '\n    Added: {}\n    Modified: {}\n    Removed: {}'
           .format(start, end, *changes))
     
+    authors = diff.authors(path, start, end)
+    
+    print('These changes were made by the following users: ')
+    for author in authors:
+        print('    ' + author)
+    
+    
 if __name__ == '__main__':
     main(sys.argv)
