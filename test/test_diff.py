@@ -27,8 +27,11 @@ class TestDiff(unittest.TestCase):
         '''
         Should be able to run Python and exit successfully.
         '''
-        completed = diff.run_process(['python', '--version'])
-        self.assertEqual(completed.returncode, 0)
+        output = diff.stdout(['python3', '-c', 'print("hello world")'], repo)
+        self.assertEqual(output, 'hello world\n', )
+        
+    def test_status_code(self):
+        self.assertEqual(diff.status_code(['python3', '--version']), 0)
     
     def test_hgcat(self):
         self.assertTrue(diff.hgcat('Linguistics/Lexicon/Lexicon_05.lexdb', 20, repo).endswith('</Lexicon>'))

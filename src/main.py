@@ -35,7 +35,7 @@ def main(args):
         start, end = int(start), int(end)
     
     # Validate that the directory provided is a Mercurial repository
-    if diff.run_process(['hg', 'status'], cwd=path).returncode != 0:
+    if diff.status_code(['hg', 'status'], cwd=path) != 0:
         invalid_usage('The {} directory is not a Mercurial repository '
                       '(non-zero zero exit status running "hg status").'.format(path))
     
