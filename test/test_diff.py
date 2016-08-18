@@ -36,11 +36,6 @@ class TestDiff(unittest.TestCase):
     def test_hgcat(self):
         self.assertTrue(diff.hgcat('Linguistics/Lexicon/Lexicon_05.lexdb', 20, repo).endswith('</Lexicon>'))
     
-    def test_guids(self):
-        self.assertEqual(diff.guids(''), [])
-        xml = '<Lexicon><LexEntry guid="fe3514ca-e963-4c15-9d26-badc670770f3"></LexEntry></Lexicon>'
-        self.assertEqual(diff.guids(xml), ['fe3514ca-e963-4c15-9d26-badc670770f3'])
-        
     def test_authors(self):
         self.assertEqual(diff.authors(repo, 12, 20), ['chris', 'www-data'])
         

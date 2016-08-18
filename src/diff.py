@@ -5,9 +5,10 @@ Created on Aug 5, 2016
 '''
 
 import subprocess, os
-import xml.etree.cElementTree as ET
+import xml.etree.ElementTree as ET
 from lexentry import LexEntry
 from lexentry import Lexicon
+
 
 def diff_revisions(cwd, a, b):
     '''
@@ -79,25 +80,6 @@ def authors(cwd, a, b):
 # Mercurial is written in Python 2.
 env = os.environ.copy()
 if 'PYTHONPATH' in env: del env['PYTHONPATH']
-
-def guids(xml):
-    '''
-    Find and return the GUIDs of the LexEntry's in the given XML.
-    
-    If the specified XML is an empty string, return an empty array. Otherwise 
-    return a list of GUIDs that are on LexEntry tags. 
-    '''
-    
-    if xml == '':
-        return []
-    
-    ids = []
-    root = ET.fromstring(xml)
-    for child in root:
-        if child.tag == "LexEntry":
-            ids.append(child.attrib['guid'])
-            
-    return ids
 
 def stdout(args, cwd=None):
     '''

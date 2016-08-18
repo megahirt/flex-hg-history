@@ -7,7 +7,7 @@ import unittest
 
 from lexentry import LexEntry, equal_xml_nodes
 from lexentry import Lexicon
-import xml.etree.cElementTree as ET
+import xml.etree.ElementTree as ET
 
 # Test helper data
 root = ET.fromstring('<Lexicon><LexEntry guid="fe3514ca-e963-4c15-9d26-badc670770f3">'
